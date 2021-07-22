@@ -1,54 +1,38 @@
 @@,name,position
-->,Winston Peters->Nanaia Mahuta,Minister of Foreign Affairs
-->,Tracey Martin->Jan Tinetti,Minister of Internal Affairs
-->,Ron Mark->Peeni Henare,Minister of Defence
-->,Eugenie Sage->Kiri Allan,Minister of Conservation
-->,Chris Hipkins->Andrew Little,Minister of Health
-->,Andrew Little->Kris Faafoi,Minister of Justice
----,Winston Peters,Minister of Racing
----,Phil Twyford,Minister for Social Housing
----,Nanaia Mahuta,Minister for Maori Development
+->,Willie Jackson,Minister for Maori Development->Minister for Māori Development
 ---,Jacinda Ardern,Prime Minister of New Zealand
 ---,Grant Robertson,Deputy Prime Minister of New Zealand
 ---,David Parker,Attorney-General of New Zealand
----,Anne Tolley,Minister of Social Development
-+++,Willie Jackson,Minister for Māori Development
-+++,Stuart Nash,Minister for Small Business
-+++,Stuart Nash,Minister for Economic and Regional Development
-+++,Stuart Nash,Minister of Tourism
 +++,Stuart Nash,Minister of Forestry
-+++,Poto Williams,Minister of Police
-+++,Poto Williams,Minister for Building and Construction
-+++,Peeni Henare,Minister for Whānau Ora
-+++,Nanaia Mahuta,Minister of Local Government
-+++,Michael Wood,Minister of Transport
-+++,Michael Wood,Minister for Workplace Relations and Safety
++++,Stuart Nash,Minister for Small Business
++++,Stuart Nash,Minister of Tourism
++++,Peeni Henare,Minister of Defence
++++,Nanaia Mahuta,Minister of Foreign Affairs
++++,Megan Woods,Minister of Housing
 +++,Megan Woods,Minister of Energy and Resources
 +++,Megan Woods,"Minister of Research, Science and Innovation"
-+++,Megan Woods,Minister of Housing
-+++,Kris Faafoi,Minister for Broadcasting and Media
 +++,Kris Faafoi,Minister of Immigration
-+++,Kiri Allan,Minister for Emergency Management
-+++,Kelvin Davis,Minister of Corrections
-+++,Kelvin Davis,Minister for Māori Crown Relations: Te Arawhiti
-+++,Jan Tinetti,Minister for Women
++++,Kris Faafoi,Minister of Justice
++++,Kris Faafoi,Minister for Broadcasting and Media
++++,Kiri Allan,Minister of Conservation
++++,Jan Tinetti,Minister of Internal Affairs
 +++,Jacinda Ardern,Prime Minister
 +++,Jacinda Ardern,Minister for National Security and Intelligence
-+++,Grant Robertson,Minister for Infrastructure
 +++,Grant Robertson,Minister for Sport and Recreation
 +++,Grant Robertson,Deputy Prime Minister
 +++,Grant Robertson,Minister for Racing
++++,Grant Robertson,Minister for Infrastructure
++++,David Parker,Minister of Revenue
 +++,David Parker,Minister for Oceans and Fisheries
 +++,David Parker,Attorney-General
-+++,David Parker,Minister of Revenue
-+++,David Clark,Minister of Commerce and Consumer Affairs
 +++,David Clark,Minister for State Owned Enterprises
-+++,David Clark,Minister of Statistics
 +++,David Clark,Minister for the Digital Economy and Communications
-+++,Damien O'Connor,Minister for Biosecurity
-+++,Damien O'Connor,Minister for Rural Communities
++++,David Clark,Minister of Commerce and Consumer Affairs
++++,David Clark,Minister of Statistics
 +++,Damien O'Connor,Minister for Trade and Export Growth
 +++,Damien O'Connor,Minister for Land Information
++++,Damien O'Connor,Minister for Biosecurity
++++,Damien O'Connor,Minister for Rural Communities
 +++,Chris Hipkins,Minister for COVID-19 Response
 +++,Chris Hipkins,Minister for the Public Service
 +++,Carmel Sepuloni,Minister for Social Development and Employment
@@ -60,3 +44,4 @@
 +++,Andrew Little,Minister Responsible for the GCSB
 +++,Andrew Little,Minister Responsible for the NZSIS
 +++,Andrew Little,Minister for Treaty of Waitangi Negotiations
++++,Andrew Little,Minister of Health
