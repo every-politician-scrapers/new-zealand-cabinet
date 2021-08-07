@@ -1,6 +1,20 @@
 {
-    "cabinet": "Q42314738",
-    "lang":    "en",
-    "agent":   "every-politican-scrapers/new-zealand-cabinet",
-    "source_match": "ministers-and-their-portfolios"
+    "jurisdiction": {
+      "name": "New Zealand",
+      "id": "Q664"
+    },
+    "cabinet": {
+      "id": "Q42314738",
+      "start": "2017-10-26",
+      "parent": "Q2932373"
+    },
+    "source": {
+        "url":   "https://dpmc.govt.nz/our-business-units/cabinet-office/ministers-and-their-portfolios/ministerial-list",
+        "title": "Ministerial List",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/new-zealand-cabinet"
 }

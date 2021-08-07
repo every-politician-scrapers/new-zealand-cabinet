@@ -1,4 +1,8 @@
 // wd create-entity create-office.js "Minister for X"
+const fs = require('fs');
+let rawmeta = fs.readFileSync('meta.json');
+let meta = JSON.parse(rawmeta);
+
 module.exports = (label) => {
   return {
     type: 'item',
@@ -6,18 +10,16 @@ module.exports = (label) => {
       en: label,
     },
     descriptions: {
-      en: 'New Zealand Cabinet position',
+      en: `cabinet position in ${meta.jurisdiction.name}`,
     },
     claims: {
       P31:   { value: 'Q294414' }, // instance of: public office
       P279:  { value: 'Q83307'  }, // subclas of: minister
-      P17:   { value: 'Q664'    }, // country: New Zealand
-      P1001: { value: 'Q664'    }, // jurisdiction: New Zealand
-      P361: {
-        value: 'Q2932373',         // part of: Cabinet of New Zealand
-        references: {
-          P854: 'https://dpmc.govt.nz/our-business-units/cabinet-office/ministers-and-their-portfolios/ministerial-list'
-        },
+      P17:   { value: meta.country ? meta.country.id : meta.jurisdiction.id },
+      P1001: { value: meta.jurisdiction.id },
+      P361: { // part of
+        value: meta.cabinet.parent,
+        references: { P854: meta.source.url },
       }
     }
   }
