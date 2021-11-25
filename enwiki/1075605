@@ -1,0 +1,1476 @@
+{
+  "title": "David Parker (New Zealand politician)",
+  "pageID": 1075605,
+  "categories": [
+    "1960 births",
+    "Living people",
+    "Attorneys-General of New Zealand",
+    "New Zealand Labour Party MPs",
+    "Members of the Cabinet of New Zealand",
+    "New Zealand lawyers",
+    "New Zealand list MPs",
+    "People from Roxburgh, New Zealand",
+    "Members of the New Zealand House of Representatives",
+    "New Zealand MPs for South Island electorates",
+    "University of Otago alumni",
+    "21st-century New Zealand politicians",
+    "Candidates in the 2017 New Zealand general election",
+    "Candidates in the 2020 New Zealand general election"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "David William Parker (born 1960) is a New Zealand Labour Party politician who currently serves as Attorney-General, Minister for the Environment, Minister of Oceans and Fisheries, Minister of Revenue and Associate Minister of Finance in the Sixth Labour Government.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "New Zealand Labour Party"
+                },
+                {
+                  "text": "Attorney-General",
+                  "type": "internal",
+                  "page": "Attorney-General of New Zealand"
+                },
+                {
+                  "text": "Minister for the Environment",
+                  "type": "internal",
+                  "page": "Minister for the Environment (New Zealand)"
+                },
+                {
+                  "text": "Sixth Labour Government",
+                  "type": "internal",
+                  "page": "Sixth Labour Government of New Zealand"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "David William Parker"
+                ]
+              }
+            },
+            {
+              "text": "He previously served as a Cabinet Minister in the Fifth Labour Government and as interim Leader of the Labour Party from September to November 2014.",
+              "links": [
+                {
+                  "text": "Cabinet Minister",
+                  "type": "internal",
+                  "page": "Cabinet of New Zealand"
+                },
+                {
+                  "text": "Fifth Labour Government",
+                  "type": "internal",
+                  "page": "Fifth Labour Government of New Zealand"
+                },
+                {
+                  "text": "Leader of the Labour Party",
+                  "type": "internal",
+                  "page": "Leader of the New Zealand Labour Party"
+                }
+              ]
+            },
+            {
+              "text": "He represented the Otago electorate at the 47th Parliament and has since served as a list MP.",
+              "links": [
+                {
+                  "text": "Otago electorate",
+                  "type": "internal",
+                  "page": "Otago (New Zealand electorate)"
+                },
+                {
+                  "text": "47th Parliament",
+                  "type": "internal",
+                  "page": "47th New Zealand Parliament"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "New Zealand politician",
+          "template": "short description"
+        },
+        {
+          "date": "November 2016",
+          "template": "use new zealand english"
+        },
+        {
+          "date": "April 2015",
+          "template": "use dmy dates"
+        },
+        {
+          "birth_year": "1960",
+          "template": "birth year and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "David Parker"
+          },
+          "honorific-suffix": {
+            "text": "MP",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "Member of parliament"
+              }
+            ]
+          },
+          "image": {
+            "text": "Hon David Parker.jpg"
+          },
+          "caption": {
+            "text": "Parker in 2020"
+          },
+          "order1": {
+            "text": "32nd Attorney-General of New Zealand",
+            "links": [
+              {
+                "text": "Attorney-General of New Zealand",
+                "type": "internal",
+                "page": "Attorney-General (New Zealand)"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Jacinda Ardern",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jacinda Ardern"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "26 October 2017"
+          },
+          "predecessor1": {
+            "text": "Chris Finlayson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chris Finlayson"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "Helen Clark",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Helen Clark"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "19 October 2005"
+          },
+          "term_end2": {
+            "text": "20 March 2006"
+          },
+          "predecessor2": {
+            "text": "Michael Cullen",
+            "links": [
+              {
+                "text": "Michael Cullen",
+                "type": "internal",
+                "page": "Michael Cullen (politician)"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Michael Cullen"
+          },
+          "order3": {
+            "text": "16th Minister for the Environment",
+            "links": [
+              {
+                "text": "Minister for the Environment",
+                "type": "internal",
+                "page": "Minister for the Environment (New Zealand)"
+              }
+            ]
+          },
+          "primeminister3": {
+            "text": "Jacinda Ardern",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jacinda Ardern"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "26 October 2017"
+          },
+          "predecessor3": {
+            "text": "Nick Smith",
+            "links": [
+              {
+                "text": "Nick Smith",
+                "type": "internal",
+                "page": "Nick Smith (New Zealand politician)"
+              }
+            ]
+          },
+          "order4": {
+            "text": "12th Minister for Trade and Export Growth",
+            "links": [
+              {
+                "text": "Minister for Trade and Export Growth",
+                "type": "internal",
+                "page": "Minister of Trade (New Zealand)"
+              }
+            ]
+          },
+          "primeminister4": {
+            "text": "Jacinda Ardern",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jacinda Ardern"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "26 October 2017"
+          },
+          "term_end4": {
+            "text": "6 November 2020"
+          },
+          "predecessor4": {
+            "text": "Todd McClay",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Todd McClay"
+              }
+            ]
+          },
+          "successor4": {
+            "text": "Damien O'Connor",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Damien O'Connor"
+              }
+            ]
+          },
+          "order5": {
+            "text": "7th Minister for Economic Development",
+            "links": [
+              {
+                "text": "Minister for Economic Development",
+                "type": "internal",
+                "page": "Minister of Economic Development (New Zealand)"
+              }
+            ]
+          },
+          "primeminister5": {
+            "text": "Jacinda Ardern",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jacinda Ardern"
+              }
+            ]
+          },
+          "term_start5": {
+            "text": "26 October 2017"
+          },
+          "term_end5": {
+            "text": "27 June 2019"
+          },
+          "predecessor5": {
+            "text": "Simon Bridges",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Simon Bridges"
+              }
+            ]
+          },
+          "successor5": {
+            "text": "Phil Twyford",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Phil Twyford"
+              }
+            ]
+          },
+          "office6": {
+            "text": "Deputy Leader of the Opposition",
+            "links": [
+              {
+                "text": "Deputy Leader of the Opposition",
+                "type": "internal",
+                "page": "Leader of the Opposition (New Zealand)"
+              }
+            ]
+          },
+          "leader6": {
+            "text": "David Cunliffe",
+            "links": [
+              {
+                "type": "internal",
+                "page": "David Cunliffe"
+              }
+            ]
+          },
+          "term_start6": {
+            "text": "15 September 2013"
+          },
+          "term_end6": {
+            "text": "30 September 2014"
+          },
+          "predecessor6": {
+            "text": "Grant Robertson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Grant Robertson"
+              }
+            ]
+          },
+          "successor6": {
+            "text": "Annette King",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Annette King"
+              }
+            ]
+          },
+          "office7": {
+            "text": "16th Deputy Leader of the New Zealand Labour Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Deputy Leader of the New Zealand Labour Party"
+              }
+            ]
+          },
+          "leader7": {
+            "text": "David Cunliffe",
+            "links": [
+              {
+                "type": "internal",
+                "page": "David Cunliffe"
+              }
+            ]
+          },
+          "term_start7": {
+            "text": "15 September 2013"
+          },
+          "term_end7": {
+            "text": "30 September 2014"
+          },
+          "predecessor7": {
+            "text": "Grant Robertson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Grant Robertson"
+              }
+            ]
+          },
+          "successor7": {
+            "text": "Annette King",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Annette King"
+              }
+            ]
+          },
+          "constituency_mp8": {
+            "text": "Labour Party list",
+            "links": [
+              {
+                "text": "Labour Party",
+                "type": "internal",
+                "page": "New Zealand Labour Party"
+              },
+              {
+                "text": "list",
+                "type": "internal",
+                "page": "Party list"
+              }
+            ]
+          },
+          "parliament8": {
+            "text": "New Zealand"
+          },
+          "term_start8": {
+            "text": "17 September 2005"
+          },
+          "constituency_mp9": {
+            "text": "Otago",
+            "links": [
+              {
+                "text": "Otago",
+                "type": "internal",
+                "page": "Otago (New Zealand electorate)"
+              }
+            ]
+          },
+          "parliament9": {
+            "text": "New Zealand"
+          },
+          "term_start9": {
+            "text": "27 July 2002"
+          },
+          "term_end9": {
+            "text": "17 September 2005"
+          },
+          "predecessor9": {
+            "text": "Gavan Herlihy",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gavan Herlihy"
+              }
+            ]
+          },
+          "successor9": {
+            "text": "Jacqui Dean",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jacqui Dean"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "1960 (age 61)"
+          },
+          "birth_place": {
+            "text": "Roxburgh, New Zealand",
+            "links": [
+              {
+                "text": "Roxburgh",
+                "type": "internal",
+                "page": "Roxburgh, New Zealand"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "New Zealand"
+          },
+          "party": {
+            "text": "Labour",
+            "links": [
+              {
+                "text": "Labour",
+                "type": "internal",
+                "page": "New Zealand Labour Party"
+              }
+            ]
+          },
+          "children": {
+            "text": "3",
+            "number": 3
+          },
+          "alma_mater": {
+            "text": "University of Otago",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Otago"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Lawyer"
+          },
+          "website": {
+            "text": "davidparker.co.nz"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.stuff.co.nz/national/politics/4839958/David-Parker-MP-who-could-be-Labours-king",
+          "title": "David Parker: MP who could be Labour's king",
+          "last": "Small",
+          "first": "Vernon",
+          "publisher": "Stuff",
+          "date": "2 April 2011",
+          "access-date": "16 September 2013",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Before politics",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "David Parker was born in Roxburgh and grew up in Dunedin.",
+              "links": [
+                {
+                  "text": "Roxburgh",
+                  "type": "internal",
+                  "page": "Roxburgh, New Zealand"
+                },
+                {
+                  "type": "internal",
+                  "page": "Dunedin"
+                }
+              ]
+            },
+            {
+              "text": "He attended the University of Otago, studying law and business, and co-founded the Dunedin Community Law Centre.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Otago"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Before entering politics, Parker worked as a litigation partner in the law firm Anderson Lloyd Caudwell."
+            },
+            {
+              "text": "He later had a business career in the agri-biotechnology field, including with Blis Technologies, where he was a manager.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Blis Technologies"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.3news.co.nz/Candidate-profile-David-Parker/tabid/419/articleID/228200/Default.aspx",
+          "title": "Candidate profile:David Parker",
+          "publisher": "3 News",
+          "date": "4 October 2011",
+          "access-date": "16 September 2013",
+          "archive-url": "https://web.archive.org/web/20140224211333/http://www.3news.co.nz/Candidate-profile-David-Parker/tabid/419/articleID/228200/Default.aspx",
+          "archive-date": "24 February 2014",
+          "url-status": "dead",
+          "df": "dmy-all",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://davidparker.co.nz/about/",
+          "title": "About",
+          "access-date": "16 September 2013",
+          "archive-url": "https://web.archive.org/web/20131107032522/http://davidparker.co.nz/about/",
+          "archive-date": "7 November 2013",
+          "url-status": "dead",
+          "df": "dmy-all",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.parliament.nz/en-nz/mpp/mps/current/50MP78011/parker-david",
+          "title": "Hon David Parker",
+          "publisher": "New Zealand Parliament",
+          "access-date": "16 September 2013",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Member of Parliament",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Parker first gained election to Parliament as a Labour member in the 2002 election, winning an upset victory over National's Gavan Herlihy in the Otago seat.",
+              "links": [
+                {
+                  "text": "2002 election",
+                  "type": "internal",
+                  "page": "2002 New Zealand general election"
+                },
+                {
+                  "text": "National",
+                  "type": "internal",
+                  "page": "New Zealand National Party"
+                },
+                {
+                  "type": "internal",
+                  "page": "Gavan Herlihy"
+                },
+                {
+                  "text": "Otago",
+                  "type": "internal",
+                  "page": "Otago (New Zealand electorate)"
+                }
+              ]
+            },
+            {
+              "text": "In the 2005 election, the National candidate Jacqui Dean defeated him in his Otago electorate seat, but he returned to the House due to his position on the Labour list.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jacqui Dean"
+                },
+                {
+                  "text": "the House",
+                  "type": "internal",
+                  "page": "New Zealand House of Representatives"
+                },
+                {
+                  "text": "list",
+                  "type": "internal",
+                  "page": "Party lists in the 2005 New Zealand general election"
+                }
+              ]
+            },
+            {
+              "text": "In the 2008 general election Parker and Dean both stood in the resurrected Waitaki electorate, with Dean winning by over 11,000 votes.",
+              "links": [
+                {
+                  "text": "2008 general election",
+                  "type": "internal",
+                  "page": "2008 New Zealand general election"
+                },
+                {
+                  "text": "Waitaki electorate",
+                  "type": "internal",
+                  "page": "Waitaki (New Zealand electorate)"
+                }
+              ]
+            },
+            {
+              "text": "Nevertheless, due to his list position he was still returned to parliament."
+            },
+            {
+              "text": "In the, Parker stood in the electorate, where he came third behind ACT New Zealand's John Banks and National's Paul Goldsmith, but was again returned as a list MP.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "ACT New Zealand"
+                },
+                {
+                  "text": "John Banks",
+                  "type": "internal",
+                  "page": "John Banks (New Zealand politician)"
+                },
+                {
+                  "text": "Paul Goldsmith",
+                  "type": "internal",
+                  "page": "Paul Goldsmith (politician)"
+                }
+              ]
+            },
+            {
+              "text": "In the, Parker did not contest an electorate, but was number two on the Labour list.",
+              "links": [
+                {
+                  "text": "Labour list",
+                  "type": "internal",
+                  "page": "Party lists in the 2014 New Zealand general election",
+                  "anchor": "Labour Party"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "template": "nz parlbox header"
+        },
+        {
+          "list": [
+            "2002"
+          ],
+          "template": "nz election link year"
+        },
+        {
+          "end": "2005",
+          "term": "47th",
+          "electorate": "Otago",
+          "_list": "47",
+          "party": "New Zealand Labour Party",
+          "template": "nz parlbox"
+        },
+        {
+          "list": [
+            "2005"
+          ],
+          "template": "nz election link year"
+        },
+        {
+          "end": "2008",
+          "term": "48th",
+          "electorate": "List",
+          "_list": "37",
+          "party": "New Zealand Labour Party",
+          "template": "nz parlbox"
+        },
+        {
+          "list": [
+            "2008"
+          ],
+          "template": "nz election link year"
+        },
+        {
+          "term": "49th",
+          "end": "2011",
+          "electorate": "List",
+          "party": "New Zealand Labour Party",
+          "_list": "17",
+          "template": "nz parlbox"
+        },
+        {
+          "list": [
+            "2011"
+          ],
+          "template": "nz election link year"
+        },
+        {
+          "end": "2014",
+          "term": "50th",
+          "electorate": "List",
+          "_list": "4",
+          "party": "New Zealand Labour Party",
+          "template": "nz parlbox"
+        },
+        {
+          "list": [
+            "2014"
+          ],
+          "template": "nz election link year"
+        },
+        {
+          "end": "2017",
+          "term": "51st",
+          "electorate": "List",
+          "_list": "2",
+          "party": "New Zealand Labour Party",
+          "template": "nz parlbox"
+        },
+        {
+          "list": [
+            "2017"
+          ],
+          "template": "nz election link year"
+        },
+        {
+          "end": "2020",
+          "term": "52nd",
+          "electorate": "List",
+          "_list": "10",
+          "party": "New Zealand Labour Party",
+          "template": "nz parlbox"
+        },
+        {
+          "list": [
+            "2020"
+          ],
+          "template": "nz election link year"
+        },
+        {
+          "end": "present",
+          "term": "53rd",
+          "electorate": "List",
+          "_list": "9",
+          "party": "New Zealand Labour Party",
+          "template": "nz parlbox"
+        },
+        {
+          "template": "nz parlbox footer"
+        },
+        {
+          "list": [
+            "2011"
+          ],
+          "template": "nz election link"
+        },
+        {
+          "list": [
+            "Epsom"
+          ],
+          "template": "nz electorate link"
+        },
+        {
+          "list": [
+            "2014"
+          ],
+          "template": "nz election link"
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "title": "Official Count Results – Epsom",
+          "url": "http://www.electionresults.govt.nz/electionresults_2011/electorate-12.html",
+          "publisher": "Electoral Commission",
+          "access-date": "15 December 2011",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.scoop.co.nz/stories/PO1406/S00372/labour-list-for-the-2014-election-announced.htm",
+          "title": "Labour List for the 2014 Election Announced",
+          "publisher": "New Zealand Labour Party",
+          "agency": "Scoop",
+          "date": "23 June 2014",
+          "access-date": "23 June 2014",
+          "template": "citation",
+          "type": "press release"
+        }
+      ]
+    },
+    {
+      "title": "Fifth Labour Government",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "During the Fifth Labour Government, Parker served as Attorney-General and Minister of Transport and Energy from 2005 until March 2006.",
+              "links": [
+                {
+                  "text": "Fifth Labour Government",
+                  "type": "internal",
+                  "page": "Fifth Labour Government of New Zealand"
+                },
+                {
+                  "text": "Attorney-General",
+                  "type": "internal",
+                  "page": "Attorney-General (New Zealand)"
+                }
+              ]
+            },
+            {
+              "text": "He resigned his position as Attorney-General on 20 March 2006 after an allegation that he had filed an incorrect declaration with the Companies Office on behalf of the property company Queens Park Mews Limited."
+            },
+            {
+              "text": "On 21 March Parker also resigned his place in Cabinet as Minister of Energy, Minister of Transport, and Minister Responsible for Climate Change Issues.",
+              "links": [
+                {
+                  "text": "Minister of Energy",
+                  "type": "internal",
+                  "page": "Minister of Energy and Resources (New Zealand)"
+                }
+              ]
+            },
+            {
+              "text": "An inquiry by the Companies Office cleared him of the charge of filing false returns."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Helen Clark, the Prime Minister of New Zealand, re-appointed Parker to the Energy and Climate Change portfolios and to the Land Information portfolio on 2 May 2006.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Helen Clark"
+                },
+                {
+                  "type": "internal",
+                  "page": "Prime Minister of New Zealand"
+                }
+              ]
+            },
+            {
+              "text": "(The Attorney-General portfolio remained with Michael Cullen, and Annette King took over Parker's former Transport portfolio.)",
+              "links": [
+                {
+                  "text": "Michael Cullen",
+                  "type": "internal",
+                  "page": "Michael Cullen (politician)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Annette King"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In July 2007 Clark appointed Parker as the acting Minister for the Environment following the resignation of David Benson-Pope.",
+              "links": [
+                {
+                  "text": "Minister for the Environment",
+                  "type": "internal",
+                  "page": "Ministry for the Environment (New Zealand)"
+                },
+                {
+                  "type": "internal",
+                  "page": "David Benson-Pope"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.nzherald.co.nz/section/story.cfm?c_id=1&ObjectID=10373702",
+          "title": "Parker quits all Cabinet posts",
+          "date": "21 March 2006",
+          "work": "The New Zealand Herald",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.nzherald.co.nz/section/story.cfm?c_id=1&ObjectID=10379118",
+          "title": "Parker heads back into the Cabinet",
+          "work": "The New Zealand Herald",
+          "date": "27 April 2006",
+          "author": "Audrey Young",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Opposition",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Following Labour's defeat in the 2008 general election, Parker became the Opposition spokesperson on Conservation, ACC and Shadow Attorney-General."
+            },
+            {
+              "text": "On 15 June 2010, Opposition Leader Phil Goff appointed Parker to be Portfolio Spokesperson for Economic Development, a position formerly held by Shane Jones, and shifted the portfolio of Conservation to Chris Carter.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Phil Goff"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Parker ran for the party leadership in 2011, but withdrew part-way through the contest to support David Shearer's bid.",
+              "links": [
+                {
+                  "text": "ran for the party leadership",
+                  "type": "internal",
+                  "page": "2011 New Zealand Labour Party leadership election"
+                },
+                {
+                  "type": "internal",
+                  "page": "David Shearer"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Parker then became the Labour spokesperson for Finance and the shadow Attorney-General (from February 2013).",
+              "links": [
+                {
+                  "text": "Attorney-General",
+                  "type": "internal",
+                  "page": "Attorney-General of New Zealand"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "From 17 September 2013, Parker was the deputy leader of the Labour Party."
+            },
+            {
+              "text": "He retained his finance portfolio."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Following the poor performance of the Labour Party in the 2014 general election, and the eventual resignation of David Cunliffe as leader, Parker was appointed interim leader of the Labour Party.",
+              "links": [
+                {
+                  "text": "2014 general election",
+                  "type": "internal",
+                  "page": "2014 New Zealand general election"
+                },
+                {
+                  "type": "internal",
+                  "page": "David Cunliffe"
+                }
+              ]
+            },
+            {
+              "text": "He then unsuccessfully ran in the 2014 Labour Party leadership election and he came third in the leadership election behind Andrew Little and Grant Robertson.",
+              "links": [
+                {
+                  "text": "2014 Labour Party leadership election",
+                  "type": "internal",
+                  "page": "2014 New Zealand Labour Party leadership election"
+                }
+              ]
+            },
+            {
+              "text": "Little offered for Parker to continue as finance spokesperson, but Parker declined."
+            },
+            {
+              "text": "Instead, Parker was assigned a range of portfolios including shadow attorney-general and spokesperson for trade and export growth, the environment and, after the resignations of former leaders Goff and Shearer, foreign affairs."
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:David Parker NZ.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/David_Parker_NZ.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/David_Parker_NZ.jpg",
+          "caption": "In 2011",
+          "links": []
+        }
+      ],
+      "references": [
+        {
+          "last1": "Small",
+          "first1": "Vernon",
+          "last2": "Gulliver",
+          "first2": "Aimee",
+          "title": "Andrew Little new Labour Party leader – by a whisker",
+          "url": "http://www.stuff.co.nz/national/politics/63305825/Andrew-Little-new-Labour-Party-leader-by-a-whisker",
+          "access-date": "26 October 2017",
+          "publisher": "Stuff",
+          "date": "18 November 2014",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Young",
+          "first": "Audrey",
+          "date": "2017-11-03",
+          "title": "Grant Robertson: Finance Minister more than Dr No",
+          "language": "en-NZ",
+          "work": "The New Zealand Herald",
+          "url": "https://www.nzherald.co.nz/business/news/article.cfm?c_id=3&objectid=11940277",
+          "access-date": "2020-07-28",
+          "issn": "1170-0777",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Sixth Labour Government",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "During the 2017 general election, Parker was re-elected on the Labour Party list.",
+              "links": [
+                {
+                  "text": "2017 general election",
+                  "type": "internal",
+                  "page": "2017 New Zealand general election"
+                }
+              ]
+            },
+            {
+              "text": "Following the formation of the Labour-led coalition government, he was sworn in as Attorney-General, Minister for Economic Development, Minister for the Environment, and Minister for Trade and Export Growth.",
+              "links": [
+                {
+                  "text": "Labour-led coalition government",
+                  "type": "internal",
+                  "page": "Sixth Labour Government of New Zealand"
+                }
+              ]
+            },
+            {
+              "text": "He also became Associate Minister of Finance."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In a June 2019 reshuffle, the economic development portfolio was reassigned to Phil Twyford."
+            },
+            {
+              "text": "Prime Minister Jacinda Ardern said this was so that Parker could focus more on water quality and trade negotiations with the European Union and United Kingdom."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "As Environment Minister, Parker has launched a \"comprehensive overhaul\" of the Resource Management Act 1991.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Resource Management Act 1991"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "During the 2020 general election, Parker was re-elected on the Labour Party list.",
+              "links": [
+                {
+                  "text": "2020 general election",
+                  "type": "internal",
+                  "page": "2020 New Zealand general election"
+                }
+              ]
+            },
+            {
+              "text": "On 2 November, he was appointed as Attorney-General, Minister for the Environment, Minister for Oceans and Fisheries, Minister of Revenue and Associate Minister of Finance.",
+              "links": [
+                {
+                  "text": "Attorney-General",
+                  "type": "internal",
+                  "page": "Attorney-General (New Zealand)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Opening plenary session, 11 December 2017 (27239254379).jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Opening_plenary_session%2C_11_December_2017_(27239254379).jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Opening_plenary_session%2C_11_December_2017_(27239254379).jpg",
+          "caption": "As Minister of Economic Development, Parker addresses the WTO Ministerial Conference in December 2017",
+          "links": []
+        }
+      ],
+      "references": [
+        {
+          "title": "2017 General Election - Official Result Successful Candidates",
+          "url": "http://archive.electionresults.govt.nz/electionresults_2017/successful-candidates.html",
+          "publisher": "Electoral Commission",
+          "access-date": "3 November 2020",
+          "archive-url": "https://web.archive.org/web/20200117212450/http://archive.electionresults.govt.nz/electionresults_2017/successful-candidates.html",
+          "archive-date": "17 January 2020",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Ministerial List",
+          "url": "https://www.dpmc.govt.nz/our-business-units/cabinet-office/ministers-and-their-portfolios/ministerial-list",
+          "publisher": "Department of the Prime Minister and Cabinet",
+          "access-date": "26 October 2017",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2019-06-27",
+          "title": "Prime Minister Jacinda Ardern's Cabinet reshuffle - the ups and downs",
+          "url": "https://www.stuff.co.nz/national/politics/113826823/prime-minister-jacinda-arderns-cabinet-reshuffle--the-ups-and-downs",
+          "access-date": "2020-07-28",
+          "work": "Stuff",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Walls",
+          "first1": "Jason",
+          "title": "Government wants to put a firmer focus on climate change when it shakes up the RMA",
+          "url": "https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12252216",
+          "work": "The New Zealand Herald",
+          "access-date": "31 July 2019",
+          "language": "en-NZ",
+          "date": "24 July 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "2020 General Election and Referendums - Official Result Successful Candidates",
+          "url": "https://electionresults.govt.nz/electionresults_2020/successful-candidates.html",
+          "publisher": "Electoral Commission",
+          "access-date": "5 February 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Ministerial List for Announcement on Monday",
+          "url": "https://dpmc.govt.nz/sites/default/files/2020-11/ministerial-list-2-nov-2020.pdf",
+          "website": "Beehive.govt.nz",
+          "publisher": "New Zealand Government",
+          "access-date": "3 November 2020",
+          "archive-url": "https://web.archive.org/web/20201103122141/https://dpmc.govt.nz/sites/default/files/2020-11/ministerial-list-2-nov-2020.pdf",
+          "archive-date": "3 November 2020",
+          "date": "2 November 2020",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "David Parker"
+          ],
+          "template": "commons category"
+        },
+        {
+          "list": [
+            "http://davidparker.co.nz/"
+          ],
+          "template": "official website"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Pete Hodgson",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister for Land Information",
+          "years": "2006–2008",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Richard Worth",
+          "template": "s-aft"
+        },
+        {
+          "before": "Michael Cullen",
+          "template": "s-bef"
+        },
+        {
+          "title": "Attorney-General",
+          "years": "2005–2006 2017–present",
+          "rows": "2",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Michael Cullen",
+          "template": "s-aft"
+        },
+        {
+          "before": "Chris Finlayson",
+          "template": "s-bef"
+        },
+        {
+          "rows": "2",
+          "template": "s-inc"
+        },
+        {
+          "before": "Nick Smith",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister for the Environment",
+          "years": "2017–present",
+          "template": "s-ttl"
+        },
+        {
+          "before": "Todd McClay",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister for Trade and Export Growth",
+          "years": "2017–2020",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Damien O'Connor",
+          "template": "s-aft"
+        },
+        {
+          "before": "Simon Bridges",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of Economic Development",
+          "years": "2017–2019",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Phil Twyford",
+          "template": "s-aft"
+        },
+        {
+          "before": "Grant Robertson",
+          "template": "s-bef"
+        },
+        {
+          "title": "Deputy Leader of the Opposition",
+          "years": "2013–2014",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Annette King",
+          "template": "s-aft"
+        },
+        {
+          "list": [
+            "nz"
+          ],
+          "template": "s-par"
+        },
+        {
+          "before": "Gavan Herlihy",
+          "template": "s-bef"
+        },
+        {
+          "title": "Member of Parliament for Otago",
+          "years": "2002–2005",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Jacqui Dean",
+          "template": "s-aft"
+        },
+        {
+          "template": "s-ppo"
+        },
+        {
+          "before": "Grant Robertson",
+          "template": "s-bef"
+        },
+        {
+          "title": "Deputy Leader of the Labour Party",
+          "years": "2013–2014",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Annette King",
+          "template": "s-aft"
+        },
+        {
+          "template": "sixth labour government of new zealand"
+        },
+        {
+          "template": "current members of the new zealand house of representatives"
+        },
+        {
+          "template": "nz labour party"
+        },
+        {
+          "template": "authority control"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "MP biography",
+            "links": [
+              {
+                "text": "MP biography",
+                "type": "external",
+                "site": "https://www.parliament.nz/en/mps-and-electorates/members-of-parliament/parker-david/"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "MP biography",
+            "links": [
+              {
+                "text": "MP biography",
+                "type": "external",
+                "site": "https://www.parliament.nz/en/mps-and-electorates/members-of-parliament/parker-david/"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}
