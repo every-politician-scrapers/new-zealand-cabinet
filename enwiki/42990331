@@ -106,7 +106,8 @@
           "country": "NZL",
           "list": [
             "GNZMf",
-            "QSO"
+            "QSO",
+            "DStJ"
           ],
           "size": "100%",
           "template": "post-nominals"
@@ -119,7 +120,8 @@
           "country": "NZL",
           "list": [
             "GNZMf",
-            "QSO"
+            "QSO",
+            "DStJ"
           ],
           "size": "85%",
           "template": "post-nominals"
@@ -921,6 +923,20 @@
               ]
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 21 October 2021, Kiro was appointed a Dame of the Order of Saint John by the Queen and appointed a prior of the same order as the governor-general.",
+              "links": [
+                {
+                  "text": "Dame of the Order of Saint John",
+                  "type": "internal",
+                  "page": "Order of Saint John (chartered 1888)"
+                }
+              ]
+            }
+          ]
         }
       ],
       "infoboxes": [
@@ -1009,6 +1025,15 @@
           "date": "1 April 2011",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "url": "https://www.thegazette.co.uk/notice/3936025",
+          "title": "Order of St John",
+          "work": "The London Gazette",
+          "date": "25 November 2021",
+          "issue": "3936025",
+          "template": "citation",
+          "type": "news"
         },
         {
           "title": "Prof Dame Cynthia Kiro - The University of Auckland",
