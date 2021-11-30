@@ -135,7 +135,95 @@
           "image": {
             "text": "David Clark sawyers bay.jpg"
           },
+          "caption": {
+            "text": "Clark in 2015"
+          },
           "order": {
+            "text": "14th Minister of Commerce and Consumer Affairs",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister of Commerce and Consumer Affairs"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "6 November 2020"
+          },
+          "primeminister": {
+            "text": "Jacinda Ardern"
+          },
+          "predecessor": {
+            "text": "Kris Faafoi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kris Faafoi"
+              }
+            ]
+          },
+          "order2": {
+            "text": "20th Minister Responsible for the Earthquake Commission",
+            "links": [
+              {
+                "text": "Minister Responsible for the Earthquake Commission",
+                "type": "internal",
+                "page": "Earthquake Commission"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "6 November 2020"
+          },
+          "primeminister2": {
+            "text": "Jacinda Ardern",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jacinda Ardern"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Grant Robertson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Grant Robertson"
+              }
+            ]
+          },
+          "order3": {
+            "text": "16th Minister for State Owned Enterprises",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister for State Owned Enterprises"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "6 November 2020"
+          },
+          "primeminister3": {
+            "text": "Jacinda Ardern",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jacinda Ardern"
+              }
+            ]
+          },
+          "predecessor3": {
+            "text": "Winston Peters",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Winston Peters"
+              }
+            ]
+          },
+          "order4": {
             "text": "31st Minister of Statistics",
             "links": [
               {
@@ -145,10 +233,10 @@
               }
             ]
           },
-          "term_start": {
+          "term_start4": {
             "text": "6 November 2020"
           },
-          "primeminister": {
+          "primeminister4": {
             "text": "Jacinda Ardern",
             "links": [
               {
@@ -157,7 +245,7 @@
               }
             ]
           },
-          "predecessor": {
+          "predecessor4": {
             "text": "James Shaw",
             "links": [
               {
@@ -167,7 +255,22 @@
               }
             ]
           },
-          "order2": {
+          "order5": {
+            "text": "1st Minister for the Digital Economy and Communications"
+          },
+          "term_start5": {
+            "text": "6 November 2020"
+          },
+          "primeminister5": {
+            "text": "Jacinda Ardern",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jacinda Ardern"
+              }
+            ]
+          },
+          "order6": {
             "text": "40th Minister of Health",
             "links": [
               {
@@ -177,13 +280,13 @@
               }
             ]
           },
-          "term_start2": {
+          "term_start6": {
             "text": "26 October 2017"
           },
-          "term_end2": {
+          "term_end6": {
             "text": "2 July 2020"
           },
-          "predecessor2": {
+          "predecessor6": {
             "text": "Jonathan Coleman",
             "links": [
               {
@@ -193,7 +296,7 @@
               }
             ]
           },
-          "successor2": {
+          "successor6": {
             "text": "Chris Hipkins",
             "links": [
               {
@@ -202,10 +305,10 @@
               }
             ]
           },
-          "primeminister2": {
+          "primeminister6": {
             "text": "Jacinda Ardern"
           },
-          "constituency_mp3": {
+          "constituency_mp7": {
             "text": "Dunedin\nDunedin North (2011–2020)",
             "links": [
               {
@@ -215,17 +318,17 @@
               }
             ]
           },
-          "parliament3": {
+          "parliament7": {
             "text": "New Zealand"
           },
-          "term_start3": {
+          "term_start7": {
             "text": "November 26, 2011"
           },
-          "majority3": {
+          "majority7": {
             "text": "15,521",
             "number": 15521
           },
-          "predecessor3": {
+          "predecessor7": {
             "text": "Pete Hodgson",
             "links": [
               {
@@ -1682,6 +1785,18 @@
         },
         {
           "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
         }
       ],
       "templates": [
@@ -1738,11 +1853,61 @@
           "template": "s-aft"
         },
         {
+          "before": "Kris Faafoi",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of Commerce and Consumer Affairs",
+          "years": "2020–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "before": "Grant Robertson",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister Responsible for the Earthquake Commission",
+          "years": "2020–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
           "before": "James Shaw",
           "template": "s-bef"
         },
         {
           "title": "Minister of Statistics",
+          "years": "2020–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "before": "Winston Peters",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister for State Owned Enterprises",
+          "years": "2020–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "list": [
+            "office"
+          ],
+          "template": "s-new"
+        },
+        {
+          "title": "Minister for the Digital Economy and Communications",
           "years": "2020–present",
           "template": "s-ttl"
         },
