@@ -102,7 +102,7 @@
         {
           "sentences": [
             {
-              "text": "In June 2020 Puna announced his intention to stand down as Prime Minister in September in order to compete for the role of Secretary-General of the Pacific Islands Forum.",
+              "text": "In June 2020 Puna announced his intention to stand down as Prime Minister in September to compete for the role of Secretary-General of the Pacific Islands Forum.",
               "links": [
                 {
                   "type": "internal",
@@ -194,7 +194,7 @@
             ]
           },
           "order1": {
-            "text": "11th"
+            "text": "9th"
           },
           "office1": {
             "text": "Prime Minister of the Cook Islands"
@@ -227,7 +227,13 @@
             ]
           },
           "1blankname1": {
-            "text": "Representative"
+            "text": "Queen's Representative",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Queen's Representative"
+              }
+            ]
           },
           "1namedata1": {
             "text": "Frederick Tutu Goodwin Tom Marsters",
