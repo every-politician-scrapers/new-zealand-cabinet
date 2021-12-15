@@ -44,7 +44,7 @@
         {
           "sentences": [
             {
-              "text": "Jacinda Kate Laurell Ardern (born 26 July 1980) is a New Zealand politician serving as the 40th prime minister of New Zealand and leader of the Labour Party since 2017.",
+              "text": "Jacinda Kate Laurell Ardern (born 26 July 1980) is a New Zealand politician who has been the 40th prime minister of New Zealand and leader of the Labour Party since 2017.",
               "links": [
                 {
                   "type": "internal",
@@ -319,7 +319,7 @@
         {
           "sentences": [
             {
-              "text": "In March 2019, Ardern led the country through the aftermath of the Christchurch mosque shootings, rapidly introducing strict gun laws in response, and throughout 2020 she directed the country's response to the COVID-19 pandemic, which had been praised and endorsed worldwide.",
+              "text": "In March 2019, Ardern led the country through the aftermath of the Christchurch mosque shootings, rapidly introducing strict gun laws in response, and throughout 2020 she directed New Zealand's response to the COVID-19 pandemic, which has been praised and endorsed worldwide.",
               "links": [
                 {
                   "type": "internal",
@@ -331,7 +331,7 @@
                   "page": "Gun law in New Zealand"
                 },
                 {
-                  "text": "country's response to the COVID-19 pandemic",
+                  "text": "New Zealand's response to the COVID-19 pandemic",
                   "type": "internal",
                   "page": "COVID-19 pandemic in New Zealand"
                 }
