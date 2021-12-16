@@ -382,6 +382,20 @@
           "template": "post-nominals"
         },
         {
+          "list": [
+            "Patsy Reddy",
+            "Cindy Kiro"
+          ],
+          "template": "ubl"
+        },
+        {
+          "list": [
+            "Winston Peters (2017–2020)",
+            "Grant Robertson (2020–present)"
+          ],
+          "template": "ubl"
+        },
+        {
           "df": "y",
           "year": "1980",
           "month": "7",
@@ -449,30 +463,10 @@
             "text": "Governor-General"
           },
           "1namedata": {
-            "text": "Patsy Reddy Cindy Kiro",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Patsy Reddy"
-              },
-              {
-                "type": "internal",
-                "page": "Cindy Kiro"
-              }
-            ]
+            "text": "Patsy Reddy\n\nCindy Kiro"
           },
           "deputy1": {
-            "text": "Winston Peters (2017–2020) Grant Robertson (2020–present)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Winston Peters"
-              },
-              {
-                "type": "internal",
-                "page": "Grant Robertson"
-              }
-            ]
+            "text": "Winston Peters (2017–2020)\n\nGrant Robertson (2020–present)"
           },
           "term_start": {
             "text": "26 October 2017"
