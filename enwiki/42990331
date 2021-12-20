@@ -30,16 +30,11 @@
         {
           "sentences": [
             {
-              "text": "Dame Alcyion Cynthia Kiro  (née Simpson; born 1958) is a New Zealand public health academic, administrator, and advocate, who has served as the 22nd governor-general of New Zealand since 21 October 2021.",
+              "text": "Dame Alcyion Cynthia Kiro  (née Simpson; born 1958) is a New Zealand public health academic, administrator, and advocate, who has served as the 22nd Governor-General of New Zealand since 21 October 2021.",
               "links": [
                 {
-                  "text": "governor-general",
                   "type": "internal",
                   "page": "Governor-General of New Zealand"
-                },
-                {
-                  "type": "internal",
-                  "page": "New Zealand"
                 }
               ],
               "formatting": {
