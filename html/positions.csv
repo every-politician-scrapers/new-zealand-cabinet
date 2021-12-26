@@ -1,0 +1,69 @@
+id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
+Q14931517,Monarch of New Zealand,Q664,Q664,,,,,,,
+Q455690,Governor-General of New Zealand,Q664,Q664,,,1841-05-03,,,,Governor-General of New Zealand
+Q1071117,Prime Minister of New Zealand,Q664,Q664,,Q1362280,1856-05-07,,,,Prime Minister of New Zealand
+Q5261068,Deputy Prime Minister of New Zealand,Q664,Q664,,,1954-11-13,,,,Deputy Prime Minister of New Zealand
+Q107613035,Minister for ACC,Q664,Q664,,,,,,,
+Q6866033,Minister of Agriculture,Q664,Q664,,,1889-10-17,,,,Minister of Agriculture (New Zealand)
+Q29025010,"Minister for Arts, Culture and Heritage",Q664,,,,1975-12-12,,,,"Minister for Arts, Culture and Heritage"
+Q107693889,Minister for Biosecurity,Q664,Q664,,,,,,,
+Q55623233,"Minister of Broadcasting, Communications and Digital Media",Q664,Q664,,,1960-12-12,,,,"Minister of Broadcasting, Communications and Digital Media"
+Q48783517,Minister for Building and Construction,Q664,Q664,,,2004-11-01,,,,Minister for Building and Construction (New Zealand)
+Q107693863,Minister for COVID-19 Response,Q664,Q664,,,,,,,
+Q105485411,Minister for Children,Q664,Q664,,,2017-04,,,,
+Q85785663,Minister of Commerce and Consumer Affairs,Q664,Q664,,,,,,,Minister of Commerce and Consumer Affairs
+Q6866068,Minister of Conservation,Q664,Q664,,,1987-04-01,,,,Minister of Conservation (New Zealand)
+Q6866081,Minister of Corrections,Q664,Q664,,,1996,,,,Minister of Corrections (New Zealand)
+Q107693929,Minister for the Digital Economy and Communications,Q664,Q664,,,,,,,
+Q107693935,Minister for Disability Issues,Q664,Q664,,,,,,,
+Q107612764,Minister for Economic and Regional Development,Q664,Q664,,,,,,,
+Q6866108,Minister of Education,Q664,Q664,,,1878-01-12,,,,Minister of Education (New Zealand)
+Q107612839,Minister for Emergency Management,Q664,Q664,,,,,,,
+Q85785670,Minister of Energy and Resources,Q664,Q664,,,,,,,Minister of Energy and Resources (New Zealand)
+Q97446369,Minister for the Environment,Q664,Q664,,,,,,,
+Q6866129,Minister of Finance,Q664,Q664,,,1841-05-03,,,,Minister of Finance (New Zealand)
+Q85785672,Minister of Fisheries,Q664,Q664,,,,,,,Minister of Fisheries (New Zealand)
+Q107693901,Minister for Food Safety,Q664,Q664,,,,,,,
+Q6866148,Minister of Foreign Affairs,Q664,Q664,,,1919,,,,Minister of Foreign Affairs (New Zealand)
+Q85785673,Minister of Forestry,Q664,Q664,,,,,,,Minister of Forestry (New Zealand)
+Q6866167,Minister of Health,Q664,Q664,,,1900-11-08,,,,Minister of Health (New Zealand)
+Q40889194,Minister for Housing,Q664,Q664,,,1938-12-13,,,,Minister of Housing (New Zealand)
+Q25241937,Minister of Immigration,Q664,Q664,,,1940-04-30,,,,Minister of Immigration (New Zealand)
+Q6866214,Minister of Infrastructure,Q664,Q664,,,2008-11-19,,,,Minister for Infrastructure (New Zealand)
+Q65088927,Minister of Internal Affairs,Q664,Q664,,,,,,,Minister of Internal Affairs (New Zealand)
+Q6866227,Minister of Justice,Q664,Q664,,,1870-06-13,,,,Minister of Justice (New Zealand)
+Q104856417,Minister for Land Information,Q664,Q664,,,,,,,Minister for Land Information (New Zealand)
+Q85785675,Minister of Local Government of New Zealand,Q664,Q664,,,,,,,Minister of Local Government (New Zealand)
+Q107612854,Minister for Māori Crown Relations: Te Arawhiti,Q664,Q664,,,,,,,
+Q991876,Minister for Māori Development,Q664,Q664,,,1858-08-27,,,,Minister for Māori Development
+Q18204447,Minister of National Security and Intelligence,Q664,Q664,,,,,,,Minister of National Security and Intelligence (New Zealand)
+Q85785682,Minister of Police,Q664,Q664,,,,,,,Minister of Police (New Zealand)
+Q107693853,Minister for the Public Service,Q664,Q664,,,,,,,
+Q96393329,Minister of Racing,Q664,Q664,,,,,,,Minister for Racing
+Q85785658,"Minister for Research, Science and Innovation",Q664,Q664,,,,,,,"Minister for Research, Science and Innovation"
+Q107638838,Minister of Revenue,Q664,Q664,,,,,,,
+Q107693897,Minister for Rural Communities,Q664,Q664,,,,,,,
+Q98078077,Minister for Seniors,Q664,Q664,,,,,,,Minister for Seniors
+Q107612748,Minister for Small Business,Q664,Q664,,,,,,,
+Q25998902,Minister of Social Development,Q664,Q664,,,,,,,
+Q55623217,Minister for Social Development,Q664,Q664,,,1972-04-01,,,,Minister for Social Development (New Zealand)
+Q85785660,Minister for Sport and Recreation,Q664,Q664,,,,,,,Minister for Sport and Recreation
+Q24189763,Minister of State Owned Enterprises,Q664,Q664,,,1987-08-01,,,,Minister for State Owned Enterprises
+Q85785687,Minister of Statistics,Q664,Q664,,,,,,,Minister of Statistics (New Zealand)
+Q48769875,Minister of Tourism,Q664,Q664,,,1967-02-15,,,,Minister of Tourism (New Zealand)
+Q107693894,Minister for Trade and Export Growth,Q664,Q664,,,,,,,
+Q107612808,Minister of Transport,Q664,Q664,,,,,,,
+Q48796081,Minister for Treaty of Waitangi Negotiations,Q664,Q664,,,1990,,,,Minister for Treaty of Waitangi Negotiations
+Q107612786,Minister for Whānau Ora,Q664,Q664,,,,,,,
+Q107612861,Minister for Women,Q664,Q664,,,,,,,
+Q97628055,Minister for Workplace Relations and Safety,Q664,Q664,,,,,,,Minister for Workplace Relations and Safety
+Q107693909,Minister Responsible for the GCSB,Q664,Q664,,,,,,,
+Q107693906,Minister Responsible for the NZSIS,Q664,Q664,,,,,,,
+Q7574301,Speaker of the New Zealand House of Representatives,Q664,,,,1856,,,,Speaker of the New Zealand House of Representatives
+Q4818600,Attorney-General of New Zealand,Q664,Q664,,,1856-05-07,,,,Attorney-General (New Zealand)
+Q5096798,Chief Justice of New Zealand,Q664,,,,1908,,,,Chief Justice of New Zealand
+Q5097016,Chief of Defence Force,Q664,,,,1963-07-01,,,,Chief of Defence Force (New Zealand)
+Q109550755,Governor of the Reserve Bank of New Zealand,Q664,,,,,,,,
+Q39593532,Prime Minister of the Cook Islands,Q664,Q26988,,,1965-08-04,,,,Prime Minister of the Cook Islands
+Q2602784,Premier of Niue,Q34020,Q34020,,,1974-10-19,,,,Premier of Niue
+Q2824538,Administrator of Tokelau,Q664,,,,1926,,,,Administrator of Tokelau
