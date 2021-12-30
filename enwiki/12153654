@@ -466,9 +466,10 @@
         },
         {
           "fullwidth": "on",
-          "class": "nowrap",
           "colstyle": "padding:0;",
           "rowstyle": "font-weight:normal;",
+          "col1style": "max-width:10em;",
+          "col2class": "nowrap",
           "list": [
             "Canada",
             "1952–present",
@@ -490,7 +491,7 @@
             "1978–present",
             "St Lucia",
             "1979–present",
-            "'''[[Monarchy of Saint Vincent and the Grenadines|St Vincent and the\nGrenadines]]'''",
+            "St Vincent and the Grenadines",
             "1979–present",
             "Belize",
             "1981–present",
@@ -669,10 +670,6 @@
               {
                 "type": "internal",
                 "page": "Mayfair"
-              },
-              {
-                "type": "internal",
-                "page": "London, United Kingdom"
               }
             ]
           },
