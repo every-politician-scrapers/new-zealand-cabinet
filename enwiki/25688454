@@ -127,7 +127,7 @@
       ],
       "templates": [
         {
-          "description": "Prime Minister of the Cook Islands",
+          "description": "Secretary General of the Pacific Islands Forum",
           "template": "short description"
         },
         {
@@ -194,7 +194,7 @@
             ]
           },
           "order1": {
-            "text": "9th"
+            "text": "11th"
           },
           "office1": {
             "text": "Prime Minister of the Cook Islands"
