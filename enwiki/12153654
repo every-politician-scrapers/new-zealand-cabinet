@@ -466,7 +466,7 @@
         },
         {
           "fullwidth": "on",
-          "colstyle": "padding:0;",
+          "colstyle": "padding:0;vertical-align:bottom;",
           "rowstyle": "font-weight:normal;",
           "col1style": "max-width:10em;",
           "col2class": "nowrap",
