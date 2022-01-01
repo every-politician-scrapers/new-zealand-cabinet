@@ -95,6 +95,10 @@
           "template": "short description"
         },
         {
+          "date": "December 2021",
+          "template": "cleanup bare urls"
+        },
+        {
           "date": "April 2020",
           "template": "use dmy dates"
         },
