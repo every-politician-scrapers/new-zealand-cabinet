@@ -620,32 +620,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "https://www.rnz.co.nz/international/pacific-news/427337/cook-islands-parliament-electing-new-pm",
-          "title": "Cook Islands parliament electing new PM",
-          "publisher": "Radio New Zealand",
-          "date": "1 October 2020",
-          "access-date": "1 October 2020",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.rnz.co.nz/international/pacific-news/435765/former-cook-islands-pm-is-the-new-secretary-general-of-the-pif",
-          "title": "Former Cook Islands PM is the new Secretary General of the PIF",
-          "publisher": "Radio New Zealand",
-          "date": "4 February 2021",
-          "accessdate": "4 February 2021",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

@@ -505,22 +505,6 @@
             "text": "Teacher"
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "http://www.parliament.nz/en-NZ/PB/Debates/Debates/5/c/4/49HansD_20081208_00000010-Members-Sworn.htm",
-          "title": "New Zealand Hansard – Members Sworn [Volume:651; Page:2]",
-          "publisher": "New Zealand Parliament",
-          "access-date": "7 November 2017",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

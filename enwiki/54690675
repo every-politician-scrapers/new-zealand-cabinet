@@ -234,27 +234,6 @@
             "number": 1
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.parliament.nz/media/6305/roll-of-members-of-the-new-zealand-house-of-representatives-1854-onwards.pdf",
-          "title": "Roll of members of the New Zealand House of Representatives, 1854 onwards",
-          "date": "24 May 2019",
-          "publisher": "New Zealand Parliament",
-          "access-date": "3 September 2020",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.stuff.co.nz/life-style/parenting/baby/100748953/arderns-baby-already-has-friends-in-high-places",
-          "title": "Ardern's baby already has friends in high places",
-          "first": "Audrey",
-          "last": "Malone",
-          "date": "20 January 2018",
-          "work": "Stuff",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]
