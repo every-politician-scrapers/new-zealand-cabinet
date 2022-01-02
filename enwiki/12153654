@@ -439,7 +439,7 @@
       ],
       "templates": [
         {
-          "description": "Queen of the United Kingdom and other realms",
+          "description": "Queen of the United Kingdom and 14 other Commonwealth realms",
           "template": "short description"
         },
         {
@@ -734,18 +734,6 @@
           "signature": {
             "text": "Elizabeth II signature 1952.svg"
           }
-        }
-      ],
-      "references": [
-        {
-          "title": "Britain's monarchy",
-          "date": "16 May 2002",
-          "last1": "Alden",
-          "first1": "Chris",
-          "url": "https://www.theguardian.com/world/2002/may/16/qanda.jubilee",
-          "work": "The Guardian",
-          "template": "citation",
-          "type": "citation"
         }
       ]
     }

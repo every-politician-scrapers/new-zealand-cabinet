@@ -438,51 +438,6 @@
             "text": "http://nanaiamahuta.org.nz/"
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.parliament.nz/en-NZ/PB/Debates/Debates/5/c/4/49HansD_20081208_00000010-Members-Sworn.htm",
-          "title": "New Zealand Hansard – Members Sworn [Volume:651;Page:2]",
-          "publisher": "New Zealand Parliament",
-          "access-date": "10 September 2017",
-          "archive-url": "https://archive.today/20130223070945/http://www.parliament.nz/en-NZ/PB/Debates/Debates/5/c/4/49HansD_20081208_00000010-Members-Sworn.htm",
-          "archive-date": "23 February 2013",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.bbc.com/news/world-46225037",
-          "title": "BBC 100 Women 2018: Who is on the list?",
-          "date": "19 November 2018",
-          "work": "BBC News",
-          "access-date": "23 July 2019",
-          "language": "en-GB",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "http://www.parliament.nz/NR/rdonlyres/06ABA64D-B539-4429-8EDF-585FA2B00EBC/190/Tainui1.pdf",
-          "title": "Elections NZ 2005: Official Count Results — Tainui",
-          "website": "Parliament.nz",
-          "access-date": "10 September 2017",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "publisher": "New Zealand Government",
-          "date": "31 October 2007",
-          "title": "Ministerial List for Announcement on 31 October 2007",
-          "url": "http://www.beehive.govt.nz/Documents/Files/Ministerial%20List.DOC",
-          "format": "DOC",
-          "website": "Beehive.govt.nz",
-          "access-date": "10 September 2017",
-          "url-status": "dead",
-          "archive-url": "https://web.archive.org/web/20081001195125/http://www.beehive.govt.nz/Documents/Files/Ministerial%20List.DOC",
-          "archive-date": "1 October 2008",
-          "template": "citation",
-          "type": "press release"
-        }
       ]
     }
   ]

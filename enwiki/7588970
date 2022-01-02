@@ -660,29 +660,6 @@
             "text": "Party profile"
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.dpmc.govt.nz/cabinet/ministers/ministerial-list",
-          "title": "Ministerial List",
-          "publisher": "DPMC",
-          "date": "26 October 2017",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last1": "Whyte",
-          "first1": "Anna",
-          "title": "PM dismisses Iain Lees-Galloway as minister after 'inappropriate relationship'",
-          "url": "https://www.tvnz.co.nz/one-news/new-zealand/minister-iain-lees-galloway-resigns-after-fairly-inappropriate-behaviour-allegation",
-          "access-date": "22 July 2020",
-          "work": "1 News",
-          "date": "22 July 2020",
-          "archive-url": "https://web.archive.org/web/20200721232221/https://www.tvnz.co.nz/one-news/new-zealand/minister-iain-lees-galloway-resigns-after-fairly-inappropriate-behaviour-allegation",
-          "archive-date": "21 July 2020",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

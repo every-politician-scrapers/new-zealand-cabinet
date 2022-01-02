@@ -386,28 +386,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "New Labour MP Dr Ayesha Verrall straight into Cabinet",
-          "url": "https://www.youtube.com/watch?v=dhpTbHO_eNk",
-          "website": "YouTube",
-          "publisher": "RNZ",
-          "access-date": "11 August 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.stuff.co.nz/national/politics/300154270/election-2020-jacinda-ardern-no-longer-the-youngest-person-in-her-cabinet-as-average-age-shifts-down",
-          "title": "Election 2020: Jacinda Ardern no longer the youngest person in her Cabinet, as average age shifts down",
-          "first": "Henry",
-          "last": "Cooke",
-          "work": "Stuff",
-          "date": "2020-11-10",
-          "access-date": "2021-10-29",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]
