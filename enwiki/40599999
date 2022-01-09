@@ -24,10 +24,10 @@
         {
           "sentences": [
             {
-              "text": "Munokoa Poto Williams (born 7 January 1962) has served as a member of  Parliament in the New Zealand Labour Party  parliamentary caucus since the 2013 Christchurch East by-election.",
+              "text": "Munokoa Poto Williams (born 7 January 1962) has served as a member of Parliament in the New Zealand Labour Party parliamentary caucus since the 2013 Christchurch East by-election.",
               "links": [
                 {
-                  "text": " Parliament",
+                  "text": "Parliament",
                   "type": "internal",
                   "page": "New Zealand Parliament"
                 },
@@ -36,9 +36,9 @@
                   "page": "New Zealand Labour Party"
                 },
                 {
-                  "text": " parliamentary caucus",
+                  "text": "parliamentary caucus",
                   "type": "internal",
-                  "page": "parliamentary group "
+                  "page": "parliamentary group"
                 },
                 {
                   "text": "2013 Christchurch East by-election",
