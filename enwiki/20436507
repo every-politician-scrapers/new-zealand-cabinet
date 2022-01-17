@@ -410,8 +410,12 @@
           "list": [
             "jə",
             "SIN",
-            "də",
-            "_",
+            "də"
+          ],
+          "template": "respell"
+        },
+        {
+          "list": [
             "ar",
             "DURN"
           ],
