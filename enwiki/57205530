@@ -1,0 +1,145 @@
+{
+  "title": "Una Jagose",
+  "pageID": 57205530,
+  "categories": [
+    "Living people",
+    "New Zealand Queen's Counsel",
+    "21st-century New Zealand lawyers",
+    "University of Otago alumni",
+    "Solicitors-General of New Zealand",
+    "Victoria University of Wellington alumni",
+    "People from Cambridge, New Zealand",
+    "Year of birth missing (living people)",
+    "New Zealand Women of Influence Award recipients",
+    "New Zealand people of Indian descent"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Una Jagose  is a lawyer and Queen's Counsel from New Zealand.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Queen's Counsel"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Una Jagose"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Jagose was born and raised in Cambridge, New Zealand.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cambridge, New Zealand"
+                }
+              ]
+            },
+            {
+              "text": "Her parents were both medical professionals who had emigrated to New Zealand: her father was a Parsi doctor from India and her mother a nurse from Ireland.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Parsi"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Jagose studied law at the University of Otago followed by a postgraduate degree, also in law, at Victoria University of Wellington.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Otago"
+                },
+                {
+                  "type": "internal",
+                  "page": "Victoria University of Wellington"
+                }
+              ]
+            },
+            {
+              "text": "She was admitted to the bar in 1990 and joined the then Ministry of Consumer Affairs before moving to the Ministry of Fisheries where she was appointed Chief Legal Advisor in 1999.",
+              "links": [
+                {
+                  "text": "Ministry of Consumer Affairs",
+                  "type": "internal",
+                  "page": "Ministry of Consumer Affairs (New Zealand)"
+                },
+                {
+                  "text": "Ministry of Fisheries",
+                  "type": "internal",
+                  "page": "Ministry of Fisheries (New Zealand)"
+                }
+              ]
+            },
+            {
+              "text": "Jagose joined Crown Law in 2002 and was appointed Deputy Solicitor-General in 2012."
+            },
+            {
+              "text": "She was appointed Acting Director of the Government Communications Security Bureau in 2015, then as the Solicitor-General in February 2016 and as a Queen's Counsel in June 2016.",
+              "links": [
+                {
+                  "text": "Government Communications Security Bureau",
+                  "type": "internal",
+                  "page": "Government Communications Security Bureau Act 2003"
+                },
+                {
+                  "text": "Solicitor-General",
+                  "type": "internal",
+                  "page": "Solicitor-General of New Zealand"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2020, Jagose won the Public Policy category of the New Zealand Women of Influence Awards.",
+              "links": [
+                {
+                  "text": "New Zealand Women of Influence Awards",
+                  "type": "internal",
+                  "page": "New Zealand Women of Influence Award"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "July 2019",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "July 2019",
+          "template": "use new zealand english"
+        },
+        {
+          "country": "NZL",
+          "list": [
+            "QC"
+          ],
+          "template": "post-nominals"
+        }
+      ]
+    }
+  ]
+}
