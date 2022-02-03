@@ -3,5 +3,5 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q5476155,Fourth National Government of New Zealand,1990-01-01,9,1990-01-01,9,1999-01-01,9,,,,,,,,,,
 ,Q5447531,Fifth Labour Government of New Zealand,1999-01-01,9,1999-01-01,9,2008-01-01,9,,,,,Q5447538,Fifth National Government of New Zealand,Q5476155,Fourth National Government of New Zealand,Q5447538,Fifth National Government of New Zealand
 ,Q5447538,Fifth National Government of New Zealand,2008-11-19,11,2008-01-01,9,2017-10-26,11,,,Q5447531,Fifth Labour Government of New Zealand,Q42314738,Sixth Labour Government of New Zealand,,,,
-,Q42314738,Sixth Labour Government of New Zealand,2017-10-26,11,,,2020-01-01,9,,,Q5447538,Fifth National Government of New Zealand,,,,,Q101584542,2nd Andern Cabinet
-,Q101584542,2nd Andern Cabinet,2020-11-06,11,,,,,,,,,,,Q42314738,Sixth Labour Government of New Zealand,,
+,Q110763104,1st Adern Cabinet,2017-10-26,11,,,2020-11-06,11,,,,,Q101584542,2nd Andern Cabinet,,,,
+,Q101584542,2nd Andern Cabinet,2020-11-06,11,,,,,,,Q110763104,1st Adern Cabinet,,,,,,
