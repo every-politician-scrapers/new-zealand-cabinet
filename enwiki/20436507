@@ -388,8 +388,8 @@
         },
         {
           "list": [
-            "Winston Peters (2017–2020)",
-            "Grant Robertson (2020–present)"
+            "Winston Peters",
+            "Grant Robertson"
           ],
           "template": "ubl"
         },
@@ -468,7 +468,7 @@
             "text": "Patsy Reddy\n\nCindy Kiro"
           },
           "deputy1": {
-            "text": "Winston Peters (2017–2020)\n\nGrant Robertson (2020–present)"
+            "text": "Winston Peters\n\nGrant Robertson"
           },
           "term_start": {
             "text": "26 October 2017"
