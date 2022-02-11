@@ -69,7 +69,7 @@
                   "text": "Children's Commissioner",
                   "type": "internal",
                   "page": "Children's Commissioner Act 2003",
-                  "anchor": "Children.27s Commissioners"
+                  "anchor": "Children's Commissioners"
                 },
                 {
                   "type": "internal",
@@ -272,6 +272,51 @@
           },
           "children": {
             "text": "2 children, 2 stepchildren"
+          },
+          "office2": {
+            "text": "Children's Commissioner",
+            "links": [
+              {
+                "text": "Children's Commissioner",
+                "type": "internal",
+                "page": "Children's Ombudsman",
+                "anchor": "New Zealand"
+              }
+            ]
+          },
+          "termstart2": {
+            "text": "1 September 2003"
+          },
+          "termend2": {
+            "text": "1 September 2008"
+          },
+          "appointer2": {
+            "text": "Steve Maharey",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Steve Maharey"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Roger McClay",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Roger McClay"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "John Angus",
+            "links": [
+              {
+                "text": "John Angus",
+                "type": "internal",
+                "page": "John Angus (children's advocate)"
+              }
+            ]
           }
         }
       ]
