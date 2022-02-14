@@ -238,7 +238,14 @@
             ]
           },
           "office3": {
-            "text": "1st Minister for COVID-19 Response"
+            "text": "1st Minister for COVID-19 Response",
+            "links": [
+              {
+                "text": "Minister for COVID-19 Response",
+                "type": "internal",
+                "page": "COVID-19 pandemic in New Zealand"
+              }
+            ]
           },
           "term_start3": {
             "text": "6 November 2020"
@@ -251,6 +258,14 @@
                 "page": "Jacinda Ardern"
               }
             ]
+          },
+          "predecessor3": {
+            "text": "Position established",
+            "formatting": {
+              "italic": [
+                "Position established"
+              ]
+            }
           },
           "office4": {
             "text": "41st Minister of Health",
