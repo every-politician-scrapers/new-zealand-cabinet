@@ -178,7 +178,7 @@
         },
         {
           "honorific_prefix": {
-            "text": "Her Excellency The Right Honourable",
+            "text": "Her Excellency\nThe Right Honourable",
             "links": [
               {
                 "type": "internal",

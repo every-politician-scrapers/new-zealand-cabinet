@@ -204,7 +204,7 @@
             "number": 2018
           },
           "doctoral_advisors": {
-            "text": "Philip Hill Katrina Sharples Reinout van Crevel Bachti Alisjahbana",
+            "text": "Philip Hill\nKatrina Sharples\nReinout van Crevel\nBachti Alisjahbana",
             "links": [
               {
                 "type": "internal",
@@ -344,7 +344,7 @@
             ]
           },
           "alma_mater": {
-            "text": "University of Otago (MB ChB, PhD) London School of Hygiene & Tropical Medicine (MSc) Gorgas Institute (DipTropMedH)",
+            "text": "University of Otago (MB ChB, PhD)\nLondon School of Hygiene & Tropical Medicine (MSc)\nGorgas Institute (DipTropMedH)",
             "links": [
               {
                 "type": "internal",
@@ -372,7 +372,7 @@
             ]
           },
           "nationality": {
-            "text": "New Zealand Maldivian",
+            "text": "New Zealand\nMaldivian",
             "links": [
               {
                 "type": "internal",
