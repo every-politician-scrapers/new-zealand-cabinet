@@ -1,511 +1,59 @@
 {
-  "title": "Trevor Mallard",
-  "pageID": 615426,
-  "categories": [
-    "1954 births",
-    "Members of the Cabinet of New Zealand",
-    "Members of the New Zealand House of Representatives",
-    "New Zealand Labour Party MPs",
-    "New Zealand MPs for Hutt Valley electorates",
-    "New Zealand MPs for North Island electorates",
-    "Victoria University of Wellington alumni",
-    "People educated at Onslow College",
-    "New Zealand education ministers",
-    "Living people",
-    "Unsuccessful candidates in the 1990 New Zealand general election",
-    "21st-century New Zealand politicians",
-    "Candidates in the 2017 New Zealand general election",
-    "New Zealand list MPs",
-    "Speakers of the New Zealand House of Representatives",
-    "Post Primary Teachers' Association people",
-    "Candidates in the 2020 New Zealand general election"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Trevor Colin Mallard (born 17 June 1954) is a New Zealand politician and member of the Labour Party who is the 30th and current Speaker of the New Zealand House of Representatives.",
-              "links": [
-                {
-                  "text": "Labour Party",
-                  "type": "internal",
-                  "page": "New Zealand Labour Party"
-                },
-                {
-                  "type": "internal",
-                  "page": "Speaker of the New Zealand House of Representatives"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Trevor Colin Mallard"
-                ]
-              }
-            },
-            {
-              "text": "Currently a list MP, he formerly represented the Hutt South electorate from 1996 to 2017; he represented Pencarrow from 1993 to 1996; and Hamilton West from 1984 to 1990.",
-              "links": [
-                {
-                  "text": "list MP",
-                  "type": "internal",
-                  "page": "list MP"
-                },
-                {
-                  "type": "internal",
-                  "page": "Hutt South"
-                },
-                {
-                  "text": "Pencarrow",
-                  "type": "internal",
-                  "page": "Pencarrow (New Zealand electorate)"
-                },
-                {
-                  "text": "Hamilton West",
-                  "type": "internal",
-                  "page": "Hamilton West (New Zealand electorate)"
-                }
-              ]
-            },
-            {
-              "text": "Following the retirement from Parliament of Nick Smith in June 2021, Mallard became the longest continuously serving MP, known as the Father of the House.",
-              "links": [
-                {
-                  "text": "Nick Smith",
-                  "type": "internal",
-                  "page": "Nick Smith (New Zealand politician)"
-                },
-                {
-                  "text": "Father of the House",
-                  "type": "internal",
-                  "page": "Father of the House (New Zealand)"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Mallard was a Cabinet minister in the Fifth Labour Government of New Zealand (1999 to 2008) holding the portfolios of Environment, Labour, Broadcasting, State Owned Enterprises, Rugby World Cup, Education and Associate Finance.",
-              "links": [
-                {
-                  "text": "Cabinet minister",
-                  "type": "internal",
-                  "page": "Ministers of the New Zealand Government"
-                },
-                {
-                  "type": "internal",
-                  "page": "Fifth Labour Government of New Zealand"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "New Zealand politician",
-          "template": "short description"
-        },
-        {
-          "date": "February 2022",
-          "template": "use dmy dates"
-        },
-        {
-          "date": "August 2014",
-          "template": "use new zealand english"
-        },
-        {
-          "size": "100%",
-          "list": [
-            "RHon"
-          ],
-          "template": "pre-nominal styles"
-        },
-        {
-          "year": "1954",
-          "month": "06",
-          "day": "17",
-          "df": "yes",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Trevor Mallard"
-          },
-          "honorific-suffix": {
-            "text": "MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "Member of parliament",
-                "anchor": "New Zealand"
-              }
-            ]
-          },
-          "image": {
-            "text": "Rt Hon Trevor Mallard.jpg"
-          },
-          "order": {
-            "text": "30th Speaker of the New Zealand House of Representatives",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Speaker of the New Zealand House of Representatives"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "7 November 2017"
-          },
-          "monarch": {
-            "text": "Elizabeth II",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Elizabeth II"
-              }
-            ]
-          },
-          "governor-general": {
-            "text": "Patsy Reddy Cindy Kiro",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Patsy Reddy"
-              },
-              {
-                "type": "internal",
-                "page": "Cindy Kiro"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Jacinda Ardern",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jacinda Ardern"
-              }
-            ]
-          },
-          "deputy": {
-            "text": "Anne Tolley (2017–2020) Adrian Rurawhe (2020–present)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Anne Tolley"
-              },
-              {
-                "type": "internal",
-                "page": "Adrian Rurawhe"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "David Carter",
-            "links": [
-              {
-                "text": "David Carter",
-                "type": "internal",
-                "page": "David Carter (politician)"
-              }
-            ]
-          },
-          "order2": {
-            "text": "41st Minister of Education",
-            "links": [
-              {
-                "text": "Minister of Education",
-                "type": "internal",
-                "page": "Minister of Education (New Zealand)"
-              }
-            ]
-          },
-          "parliament": {
-            "text": "New Zealand"
-          },
-          "predecessor2": {
-            "text": "Nick Smith",
-            "links": [
-              {
-                "text": "Nick Smith",
-                "type": "internal",
-                "page": "Nick Smith (New Zealand politician)"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Steve Maharey",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Steve Maharey"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "10 December 1999"
-          },
-          "term_end2": {
-            "text": "19 October 2005"
-          },
-          "primeminister2": {
-            "text": "Helen Clark",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Helen Clark"
-              }
-            ]
-          },
-          "order3": {
-            "text": "13th Minister for the Environment",
-            "links": [
-              {
-                "text": "Minister for the Environment",
-                "type": "internal",
-                "page": "Ministry for the Environment (New Zealand)"
-              }
-            ]
-          },
-          "parliament3": {
-            "text": "New Zealand"
-          },
-          "predecessor3": {
-            "text": "David Parker (acting) David Benson-Pope",
-            "links": [
-              {
-                "text": "David Parker",
-                "type": "internal",
-                "page": "David Parker (New Zealand politician)"
-              },
-              {
-                "type": "internal",
-                "page": "David Benson-Pope"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Nick Smith",
-            "links": [
-              {
-                "text": "Nick Smith",
-                "type": "internal",
-                "page": "Nick Smith (New Zealand politician)"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "31 October 2007"
-          },
-          "term_end3": {
-            "text": "19 November 2008"
-          },
-          "primeminister3": {
-            "text": "Helen Clark"
-          },
-          "order4": {
-            "text": "Assistant Speaker of the House of Representatives"
-          },
-          "parliament4": {
-            "text": "New Zealand"
-          },
-          "predecessor4": {
-            "text": "Ross Robertson",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ross Robertson"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Adrian Rurawhe",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Adrian Rurawhe"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "21 October 2014"
-          },
-          "term_end4": {
-            "text": "7 November 2017"
-          },
-          "constituency_mp9": {
-            "text": "Hamilton West",
-            "links": [
-              {
-                "text": "Hamilton West",
-                "type": "internal",
-                "page": "Hamilton West (New Zealand electorate)"
-              }
-            ]
-          },
-          "parliament9": {
-            "text": "New Zealand"
-          },
-          "predecessor9": {
-            "text": "Mike Minogue",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mike Minogue"
-              }
-            ]
-          },
-          "successor9": {
-            "text": "Grant Thomas",
-            "links": [
-              {
-                "text": "Grant Thomas",
-                "type": "internal",
-                "page": "Grant Thomas (politician)"
-              }
-            ]
-          },
-          "term_start9": {
-            "text": "1984",
-            "number": 1984
-          },
-          "term_end9": {
-            "text": "1990",
-            "number": 1990
-          },
-          "constituency_mp7": {
-            "text": "Pencarrow",
-            "links": [
-              {
-                "text": "Pencarrow",
-                "type": "internal",
-                "page": "Pencarrow (New Zealand electorate)"
-              }
-            ]
-          },
-          "parliament7": {
-            "text": "New Zealand"
-          },
-          "predecessor7": {
-            "text": "Sonja Davies",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sonja Davies"
-              }
-            ]
-          },
-          "term_start7": {
-            "text": "1993",
-            "number": 1993
-          },
-          "term_end7": {
-            "text": "1996",
-            "number": 1996
-          },
-          "constituency_mp6": {
-            "text": "Hutt South",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Hutt South"
-              }
-            ]
-          },
-          "parliament6": {
-            "text": "New Zealand"
-          },
-          "term_start6": {
-            "text": "12 October 1996"
-          },
-          "term_end6": {
-            "text": "23 September 2017"
-          },
-          "majority6": {
-            "text": "709 (1.83%)"
-          },
-          "successor6": {
-            "text": "Chris Bishop",
-            "links": [
-              {
-                "text": "Chris Bishop",
-                "type": "internal",
-                "page": "Chris Bishop (politician)"
-              }
-            ]
-          },
-          "constituency_mp5": {
-            "text": "Labour party list",
-            "links": [
-              {
-                "text": "Labour",
-                "type": "internal",
-                "page": "New Zealand Labour Party"
-              },
-              {
-                "text": "party list",
-                "type": "internal",
-                "page": "party list"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "23 September 2017"
-          },
-          "parliament5": {
-            "text": "New Zealand"
-          },
-          "birth_date": {
-            "text": "June 17, 1954"
-          },
-          "birth_place": {
-            "text": "Wellington, New Zealand",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Wellington"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "New Zealand"
-          },
-          "spouse": {
-            "text": "Stephanie (divorced) Jane Clifton"
-          },
-          "party": {
-            "text": "Labour",
-            "links": [
-              {
-                "text": "Labour",
-                "type": "internal",
-                "page": "New Zealand Labour Party"
-              }
-            ]
-          },
-          "relations": {
-            "text": "Beth Mallard (daughter)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Beth Mallard"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Teacher"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Trevor Mallard",
+  "honorific-suffix": "MP",
+  "image": "Rt Hon Trevor Mallard.jpg",
+  "order": "30th Speaker of the New Zealand House of Representatives",
+  "term_start": "7 November 2017",
+  "monarch": "Elizabeth II",
+  "governor-general": "Patsy Reddy Cindy Kiro",
+  "primeminister": "Jacinda Ardern",
+  "deputy": "Anne Tolley (2017–2020) Adrian Rurawhe (2020–present)",
+  "predecessor": "David Carter",
+  "order2": "41st Minister of Education",
+  "parliament": "New Zealand",
+  "predecessor2": "Nick Smith",
+  "successor2": "Steve Maharey",
+  "term_start2": "10 December 1999",
+  "term_end2": "19 October 2005",
+  "primeminister2": "Helen Clark",
+  "order3": "13th Minister for the Environment",
+  "parliament3": "New Zealand",
+  "predecessor3": "David Parker (acting) David Benson-Pope",
+  "successor3": "Nick Smith",
+  "term_start3": "31 October 2007",
+  "term_end3": "19 November 2008",
+  "primeminister3": "Helen Clark",
+  "order4": "Assistant Speaker of the House of Representatives",
+  "parliament4": "New Zealand",
+  "predecessor4": "Ross Robertson",
+  "successor4": "Adrian Rurawhe",
+  "term_start4": "21 October 2014",
+  "term_end4": "7 November 2017",
+  "constituency_mp9": "Hamilton West",
+  "parliament9": "New Zealand",
+  "predecessor9": "Mike Minogue",
+  "successor9": "Grant Thomas",
+  "term_start9": "1984",
+  "term_end9": "1990",
+  "constituency_mp7": "Pencarrow",
+  "parliament7": "New Zealand",
+  "predecessor7": "Sonja Davies",
+  "term_start7": "1993",
+  "term_end7": "1996",
+  "constituency_mp6": "Hutt South",
+  "parliament6": "New Zealand",
+  "term_start6": "12 October 1996",
+  "term_end6": "23 September 2017",
+  "majority6": "709 (1.83%)",
+  "successor6": "Chris Bishop",
+  "constituency_mp5": "Labour party list",
+  "term_start5": "23 September 2017",
+  "parliament5": "New Zealand",
+  "birth_date": "June 17, 1954",
+  "birth_place": "Wellington, New Zealand",
+  "nationality": "New Zealand",
+  "spouse": "Stephanie (divorced) Jane Clifton",
+  "party": "Labour",
+  "relations": "Beth Mallard (daughter)",
+  "occupation": "Teacher"
 }

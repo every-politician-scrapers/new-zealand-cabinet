@@ -1,222 +1,24 @@
 {
-  "title": "Ross Ardern",
-  "pageID": 42280863,
-  "categories": [
-    "New Zealand people of English descent",
-    "1950s births",
-    "Living people",
-    "New Zealand Latter Day Saints",
-    "New Zealand police officers",
-    "High Commissioners of New Zealand to Niue",
-    "Jacinda Ardern",
-    "Parents of prime ministers of New Zealand"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "David Ross Ardern (born 28 February 1954) is a New Zealand diplomat and former police officer.",
-              "formatting": {
-                "bold": [
-                  "David Ross Ardern"
-                ]
-              }
-            },
-            {
-              "text": "He is currently the Administrator of Tokelau, having previously served as the High Commissioner of New Zealand to Niue from 2014 to 2018, and as Niue's police commissioner from 2005 to 2009.",
-              "links": [
-                {
-                  "text": "Administrator",
-                  "type": "internal",
-                  "page": "Administrator of Tokelau"
-                },
-                {
-                  "type": "internal",
-                  "page": "Tokelau"
-                },
-                {
-                  "text": "High Commissioner",
-                  "type": "internal",
-                  "page": "High Commissioner (Commonwealth)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Niue"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "New Zealand police officer and diplomat",
-          "template": "short description"
-        },
-        {
-          "date": "April 2018",
-          "template": "engvarb"
-        },
-        {
-          "date": "April 2018",
-          "template": "use dmy dates"
-        },
-        {
-          "df": "y",
-          "year": "1954",
-          "month": "2",
-          "day": "28",
-          "template": "birth date and age"
-        },
-        {
-          "date": "May 2018",
-          "template": "fact"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "His Excellency",
-            "links": [
-              {
-                "text": "His Excellency",
-                "type": "internal",
-                "page": "Excellency"
-              }
-            ]
-          },
-          "name": {
-            "text": "Ross Ardern"
-          },
-          "image_size": {
-            "text": "200px"
-          },
-          "caption": {
-            "text": "Ardern in 2014"
-          },
-          "office": {
-            "text": "Administrator of Tokelau",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Administrator of Tokelau"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "May 2018"
-          },
-          "1blankname": {
-            "text": "Ulu-o-Tokelau",
-            "links": [
-              {
-                "text": "Ulu-o-Tokelau",
-                "type": "internal",
-                "page": "Head of Government of Tokelau"
-              }
-            ]
-          },
-          "1namedata": {
-            "text": "Afega Gaualofa Kerisiano Kalolo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Afega Gaualofa"
-              },
-              {
-                "type": "internal",
-                "page": "Kerisiano Kalolo"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Jonathan Kings",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jonathan Kings"
-              }
-            ]
-          },
-          "office2": {
-            "text": "High Commissioner of New Zealand to Niue"
-          },
-          "primeminister2": {
-            "text": "John Key Bill English Jacinda Ardern",
-            "links": [
-              {
-                "type": "internal",
-                "page": "John Key"
-              },
-              {
-                "type": "internal",
-                "page": "Bill English"
-              },
-              {
-                "type": "internal",
-                "page": "Jacinda Ardern"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "February 2014"
-          },
-          "term_end2": {
-            "text": "2018",
-            "number": 2018
-          },
-          "predecessor2": {
-            "text": "Mark Blumsky",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mark Blumsky"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Kirk Yates"
-          },
-          "birth_name": {
-            "text": "David Ross Ardern"
-          },
-          "birth_date": {
-            "text": "February 28, 1954"
-          },
-          "birth_place": {
-            "text": "Te Aroha, New Zealand",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Te Aroha"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Laurell"
-          },
-          "relatives": {
-            "text": "Jacinda Ardern (daughter)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jacinda Ardern"
-              }
-            ]
-          },
-          "children": {
-            "text": "2",
-            "number": 2
-          },
-          "alma_mater": {
-            "text": "Royal NZ Police College"
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "His Excellency",
+  "name": "Ross Ardern",
+  "image_size": "200px",
+  "caption": "Ardern in 2014",
+  "office": "Administrator of Tokelau",
+  "term_start": "May 2018",
+  "1blankname": "Ulu-o-Tokelau",
+  "1namedata": "Afega Gaualofa Kerisiano Kalolo",
+  "predecessor": "Jonathan Kings",
+  "office2": "High Commissioner of New Zealand to Niue",
+  "primeminister2": "John Key Bill English Jacinda Ardern",
+  "term_start2": "February 2014",
+  "term_end2": "2018",
+  "predecessor2": "Mark Blumsky",
+  "successor2": "Kirk Yates",
+  "birth_name": "David Ross Ardern",
+  "birth_date": "February 28, 1954",
+  "birth_place": "Te Aroha, New Zealand",
+  "spouse": "Laurell",
+  "relatives": "Jacinda Ardern (daughter)",
+  "children": "2",
+  "alma_mater": "Royal NZ Police College"
 }

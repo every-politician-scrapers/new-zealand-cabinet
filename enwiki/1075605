@@ -1,511 +1,61 @@
 {
-  "title": "David Parker (New Zealand politician)",
-  "pageID": 1075605,
-  "categories": [
-    "1960 births",
-    "Living people",
-    "Attorneys-General of New Zealand",
-    "New Zealand Labour Party MPs",
-    "Members of the Cabinet of New Zealand",
-    "New Zealand lawyers",
-    "New Zealand list MPs",
-    "People from Roxburgh, New Zealand",
-    "Members of the New Zealand House of Representatives",
-    "New Zealand MPs for South Island electorates",
-    "University of Otago alumni",
-    "21st-century New Zealand politicians",
-    "Candidates in the 2017 New Zealand general election",
-    "Candidates in the 2020 New Zealand general election"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "David William Parker (born 1960) is a New Zealand Labour Party politician who currently serves as Attorney-General, Minister for the Environment, Minister of Oceans and Fisheries, Minister of Revenue and Associate Minister of Finance in the Sixth Labour Government.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "New Zealand Labour Party"
-                },
-                {
-                  "text": "Attorney-General",
-                  "type": "internal",
-                  "page": "Attorney-General of New Zealand"
-                },
-                {
-                  "text": "Minister for the Environment",
-                  "type": "internal",
-                  "page": "Minister for the Environment (New Zealand)"
-                },
-                {
-                  "text": "Sixth Labour Government",
-                  "type": "internal",
-                  "page": "Sixth Labour Government of New Zealand"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "David William Parker"
-                ]
-              }
-            },
-            {
-              "text": "He previously served as a Cabinet Minister in the Fifth Labour Government and as interim Leader of the Labour Party from September to November 2014.",
-              "links": [
-                {
-                  "text": "Cabinet Minister",
-                  "type": "internal",
-                  "page": "Cabinet of New Zealand"
-                },
-                {
-                  "text": "Fifth Labour Government",
-                  "type": "internal",
-                  "page": "Fifth Labour Government of New Zealand"
-                },
-                {
-                  "text": "Leader of the Labour Party",
-                  "type": "internal",
-                  "page": "Leader of the New Zealand Labour Party"
-                }
-              ]
-            },
-            {
-              "text": "He represented the Otago electorate at the 47th Parliament and has since served as a list MP.",
-              "links": [
-                {
-                  "text": "Otago electorate",
-                  "type": "internal",
-                  "page": "Otago (New Zealand electorate)"
-                },
-                {
-                  "text": "47th Parliament",
-                  "type": "internal",
-                  "page": "47th New Zealand Parliament"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "New Zealand politician",
-          "template": "short description"
-        },
-        {
-          "date": "November 2016",
-          "template": "use new zealand english"
-        },
-        {
-          "date": "April 2015",
-          "template": "use dmy dates"
-        },
-        {
-          "birth_year": "1960",
-          "template": "birth year and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "The Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "David Parker"
-          },
-          "honorific-suffix": {
-            "text": "MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "Member of parliament"
-              }
-            ]
-          },
-          "image": {
-            "text": "Hon David Parker.jpg"
-          },
-          "caption": {
-            "text": "Parker in 2020"
-          },
-          "order1": {
-            "text": "32nd Attorney-General of New Zealand",
-            "links": [
-              {
-                "text": "Attorney-General of New Zealand",
-                "type": "internal",
-                "page": "Attorney-General (New Zealand)"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Jacinda Ardern",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jacinda Ardern"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "26 October 2017"
-          },
-          "predecessor1": {
-            "text": "Chris Finlayson",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chris Finlayson"
-              }
-            ]
-          },
-          "primeminister2": {
-            "text": "Helen Clark",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Helen Clark"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "19 October 2005"
-          },
-          "term_end2": {
-            "text": "20 March 2006"
-          },
-          "predecessor2": {
-            "text": "Michael Cullen",
-            "links": [
-              {
-                "text": "Michael Cullen",
-                "type": "internal",
-                "page": "Michael Cullen (politician)"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Michael Cullen"
-          },
-          "order3": {
-            "text": "16th Minister for the Environment",
-            "links": [
-              {
-                "text": "Minister for the Environment",
-                "type": "internal",
-                "page": "Minister for the Environment (New Zealand)"
-              }
-            ]
-          },
-          "primeminister3": {
-            "text": "Jacinda Ardern",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jacinda Ardern"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "26 October 2017"
-          },
-          "predecessor3": {
-            "text": "Nick Smith",
-            "links": [
-              {
-                "text": "Nick Smith",
-                "type": "internal",
-                "page": "Nick Smith (New Zealand politician)"
-              }
-            ]
-          },
-          "order4": {
-            "text": "12th Minister for Trade and Export Growth",
-            "links": [
-              {
-                "text": "Minister for Trade and Export Growth",
-                "type": "internal",
-                "page": "Minister of Trade (New Zealand)"
-              }
-            ]
-          },
-          "primeminister4": {
-            "text": "Jacinda Ardern",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jacinda Ardern"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "26 October 2017"
-          },
-          "term_end4": {
-            "text": "6 November 2020"
-          },
-          "predecessor4": {
-            "text": "Todd McClay",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Todd McClay"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Damien O'Connor",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Damien O'Connor"
-              }
-            ]
-          },
-          "order5": {
-            "text": "7th Minister for Economic Development",
-            "links": [
-              {
-                "text": "Minister for Economic Development",
-                "type": "internal",
-                "page": "Minister of Economic Development (New Zealand)"
-              }
-            ]
-          },
-          "primeminister5": {
-            "text": "Jacinda Ardern",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jacinda Ardern"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "26 October 2017"
-          },
-          "term_end5": {
-            "text": "27 June 2019"
-          },
-          "predecessor5": {
-            "text": "Simon Bridges",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Simon Bridges"
-              }
-            ]
-          },
-          "successor5": {
-            "text": "Phil Twyford",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Phil Twyford"
-              }
-            ]
-          },
-          "office6": {
-            "text": "Deputy Leader of the Opposition",
-            "links": [
-              {
-                "text": "Deputy Leader of the Opposition",
-                "type": "internal",
-                "page": "Leader of the Opposition (New Zealand)"
-              }
-            ]
-          },
-          "leader6": {
-            "text": "David Cunliffe",
-            "links": [
-              {
-                "type": "internal",
-                "page": "David Cunliffe"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "15 September 2013"
-          },
-          "term_end6": {
-            "text": "30 September 2014"
-          },
-          "predecessor6": {
-            "text": "Grant Robertson",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Grant Robertson"
-              }
-            ]
-          },
-          "successor6": {
-            "text": "Annette King",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Annette King"
-              }
-            ]
-          },
-          "office7": {
-            "text": "16th Deputy Leader of the New Zealand Labour Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Deputy Leader of the New Zealand Labour Party"
-              }
-            ]
-          },
-          "leader7": {
-            "text": "David Cunliffe",
-            "links": [
-              {
-                "type": "internal",
-                "page": "David Cunliffe"
-              }
-            ]
-          },
-          "term_start7": {
-            "text": "15 September 2013"
-          },
-          "term_end7": {
-            "text": "30 September 2014"
-          },
-          "predecessor7": {
-            "text": "Grant Robertson",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Grant Robertson"
-              }
-            ]
-          },
-          "successor7": {
-            "text": "Annette King",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Annette King"
-              }
-            ]
-          },
-          "constituency_mp8": {
-            "text": "Labour Party list",
-            "links": [
-              {
-                "text": "Labour Party",
-                "type": "internal",
-                "page": "New Zealand Labour Party"
-              },
-              {
-                "text": "list",
-                "type": "internal",
-                "page": "Party list"
-              }
-            ]
-          },
-          "parliament8": {
-            "text": "New Zealand"
-          },
-          "term_start8": {
-            "text": "17 September 2005"
-          },
-          "constituency_mp9": {
-            "text": "Otago",
-            "links": [
-              {
-                "text": "Otago",
-                "type": "internal",
-                "page": "Otago (New Zealand electorate)"
-              }
-            ]
-          },
-          "parliament9": {
-            "text": "New Zealand"
-          },
-          "term_start9": {
-            "text": "27 July 2002"
-          },
-          "term_end9": {
-            "text": "17 September 2005"
-          },
-          "predecessor9": {
-            "text": "Gavan Herlihy",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Gavan Herlihy"
-              }
-            ]
-          },
-          "successor9": {
-            "text": "Jacqui Dean",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jacqui Dean"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "1960 (age 62)"
-          },
-          "birth_place": {
-            "text": "Roxburgh, New Zealand",
-            "links": [
-              {
-                "text": "Roxburgh",
-                "type": "internal",
-                "page": "Roxburgh, New Zealand"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "New Zealand"
-          },
-          "party": {
-            "text": "Labour",
-            "links": [
-              {
-                "text": "Labour",
-                "type": "internal",
-                "page": "New Zealand Labour Party"
-              }
-            ]
-          },
-          "children": {
-            "text": "3",
-            "number": 3
-          },
-          "alma_mater": {
-            "text": "University of Otago",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Otago"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Lawyer"
-          },
-          "website": {
-            "text": "davidparker.co.nz"
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "The Honourable",
+  "name": "David Parker",
+  "honorific-suffix": "MP",
+  "image": "Hon David Parker.jpg",
+  "caption": "Parker in 2020",
+  "order1": "32nd Attorney-General of New Zealand",
+  "primeminister1": "Jacinda Ardern",
+  "term_start1": "26 October 2017",
+  "predecessor1": "Chris Finlayson",
+  "primeminister2": "Helen Clark",
+  "term_start2": "19 October 2005",
+  "term_end2": "20 March 2006",
+  "predecessor2": "Michael Cullen",
+  "successor2": "Michael Cullen",
+  "order3": "16th Minister for the Environment",
+  "primeminister3": "Jacinda Ardern",
+  "term_start3": "26 October 2017",
+  "predecessor3": "Nick Smith",
+  "order4": "12th Minister for Trade and Export Growth",
+  "primeminister4": "Jacinda Ardern",
+  "term_start4": "26 October 2017",
+  "term_end4": "6 November 2020",
+  "predecessor4": "Todd McClay",
+  "successor4": "Damien O'Connor",
+  "order5": "7th Minister for Economic Development",
+  "primeminister5": "Jacinda Ardern",
+  "term_start5": "26 October 2017",
+  "term_end5": "27 June 2019",
+  "predecessor5": "Simon Bridges",
+  "successor5": "Phil Twyford",
+  "office6": "Deputy Leader of the Opposition",
+  "leader6": "David Cunliffe",
+  "term_start6": "15 September 2013",
+  "term_end6": "30 September 2014",
+  "predecessor6": "Grant Robertson",
+  "successor6": "Annette King",
+  "office7": "16th Deputy Leader of the New Zealand Labour Party",
+  "leader7": "David Cunliffe",
+  "term_start7": "15 September 2013",
+  "term_end7": "30 September 2014",
+  "predecessor7": "Grant Robertson",
+  "successor7": "Annette King",
+  "constituency_mp8": "Labour Party list",
+  "parliament8": "New Zealand",
+  "term_start8": "17 September 2005",
+  "constituency_mp9": "Otago",
+  "parliament9": "New Zealand",
+  "term_start9": "27 July 2002",
+  "term_end9": "17 September 2005",
+  "predecessor9": "Gavan Herlihy",
+  "successor9": "Jacqui Dean",
+  "birth_date": "1960 (age 62)",
+  "birth_place": "Roxburgh, New Zealand",
+  "nationality": "New Zealand",
+  "party": "Labour",
+  "children": "3",
+  "alma_mater": "University of Otago",
+  "occupation": "Lawyer",
+  "website": "davidparker.co.nz"
 }

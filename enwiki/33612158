@@ -1,384 +1,43 @@
 {
-  "title": "David Clark (New Zealand politician)",
-  "pageID": 33612158,
-  "categories": [
-    "1973 births",
-    "Living people",
-    "New Zealand Labour Party MPs",
-    "New Zealand Presbyterian ministers",
-    "Politicians from Auckland",
-    "Members of the New Zealand House of Representatives",
-    "New Zealand MPs for Dunedin electorates",
-    "University of Otago alumni",
-    "21st-century New Zealand politicians",
-    "Candidates in the 2017 New Zealand general election",
-    "Members of the Cabinet of New Zealand",
-    "Candidates in the 2020 New Zealand general election"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "David Scott Clark (born 5 January 1973) is a New Zealand Labour Party politician who is the Member of Parliament for Dunedin.",
-              "links": [
-                {
-                  "text": "Labour Party",
-                  "type": "internal",
-                  "page": "New Zealand Labour Party"
-                },
-                {
-                  "text": "Member of Parliament",
-                  "type": "internal",
-                  "page": "New Zealand House of Representatives"
-                },
-                {
-                  "text": "Dunedin",
-                  "type": "internal",
-                  "page": "Dunedin (New Zealand electorate)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "David Scott Clark"
-                ]
-              }
-            },
-            {
-              "text": "He was the Minister of Health until July 2020, when he resigned after multiple controversies related to the response to COVID-19.",
-              "links": [
-                {
-                  "text": "Minister of Health",
-                  "type": "internal",
-                  "page": "Minister of Health (New Zealand)"
-                },
-                {
-                  "text": "response to COVID-19",
-                  "type": "internal",
-                  "page": "COVID-19 pandemic in New Zealand"
-                }
-              ]
-            },
-            {
-              "text": "Previously he has been Opposition Spokesperson for Small Business and Economic Development."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "New Zealand politician",
-          "template": "short description"
-        },
-        {
-          "date": "August 2014",
-          "template": "use new zealand english"
-        },
-        {
-          "date": "September 2017",
-          "template": "use dmy dates"
-        },
-        {
-          "country": "NZL",
-          "list": [
-            "MP"
-          ],
-          "size": "100%",
-          "template": "post-nominals"
-        },
-        {
-          "template": "date",
-          "data": {
-            "year": "2011",
-            "month": "11",
-            "date": "26",
-            "df": "yes",
-            "template": "start date",
-            "text": "November 26, 2011"
-          }
-        },
-        {
-          "df": "y",
-          "year": "1973",
-          "month": "01",
-          "day": "05",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "Reverend The Honourable Dr",
-            "links": [
-              {
-                "text": "Reverend",
-                "type": "internal",
-                "page": "The Reverend"
-              },
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              },
-              {
-                "text": "Dr",
-                "type": "internal",
-                "page": "Doctor of Philosophy"
-              }
-            ]
-          },
-          "name": {
-            "text": "David Clark"
-          },
-          "image": {
-            "text": "David Clark sawyers bay.jpg"
-          },
-          "caption": {
-            "text": "Clark in 2015"
-          },
-          "order": {
-            "text": "14th Minister of Commerce and Consumer Affairs",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Minister of Commerce and Consumer Affairs"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "6 November 2020"
-          },
-          "primeminister": {
-            "text": "Jacinda Ardern"
-          },
-          "predecessor": {
-            "text": "Kris Faafoi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kris Faafoi"
-              }
-            ]
-          },
-          "order2": {
-            "text": "20th Minister Responsible for the Earthquake Commission",
-            "links": [
-              {
-                "text": "Minister Responsible for the Earthquake Commission",
-                "type": "internal",
-                "page": "Earthquake Commission"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "6 November 2020"
-          },
-          "primeminister2": {
-            "text": "Jacinda Ardern",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jacinda Ardern"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Grant Robertson",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Grant Robertson"
-              }
-            ]
-          },
-          "order3": {
-            "text": "16th Minister for State Owned Enterprises",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Minister for State Owned Enterprises"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "6 November 2020"
-          },
-          "primeminister3": {
-            "text": "Jacinda Ardern",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jacinda Ardern"
-              }
-            ]
-          },
-          "predecessor3": {
-            "text": "Winston Peters",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Winston Peters"
-              }
-            ]
-          },
-          "order4": {
-            "text": "31st Minister of Statistics",
-            "links": [
-              {
-                "text": "Minister of Statistics",
-                "type": "internal",
-                "page": "Minister of Statistics (New Zealand)"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "6 November 2020"
-          },
-          "primeminister4": {
-            "text": "Jacinda Ardern",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jacinda Ardern"
-              }
-            ]
-          },
-          "predecessor4": {
-            "text": "James Shaw",
-            "links": [
-              {
-                "text": "James Shaw",
-                "type": "internal",
-                "page": "James Shaw (New Zealand politician)"
-              }
-            ]
-          },
-          "order5": {
-            "text": "1st Minister for the Digital Economy and Communications"
-          },
-          "term_start5": {
-            "text": "6 November 2020"
-          },
-          "primeminister5": {
-            "text": "Jacinda Ardern",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jacinda Ardern"
-              }
-            ]
-          },
-          "order6": {
-            "text": "40th Minister of Health",
-            "links": [
-              {
-                "text": "Minister of Health",
-                "type": "internal",
-                "page": "Minister of Health (New Zealand)"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "26 October 2017"
-          },
-          "term_end6": {
-            "text": "2 July 2020"
-          },
-          "predecessor6": {
-            "text": "Jonathan Coleman",
-            "links": [
-              {
-                "text": "Jonathan Coleman",
-                "type": "internal",
-                "page": "Jonathan Coleman (politician)"
-              }
-            ]
-          },
-          "successor6": {
-            "text": "Chris Hipkins",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chris Hipkins"
-              }
-            ]
-          },
-          "primeminister6": {
-            "text": "Jacinda Ardern"
-          },
-          "constituency_mp7": {
-            "text": "Dunedin\nDunedin North (2011–2020)",
-            "links": [
-              {
-                "text": "Dunedin",
-                "type": "internal",
-                "page": "Dunedin (New Zealand electorate)"
-              }
-            ]
-          },
-          "parliament7": {
-            "text": "New Zealand"
-          },
-          "term_start7": {
-            "text": "November 26, 2011"
-          },
-          "majority7": {
-            "text": "15,521",
-            "number": 15521
-          },
-          "predecessor7": {
-            "text": "Pete Hodgson",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pete Hodgson"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "January 5, 1973"
-          },
-          "party": {
-            "text": "Labour",
-            "links": [
-              {
-                "text": "Labour",
-                "type": "internal",
-                "page": "New Zealand Labour Party"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Katrina"
-          },
-          "children": {
-            "text": "3",
-            "number": 3
-          },
-          "alma_mater": {
-            "text": "*University of Otago \n*Eberhard Karls University",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Otago"
-              },
-              {
-                "text": "Eberhard Karls University",
-                "type": "internal",
-                "page": "University of Tübingen"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "* Treasury analyst \n* Presbyterian minister"
-          },
-          "website": {
-            "text": "http://www.davidclark.org.nz/"
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "Reverend The Honourable Dr",
+  "name": "David Clark",
+  "image": "David Clark sawyers bay.jpg",
+  "caption": "Clark in 2015",
+  "order": "14th Minister of Commerce and Consumer Affairs",
+  "term_start": "6 November 2020",
+  "primeminister": "Jacinda Ardern",
+  "predecessor": "Kris Faafoi",
+  "order2": "20th Minister Responsible for the Earthquake Commission",
+  "term_start2": "6 November 2020",
+  "primeminister2": "Jacinda Ardern",
+  "predecessor2": "Grant Robertson",
+  "order3": "16th Minister for State Owned Enterprises",
+  "term_start3": "6 November 2020",
+  "primeminister3": "Jacinda Ardern",
+  "predecessor3": "Winston Peters",
+  "order4": "31st Minister of Statistics",
+  "term_start4": "6 November 2020",
+  "primeminister4": "Jacinda Ardern",
+  "predecessor4": "James Shaw",
+  "order5": "1st Minister for the Digital Economy and Communications",
+  "term_start5": "6 November 2020",
+  "primeminister5": "Jacinda Ardern",
+  "order6": "40th Minister of Health",
+  "term_start6": "26 October 2017",
+  "term_end6": "2 July 2020",
+  "predecessor6": "Jonathan Coleman",
+  "successor6": "Chris Hipkins",
+  "primeminister6": "Jacinda Ardern",
+  "constituency_mp7": "Dunedin\nDunedin North (2011–2020)",
+  "parliament7": "New Zealand",
+  "term_start7": "November 26, 2011",
+  "majority7": "15,521",
+  "predecessor7": "Pete Hodgson",
+  "birth_date": "January 5, 1973",
+  "party": "Labour",
+  "spouse": "Katrina",
+  "children": "3",
+  "alma_mater": "*University of Otago \n*Eberhard Karls University",
+  "occupation": "* Treasury analyst \n* Presbyterian minister",
+  "website": "http://www.davidclark.org.nz/"
 }

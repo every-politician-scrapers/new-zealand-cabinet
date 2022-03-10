@@ -1,337 +1,39 @@
 {
-  "title": "Michael Wood (New Zealand politician)",
-  "pageID": 33612180,
-  "categories": [
-    "1980 births",
-    "Living people",
-    "New Zealand Labour Party MPs",
-    "Unsuccessful candidates in the 2002 New Zealand general election",
-    "Unsuccessful candidates in the 2005 New Zealand general election",
-    "Unsuccessful candidates in the 2008 New Zealand general election",
-    "Unsuccessful candidates in the 2014 New Zealand general election",
-    "21st-century New Zealand politicians",
-    "Candidates in the 2017 New Zealand general election",
-    "New Zealand MPs for Auckland electorates",
-    "Candidates in the 2020 New Zealand general election"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Michael Philip Wood (born 10 May 1980) is a New Zealand politician and, since winning the Mount Roskill by-election in December 2016, a member of the New Zealand House of Representatives.",
-              "links": [
-                {
-                  "text": "Mount Roskill by-election",
-                  "type": "internal",
-                  "page": "2016 Mount Roskill by-election"
-                },
-                {
-                  "type": "internal",
-                  "page": "New Zealand House of Representatives"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Michael Philip Wood"
-                ]
-              }
-            },
-            {
-              "text": "He is a member of the Labour Party.",
-              "links": [
-                {
-                  "text": "Labour Party",
-                  "type": "internal",
-                  "page": "New Zealand Labour Party"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "New Zealand politician",
-          "template": "short description"
-        },
-        {
-          "date": "May 2018",
-          "template": "use dmy dates"
-        },
-        {
-          "date": "March 2017",
-          "template": "use new zealand english"
-        },
-        {
-          "country": "NZL",
-          "list": [
-            "MP"
-          ],
-          "size": "100%",
-          "template": "post-nominals"
-        },
-        {
-          "year": "1980",
-          "month": "05",
-          "day": "10",
-          "df": "yes",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "The Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Michael Wood"
-          },
-          "image": {
-            "text": "Michael Wood (New Zealand Politician).jpg"
-          },
-          "office1": {
-            "text": "28th Minister of Transport",
-            "links": [
-              {
-                "text": "Minister of Transport",
-                "type": "internal",
-                "page": "Minister of Transport (New Zealand)"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Jacinda Ardern",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jacinda Ardern"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "6 November 2020"
-          },
-          "predecessor1": {
-            "text": "Phil Twyford",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Phil Twyford"
-              }
-            ]
-          },
-          "office2": {
-            "text": "4th Minister for Workplace Relations and Safety",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Minister for Workplace Relations and Safety"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "6 November 2020"
-          },
-          "primeminister2": {
-            "text": "Jacinda Ardern",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jacinda Ardern"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Andrew Little",
-            "links": [
-              {
-                "text": "Andrew Little",
-                "type": "internal",
-                "page": "Andrew Little (New Zealand politician)"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Deputy Leader of the House",
-            "links": [
-              {
-                "text": "Deputy Leader of the House",
-                "type": "internal",
-                "page": "Leader of the House (New Zealand)"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "6 November 2020"
-          },
-          "primeminister3": {
-            "text": "Jacinda Ardern",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jacinda Ardern"
-              }
-            ]
-          },
-          "predecessor3": {
-            "text": "Iain Lees-Galloway",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Iain Lees-Galloway"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Chief Government Whip in the House of Representatives",
-            "links": [
-              {
-                "text": "Chief Government Whip in the House of Representatives",
-                "type": "internal",
-                "page": "House of Representatives (New Zealand)"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "27 June 2019"
-          },
-          "term_end4": {
-            "text": "2 November 2020"
-          },
-          "primeminister4": {
-            "text": "Jacinda Ardern",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jacinda Ardern"
-              }
-            ]
-          },
-          "predecessor4": {
-            "text": "Ruth Dyson",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ruth Dyson"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Kieran McAnulty",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kieran McAnulty"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Parliamentary Under-Secretary\nfor Ethnic Communities",
-            "links": [
-              {
-                "text": "Parliamentary Under-Secretary",
-                "type": "internal",
-                "page": "Cabinet of New Zealand"
-              }
-            ]
-          },
-          "primeminister5": {
-            "text": "Jacinda Ardern",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jacinda Ardern"
-              }
-            ]
-          },
-          "1blankname5": {
-            "text": "Minister"
-          },
-          "1namedata5": {
-            "text": "Jenny Salesa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jenny Salesa"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "26 October 2017"
-          },
-          "term_end5": {
-            "text": "27 June 2019"
-          },
-          "successor5": {
-            "text": "Priyanca Radhakrishnan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Priyanca Radhakrishnan"
-              }
-            ]
-          },
-          "constituency_mp6": {
-            "text": "Mount Roskill",
-            "links": [
-              {
-                "text": "Mount Roskill",
-                "type": "internal",
-                "page": "Mount Roskill (New Zealand electorate)"
-              }
-            ]
-          },
-          "parliament6": {
-            "text": "New Zealand"
-          },
-          "term_start6": {
-            "text": "3 December 2016"
-          },
-          "predecessor6": {
-            "text": "Phil Goff",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Phil Goff"
-              }
-            ]
-          },
-          "majority6": {
-            "text": "13,853",
-            "number": 13853
-          },
-          "birth_date": {
-            "text": "May 10, 1980"
-          },
-          "party": {
-            "text": "Labour",
-            "links": [
-              {
-                "text": "Labour",
-                "type": "internal",
-                "page": "New Zealand Labour Party"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Julie Fairey"
-          },
-          "children": {
-            "text": "3",
-            "number": 3
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "The Honourable",
+  "name": "Michael Wood",
+  "image": "Michael Wood (New Zealand Politician).jpg",
+  "office1": "28th Minister of Transport",
+  "primeminister1": "Jacinda Ardern",
+  "term_start1": "6 November 2020",
+  "predecessor1": "Phil Twyford",
+  "office2": "4th Minister for Workplace Relations and Safety",
+  "term_start2": "6 November 2020",
+  "primeminister2": "Jacinda Ardern",
+  "predecessor2": "Andrew Little",
+  "office3": "Deputy Leader of the House",
+  "term_start3": "6 November 2020",
+  "primeminister3": "Jacinda Ardern",
+  "predecessor3": "Iain Lees-Galloway",
+  "office4": "Chief Government Whip in the House of Representatives",
+  "term_start4": "27 June 2019",
+  "term_end4": "2 November 2020",
+  "primeminister4": "Jacinda Ardern",
+  "predecessor4": "Ruth Dyson",
+  "successor4": "Kieran McAnulty",
+  "office5": "Parliamentary Under-Secretary\nfor Ethnic Communities",
+  "primeminister5": "Jacinda Ardern",
+  "1blankname5": "Minister",
+  "1namedata5": "Jenny Salesa",
+  "term_start5": "26 October 2017",
+  "term_end5": "27 June 2019",
+  "successor5": "Priyanca Radhakrishnan",
+  "constituency_mp6": "Mount Roskill",
+  "parliament6": "New Zealand",
+  "term_start6": "3 December 2016",
+  "predecessor6": "Phil Goff",
+  "majority6": "13,853",
+  "birth_date": "May 10, 1980",
+  "party": "Labour",
+  "spouse": "Julie Fairey",
+  "children": "3"
 }

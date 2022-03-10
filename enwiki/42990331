@@ -1,325 +1,39 @@
 {
-  "title": "Cindy Kiro",
-  "pageID": 42990331,
-  "categories": [
-    "1958 births",
-    "Living people",
-    "People from Whangārei",
-    "Massey University alumni",
-    "Massey University faculty",
-    "New Zealand Māori academics",
-    "New Zealand Māori women academics",
-    "Victoria University of Wellington faculty",
-    "People educated at Rutherford College, Auckland",
-    "Companions of the Queen's Service Order",
-    "Dames Grand Companion of the New Zealand Order of Merit",
-    "Ngāpuhi",
-    "Ngāti Kahu",
-    "Ngāti Hine",
-    "New Zealand people of English descent",
-    "Governors-General of New Zealand",
-    "Female heads of state",
-    "Children's Ombudsmen",
-    "Ombudsmen in New Zealand"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Dame Alcyion Cynthia Kiro  (née Simpson; born 1958) is a New Zealand public health academic, administrator, and advocate, who has served as the 22nd Governor-General of New Zealand since 21 October 2021.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Governor-General of New Zealand"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Dame Alcyion Cynthia Kiro",
-                  "Simpson"
-                ]
-              }
-            },
-            {
-              "text": "Kiro is the first Māori woman, the third person of Māori descent, and the fourth woman to hold the office.",
-              "links": [
-                {
-                  "text": "Māori",
-                  "type": "internal",
-                  "page": "Māori people"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Before she was announced as governor-general designate, Kiro was Ahorangi chief executive of the Royal Society Te Apārangi and was previously the Children's Commissioner, head of school of the School of Public Health at Massey University, head of Te Kura Māori at Victoria University of Wellington and Pro-Vice Chancellor (Māori) of the University of Auckland.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Royal Society Te Apārangi"
-                },
-                {
-                  "text": "Children's Commissioner",
-                  "type": "internal",
-                  "page": "Children's Commissioner Act 2003",
-                  "anchor": "Children's Commissioners"
-                },
-                {
-                  "type": "internal",
-                  "page": "Massey University"
-                },
-                {
-                  "type": "internal",
-                  "page": "Victoria University of Wellington"
-                },
-                {
-                  "type": "internal",
-                  "page": "University of Auckland"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "New Zealand Governor-General, former academic and social justice advocate",
-          "template": "short description"
-        },
-        {
-          "date": "May 2021",
-          "template": "use dmy dates"
-        },
-        {
-          "country": "NZL",
-          "list": [
-            "GNZMf",
-            "QSO",
-            "DStJ"
-          ],
-          "size": "100%",
-          "template": "post-nominals"
-        },
-        {
-          "birth_year": "1958",
-          "template": "birth year and age"
-        },
-        {
-          "country": "NZL",
-          "list": [
-            "GNZMf",
-            "QSO",
-            "DStJ"
-          ],
-          "size": "85%",
-          "template": "post-nominals"
-        },
-        {
-          "template": "ipac",
-          "transcription": "k,ɪəˈr,oʊ"
-        }
-      ],
-      "infoboxes": [
-        {
-          "embed": {
-            "text": "yes"
-          },
-          "fields": {
-            "text": "Public health"
-          },
-          "alma_mater": {
-            "text": "University of Auckland Massey University European University Institute",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Auckland"
-              },
-              {
-                "type": "internal",
-                "page": "Massey University"
-              },
-              {
-                "type": "internal",
-                "page": "European University Institute"
-              }
-            ]
-          },
-          "thesis_title": {
-            "text": "Kimihia Hauora Māori = Māori Health Policy and Practice"
-          },
-          "thesis_url": {
-            "text": "http://mro.massey.ac.nz/handle/10179/2166"
-          },
-          "thesis_year": {
-            "text": "2001",
-            "number": 2001
-          },
-          "academic_advisors": {
-            "text": "Michael Belgrave Chris Cunningham",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Michael Belgrave"
-              },
-              {
-                "text": "Chris Cunningham",
-                "type": "internal",
-                "page": "Chris Cunningham (academic)"
-              }
-            ]
-          }
-        },
-        {
-          "honorific_prefix": {
-            "text": "Her Excellency The Right Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Her Excellency"
-              },
-              {
-                "type": "internal",
-                "page": "The Right Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Dame Cindy Kiro"
-          },
-          "image": {
-            "text": "Cindy Kiro official portrait October 2021 (cropped).jpg"
-          },
-          "caption": {
-            "text": "Official portrait of Kiro in 2021"
-          },
-          "order": {
-            "text": "22nd"
-          },
-          "office": {
-            "text": "Governor-General of New Zealand"
-          },
-          "term_start": {
-            "text": "21 October 2021"
-          },
-          "monarch": {
-            "text": "Elizabeth II",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Elizabeth II"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Jacinda Ardern",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jacinda Ardern"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Dame Patsy Reddy",
-            "links": [
-              {
-                "text": "Dame Patsy Reddy",
-                "type": "internal",
-                "page": "Patsy Reddy"
-              }
-            ]
-          },
-          "birth_name": {
-            "text": "Alcyion Cynthia Simpson"
-          },
-          "birth_date": {
-            "text": "1958 (age 64)"
-          },
-          "birth_place": {
-            "text": "Whangārei, New Zealand",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Whangārei"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Chris Kuchel Richard Davies",
-            "links": [
-              {
-                "text": "Richard Davies",
-                "type": "internal",
-                "page": "Richard Davies (doctor)"
-              }
-            ]
-          },
-          "residence": {
-            "text": "Government House, Wellington",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Government House, Wellington"
-              }
-            ]
-          },
-          "children": {
-            "text": "2 children, 2 stepchildren"
-          },
-          "office2": {
-            "text": "Children's Commissioner",
-            "links": [
-              {
-                "text": "Children's Commissioner",
-                "type": "internal",
-                "page": "Children's Ombudsman",
-                "anchor": "New Zealand"
-              }
-            ]
-          },
-          "termstart2": {
-            "text": "1 September 2003"
-          },
-          "termend2": {
-            "text": "1 September 2008"
-          },
-          "appointer2": {
-            "text": "Steve Maharey",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Steve Maharey"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Roger McClay",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Roger McClay"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "John Angus",
-            "links": [
-              {
-                "text": "John Angus",
-                "type": "internal",
-                "page": "John Angus (children's advocate)"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "embed": "yes",
+  "fields": "Public health",
+  "alma_mater": "University of Auckland Massey University European University Institute",
+  "thesis_title": "Kimihia Hauora Māori = Māori Health Policy and Practice",
+  "thesis_url": "http://mro.massey.ac.nz/handle/10179/2166",
+  "thesis_year": "2001",
+  "academic_advisors": "Michael Belgrave Chris Cunningham"
+}
+{
+  "honorific_prefix": "Her Excellency The Right Honourable",
+  "name": "Dame Cindy Kiro",
+  "image": "Cindy Kiro official portrait October 2021 (cropped).jpg",
+  "caption": "Official portrait of Kiro in 2021",
+  "order": "22nd",
+  "office": "Governor-General of New Zealand",
+  "term_start": "21 October 2021",
+  "monarch": "Elizabeth II",
+  "primeminister": "Jacinda Ardern",
+  "predecessor": "Dame Patsy Reddy",
+  "birth_name": "Alcyion Cynthia Simpson",
+  "birth_date": "1958 (age 64)",
+  "birth_place": "Whangārei, New Zealand",
+  "spouse": "Chris Kuchel Richard Davies",
+  "residence": "Government House, Wellington",
+  "children": "2 children, 2 stepchildren",
+  "office2": "Children's Commissioner",
+  "termstart2": "1 September 2003",
+  "termend2": "1 September 2008",
+  "appointer2": "Steve Maharey",
+  "predecessor2": "Roger McClay",
+  "successor2": "John Angus"
+}
+{
+  "image": "Flag of the Governor-General of New Zealand.svg",
+  "name": "Dame Cindy Kiro\n(2021–present)",
+  "dipstyle": "Her Excellency the Right Honourable",
+  "offstyle": "Your Excellency"
 }

@@ -1,501 +1,61 @@
 {
-  "title": "Damien O'Connor",
-  "pageID": 1075549,
-  "categories": [
-    "1958 births",
-    "Living people",
-    "New Zealand people of Irish descent",
-    "New Zealand Labour Party MPs",
-    "Members of the Cabinet of New Zealand",
-    "People from Westport, New Zealand",
-    "Place of birth missing (living people)",
-    "New Zealand list MPs",
-    "New Zealand MPs for South Island electorates",
-    "Lincoln University (New Zealand) alumni",
-    "People educated at St Bede's College, Christchurch",
-    "Members of the New Zealand House of Representatives",
-    "Unsuccessful candidates in the 2008 New Zealand general election",
-    "21st-century New Zealand politicians",
-    "Candidates in the 2017 New Zealand general election",
-    "Candidates in the 2020 New Zealand general election"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Damien Peter O'Connor (born 16 January 1958) is a New Zealand Labour Party politician who currently serves as Minister of Agriculture, Minister for Biosecurity, Minister for Trade and Export Growth, Minister for Land Information and Minister for Rural Communities in the Sixth Labour Government.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "New Zealand Labour Party"
-                },
-                {
-                  "text": "Minister of Agriculture",
-                  "type": "internal",
-                  "page": "Minister of Agriculture (New Zealand)"
-                },
-                {
-                  "text": "Minister for Trade and Export Growth",
-                  "type": "internal",
-                  "page": "Minister of Trade (New Zealand)"
-                },
-                {
-                  "text": "Minister for Land Information",
-                  "type": "internal",
-                  "page": "Minister for Land Information (New Zealand)"
-                },
-                {
-                  "text": "Sixth Labour Government",
-                  "type": "internal",
-                  "page": "Sixth Labour Government of New Zealand"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Damien Peter O'Connor"
-                ]
-              }
-            },
-            {
-              "text": "He previously served as a cabinet minister in the Fifth Labour Government.",
-              "links": [
-                {
-                  "text": "Fifth Labour Government",
-                  "type": "internal",
-                  "page": "Fifth Labour Government of New Zealand"
-                }
-              ]
-            },
-            {
-              "text": "He has been a member of Parliament since 1993 and currently represents the West Coast-Tasman electorate.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "West Coast-Tasman"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "New Zealand politician",
-          "template": "short description"
-        },
-        {
-          "date": "August 2014",
-          "template": "use new zealand english"
-        },
-        {
-          "date": "July 2020",
-          "template": "use dmy dates"
-        },
-        {
-          "country": "NZL",
-          "list": [
-            "MP"
-          ],
-          "size": "100%",
-          "template": "post-nominals"
-        },
-        {
-          "year": "1958",
-          "month": "1",
-          "day": "16",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "The Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Damien O'Connor"
-          },
-          "image": {
-            "text": "Hon Damien O'Connor.jpg"
-          },
-          "office1": {
-            "text": "34th Minister of Agriculture",
-            "links": [
-              {
-                "text": "Minister of Agriculture",
-                "type": "internal",
-                "page": "Minister of Agriculture (New Zealand)"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "26 October 2017"
-          },
-          "primeminister1": {
-            "text": "Jacinda Ardern",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jacinda Ardern"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Vacant (last held by David Carter)",
-            "links": [
-              {
-                "text": "David Carter",
-                "type": "internal",
-                "page": "David Carter (politician)"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Minister for Biosecurity"
-          },
-          "term_start2": {
-            "text": "26 October 2017"
-          },
-          "primeminister2": {
-            "text": "Jacinda Ardern",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jacinda Ardern"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Vacant (last held by David Carter)",
-            "links": [
-              {
-                "text": "David Carter",
-                "type": "internal",
-                "page": "David Carter (politician)"
-              }
-            ]
-          },
-          "office3": {
-            "text": "13th Minister for Trade and Export Growth",
-            "links": [
-              {
-                "text": "Minister for Trade and Export Growth",
-                "type": "internal",
-                "page": "Minister of Trade (New Zealand)"
-              }
-            ]
-          },
-          "primeminister3": {
-            "text": "Jacinda Ardern",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jacinda Ardern"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "6 November 2020"
-          },
-          "predecessor3": {
-            "text": "David Parker",
-            "links": [
-              {
-                "text": "David Parker",
-                "type": "internal",
-                "page": "David Parker (New Zealand politician)"
-              }
-            ]
-          },
-          "office4": {
-            "text": "17th Minister for Land Information",
-            "links": [
-              {
-                "text": "Minister for Land Information",
-                "type": "internal",
-                "page": "Minister for Land Information (New Zealand)"
-              }
-            ]
-          },
-          "primeminister4": {
-            "text": "Jacinda Ardern",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jacinda Ardern"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "6 November 2020"
-          },
-          "predecessor4": {
-            "text": "Eugenie Sage",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Eugenie Sage"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Minister for Rural Communities"
-          },
-          "term_start5": {
-            "text": "26 October 2017"
-          },
-          "primeminister5": {
-            "text": "Jacinda Ardern",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jacinda Ardern"
-              }
-            ]
-          },
-          "predecessor5": {
-            "text": "Office Created"
-          },
-          "office6": {
-            "text": "Minister for Food Safety"
-          },
-          "term_start6": {
-            "text": "26 October 2017"
-          },
-          "term_end6": {
-            "text": "6 November 2020"
-          },
-          "primeminister6": {
-            "text": "Jacinda Ardern",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jacinda Ardern"
-              }
-            ]
-          },
-          "predecessor6": {
-            "text": "David Bennett",
-            "links": [
-              {
-                "text": "David Bennett",
-                "type": "internal",
-                "page": "David Bennett (New Zealand politician)"
-              }
-            ]
-          },
-          "successor6": {
-            "text": "Ayesha Verrall",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ayesha Verrall"
-              }
-            ]
-          },
-          "office7": {
-            "text": "33rd Minister of Tourism",
-            "links": [
-              {
-                "text": "Minister of Tourism",
-                "type": "internal",
-                "page": "Minister of Tourism (New Zealand)"
-              }
-            ]
-          },
-          "primeminister7": {
-            "text": "Helen Clark",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Helen Clark"
-              }
-            ]
-          },
-          "term_start7": {
-            "text": "19 October 2005"
-          },
-          "term_end7": {
-            "text": "19 November 2008"
-          },
-          "successor7": {
-            "text": "John Key",
-            "links": [
-              {
-                "type": "internal",
-                "page": "John Key"
-              }
-            ]
-          },
-          "constituency_mp8": {
-            "text": "West Coast-Tasman",
-            "links": [
-              {
-                "type": "internal",
-                "page": "West Coast-Tasman"
-              }
-            ]
-          },
-          "parliament8": {
-            "text": "New Zealand"
-          },
-          "term_start8": {
-            "text": "26 November 2011"
-          },
-          "predecessor8": {
-            "text": "Chris Auchinvole",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chris Auchinvole"
-              }
-            ]
-          },
-          "term_start9": {
-            "text": "12 October 1996"
-          },
-          "term_end9": {
-            "text": "8 November 2008"
-          },
-          "predecessor9": {
-            "text": "Seat established",
-            "formatting": {
-              "italic": [
-                "Seat established"
-              ]
-            }
-          },
-          "successor9": {
-            "text": "Chris Auchinvole"
-          },
-          "constituency_mp10": {
-            "text": "Labour Party list",
-            "links": [
-              {
-                "text": "Labour Party",
-                "type": "internal",
-                "page": "New Zealand Labour Party"
-              },
-              {
-                "text": "list",
-                "type": "internal",
-                "page": "list MP"
-              }
-            ]
-          },
-          "parliament10": {
-            "text": "New Zealand"
-          },
-          "term_start10": {
-            "text": "1 May 2009"
-          },
-          "term_end10": {
-            "text": "26 November 2011"
-          },
-          "predecessor10": {
-            "text": "Michael Cullen",
-            "links": [
-              {
-                "text": "Michael Cullen",
-                "type": "internal",
-                "page": "Michael Cullen (politician)"
-              }
-            ]
-          },
-          "constituency_mp11": {
-            "text": "West Coast",
-            "links": [
-              {
-                "text": "West Coast",
-                "type": "internal",
-                "page": "West Coast (New Zealand electorate)"
-              }
-            ]
-          },
-          "parliament11": {
-            "text": "New Zealand"
-          },
-          "term_start11": {
-            "text": "6 November 1993"
-          },
-          "term_end11": {
-            "text": "12 October 1996"
-          },
-          "predecessor11": {
-            "text": "Margaret Moir",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Margaret Moir"
-              }
-            ]
-          },
-          "successor11": {
-            "text": "Seat abolished",
-            "formatting": {
-              "italic": [
-                "Seat abolished"
-              ]
-            }
-          },
-          "birth_date": {
-            "text": "January 16, 1958"
-          },
-          "birth_place": {
-            "text": "Westport, New Zealand",
-            "links": [
-              {
-                "text": "Westport",
-                "type": "internal",
-                "page": "Westport, New Zealand"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "New Zealand"
-          },
-          "party": {
-            "text": "Labour",
-            "links": [
-              {
-                "text": "Labour",
-                "type": "internal",
-                "page": "New Zealand Labour Party"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Lincoln University",
-            "links": [
-              {
-                "text": "Lincoln University",
-                "type": "internal",
-                "page": "Lincoln University (New Zealand)"
-              }
-            ]
-          },
-          "relations": {
-            "text": "Greg O'Connor (cousin)",
-            "links": [
-              {
-                "text": "Greg O'Connor",
-                "type": "internal",
-                "page": "Greg O'Connor (politician)"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "The Honourable",
+  "name": "Damien O'Connor",
+  "image": "Hon Damien O'Connor.jpg",
+  "office1": "34th Minister of Agriculture",
+  "term_start1": "26 October 2017",
+  "primeminister1": "Jacinda Ardern",
+  "predecessor1": "Vacant (last held by David Carter)",
+  "office2": "Minister for Biosecurity",
+  "term_start2": "26 October 2017",
+  "primeminister2": "Jacinda Ardern",
+  "predecessor2": "Vacant (last held by David Carter)",
+  "office3": "13th Minister for Trade and Export Growth",
+  "primeminister3": "Jacinda Ardern",
+  "term_start3": "6 November 2020",
+  "predecessor3": "David Parker",
+  "office4": "17th Minister for Land Information",
+  "primeminister4": "Jacinda Ardern",
+  "term_start4": "6 November 2020",
+  "predecessor4": "Eugenie Sage",
+  "office5": "Minister for Rural Communities",
+  "term_start5": "26 October 2017",
+  "primeminister5": "Jacinda Ardern",
+  "predecessor5": "Office Created",
+  "office6": "Minister for Food Safety",
+  "term_start6": "26 October 2017",
+  "term_end6": "6 November 2020",
+  "primeminister6": "Jacinda Ardern",
+  "predecessor6": "David Bennett",
+  "successor6": "Ayesha Verrall",
+  "office7": "33rd Minister of Tourism",
+  "primeminister7": "Helen Clark",
+  "term_start7": "19 October 2005",
+  "term_end7": "19 November 2008",
+  "successor7": "John Key",
+  "constituency_mp8": "West Coast-Tasman",
+  "parliament8": "New Zealand",
+  "term_start8": "26 November 2011",
+  "predecessor8": "Chris Auchinvole",
+  "term_start9": "12 October 1996",
+  "term_end9": "8 November 2008",
+  "predecessor9": "Seat established",
+  "successor9": "Chris Auchinvole",
+  "constituency_mp10": "Labour Party list",
+  "parliament10": "New Zealand",
+  "term_start10": "1 May 2009",
+  "term_end10": "26 November 2011",
+  "predecessor10": "Michael Cullen",
+  "constituency_mp11": "West Coast",
+  "parliament11": "New Zealand",
+  "term_start11": "6 November 1993",
+  "term_end11": "12 October 1996",
+  "predecessor11": "Margaret Moir",
+  "successor11": "Seat abolished",
+  "birth_date": "January 16, 1958",
+  "birth_place": "Westport, New Zealand",
+  "nationality": "New Zealand",
+  "party": "Labour",
+  "alma_mater": "Lincoln University",
+  "relations": "Greg O'Connor (cousin)"
 }

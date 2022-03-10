@@ -1,342 +1,41 @@
 {
-  "title": "Megan Woods",
-  "pageID": 28884318,
-  "categories": [
-    "New Zealand Labour Party MPs",
-    "Living people",
-    "Jim Anderton's Progressive Party politicians",
-    "1973 births",
-    "Alliance (New Zealand political party) politicians",
-    "Members of the New Zealand House of Representatives",
-    "New Zealand MPs for Christchurch electorates",
-    "Unsuccessful candidates in the 2005 New Zealand general election",
-    "University of Canterbury alumni",
-    "21st-century New Zealand politicians",
-    "Candidates in the 2017 New Zealand general election",
-    "Members of the Cabinet of New Zealand",
-    "Women government ministers of New Zealand",
-    "People educated at Catholic Cathedral College",
-    "Candidates in the 2020 New Zealand general election"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Megan Cherie Woods (born 4 November 1973) is a New Zealand Labour Party politician who serves as a Cabinet Minister in the Sixth Labour Government and has served as Member of Parliament for Wigram since 2011.",
-              "links": [
-                {
-                  "text": "Labour Party",
-                  "type": "internal",
-                  "page": "New Zealand Labour Party"
-                },
-                {
-                  "text": "Cabinet Minister",
-                  "type": "internal",
-                  "page": "Cabinet of New Zealand"
-                },
-                {
-                  "text": "Sixth Labour Government",
-                  "type": "internal",
-                  "page": "Sixth Labour Government of New Zealand"
-                },
-                {
-                  "text": "Wigram",
-                  "type": "internal",
-                  "page": "Wigram (New Zealand electorate)"
-                },
-                {
-                  "text": "2011",
-                  "type": "internal",
-                  "page": "2011 New Zealand general election"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Megan Cherie Woods"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "New Zealand politician",
-          "template": "short description"
-        },
-        {
-          "date": "August 2014",
-          "template": "use dmy dates"
-        },
-        {
-          "date": "August 2014",
-          "template": "use new zealand english"
-        },
-        {
-          "country": "NZL",
-          "list": [
-            "MP"
-          ],
-          "size": "100%",
-          "template": "post-nominals"
-        },
-        {
-          "year": "1973",
-          "month": "11",
-          "day": "04",
-          "df": "yes",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "child": {
-            "text": "yes"
-          },
-          "alma_mater": {
-            "text": "University of Canterbury",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Canterbury"
-              }
-            ]
-          },
-          "thesis_title": {
-            "text": "Integrating the nation: Gendering Maori urbanisation and integration, 1942–1969"
-          },
-          "thesis_url": {
-            "text": "http://hdl.handle.net/10092/4352"
-          },
-          "thesis_year": {
-            "text": "2002",
-            "number": 2002
-          },
-          "doctoral_advisor": {
-            "text": "Katie Pickles",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Katie Pickles"
-              }
-            ]
-          }
-        },
-        {
-          "honorific-prefix": {
-            "text": "The Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Megan Woods"
-          },
-          "image": {
-            "text": "File:Hon Dr Megan Woods.jpg"
-          },
-          "alt": {
-            "text": "portrait photo of a woman in her 40s"
-          },
-          "office1": {
-            "text": "28th Minister of Housing",
-            "links": [
-              {
-                "text": "Minister of Housing",
-                "type": "internal",
-                "page": "Minister of Housing and Urban Development"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Jacinda Ardern",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jacinda Ardern"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "27 June 2019"
-          },
-          "predecessor1": {
-            "text": "Phil Twyford",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Phil Twyford"
-              }
-            ]
-          },
-          "office2": {
-            "text": "17th Minister of Energy and Resources",
-            "links": [
-              {
-                "text": "Minister of Energy and Resources",
-                "type": "internal",
-                "page": "Minister of Energy and Resources (New Zealand)"
-              }
-            ]
-          },
-          "primeminister2": {
-            "text": "Jacinda Ardern",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jacinda Ardern"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "26 October 2017"
-          },
-          "predecessor2": {
-            "text": "Judith Collins",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Judith Collins"
-              }
-            ]
-          },
-          "office3": {
-            "text": "26th Minister for Research, Science and Innovation",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Minister for Research, Science and Innovation"
-              }
-            ]
-          },
-          "primeminister3": {
-            "text": "Jacinda Ardern",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jacinda Ardern"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "26 October 2017"
-          },
-          "predecessor3": {
-            "text": "Paul Goldsmith",
-            "links": [
-              {
-                "text": "Paul Goldsmith",
-                "type": "internal",
-                "page": "Paul Goldsmith (politician)"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Minister for Greater Christchurch Regeneration"
-          },
-          "primeminister4": {
-            "text": "Jacinda Ardern",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jacinda Ardern"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "26 October 2017"
-          },
-          "term_end4": {
-            "text": "6 November 2020"
-          },
-          "predecessor4": {
-            "text": "Nicky Wagner",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nicky Wagner"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Office abolished",
-            "formatting": {
-              "italic": [
-                "Office abolished"
-              ]
-            }
-          },
-          "constituency_mp5": {
-            "text": "Wigram",
-            "links": [
-              {
-                "text": "Wigram",
-                "type": "internal",
-                "page": "Wigram (New Zealand electorate)"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "26 November 2011"
-          },
-          "parliament5": {
-            "text": "New Zealand"
-          },
-          "predecessor5": {
-            "text": "Jim Anderton",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jim Anderton"
-              }
-            ]
-          },
-          "majority5": {
-            "text": "14,770",
-            "number": 14770
-          },
-          "birth_date": {
-            "text": "November 4, 1973"
-          },
-          "party": {
-            "text": "Labour (since 2007)",
-            "links": [
-              {
-                "text": "Labour",
-                "type": "internal",
-                "page": "New Zealand Labour Party"
-              }
-            ]
-          },
-          "otherparty": {
-            "text": "Progressive Party (1999–2007)",
-            "links": [
-              {
-                "text": "Progressive Party",
-                "type": "internal",
-                "page": "Jim Anderton's Progressive Party"
-              }
-            ]
-          },
-          "website": {
-            "text": "Profile on Labour website",
-            "links": [
-              {
-                "text": "Profile on Labour website",
-                "type": "external",
-                "site": "https://www.labour.org.nz/people/megan-woods"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "child": "yes",
+  "alma_mater": "University of Canterbury",
+  "thesis_title": "Integrating the nation: Gendering Maori urbanisation and integration, 1942–1969",
+  "thesis_url": "http://hdl.handle.net/10092/4352",
+  "thesis_year": "2002",
+  "doctoral_advisor": "Katie Pickles"
+}
+{
+  "honorific-prefix": "The Honourable",
+  "name": "Megan Woods",
+  "image": "File:Hon Dr Megan Woods.jpg",
+  "alt": "portrait photo of a woman in her 40s",
+  "office1": "28th Minister of Housing",
+  "primeminister1": "Jacinda Ardern",
+  "term_start1": "27 June 2019",
+  "predecessor1": "Phil Twyford",
+  "office2": "17th Minister of Energy and Resources",
+  "primeminister2": "Jacinda Ardern",
+  "term_start2": "26 October 2017",
+  "predecessor2": "Judith Collins",
+  "office3": "26th Minister for Research, Science and Innovation",
+  "primeminister3": "Jacinda Ardern",
+  "term_start3": "26 October 2017",
+  "predecessor3": "Paul Goldsmith",
+  "office4": "Minister for Greater Christchurch Regeneration",
+  "primeminister4": "Jacinda Ardern",
+  "term_start4": "26 October 2017",
+  "term_end4": "6 November 2020",
+  "predecessor4": "Nicky Wagner",
+  "successor4": "Office abolished",
+  "constituency_mp5": "Wigram",
+  "term_start5": "26 November 2011",
+  "parliament5": "New Zealand",
+  "predecessor5": "Jim Anderton",
+  "majority5": "14,770",
+  "birth_date": "November 4, 1973",
+  "party": "Labour (since 2007)",
+  "otherparty": "Progressive Party (1999–2007)",
+  "website": "Profile on Labour website"
 }
