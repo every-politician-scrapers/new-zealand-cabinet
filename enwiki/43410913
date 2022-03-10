@@ -1,310 +1,39 @@
 {
-  "title": "Peeni Henare",
-  "pageID": 43410913,
-  "categories": [
-    "Living people",
-    "New Zealand Labour Party MPs",
-    "Government ministers of New Zealand",
-    "Members of the New Zealand House of Representatives",
-    "New Zealand MPs for Māori electorates",
-    "21st-century New Zealand politicians",
-    "Candidates in the 2017 New Zealand general election",
-    "Year of birth missing (living people)",
-    "Candidates in the 2020 New Zealand general election",
-    "New Zealand defence ministers"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Peeni Ereatara Gladwyn Henare is a New Zealand Labour Party politician who has been a member of the New Zealand parliament for the Tāmaki Makaurau Māori electorate since the 2014 general election.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "New Zealand Labour Party"
-                },
-                {
-                  "type": "internal",
-                  "page": "Tāmaki Makaurau"
-                },
-                {
-                  "text": "2014 general election",
-                  "type": "internal",
-                  "page": "2014 New Zealand general election"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Peeni Ereatara Gladwyn Henare"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "New Zealand politician",
-          "template": "short description"
-        },
-        {
-          "date": "October 2014",
-          "template": "use dmy dates"
-        },
-        {
-          "date": "October 2014",
-          "template": "use new zealand english"
-        },
-        {
-          "country": "NZL",
-          "list": [
-            "MP"
-          ],
-          "size": "100%",
-          "template": "post-nominals"
-        },
-        {
-          "template": "ipac",
-          "transcription": "ˈ,p,ē,n,i,_,ˈ,h,e,n,a,ˌ,r,e"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "The Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Peeni Henare"
-          },
-          "image": {
-            "text": "Hon Peeni Henare.jpg"
-          },
-          "caption": {
-            "text": "Henare in 2019"
-          },
-          "office1": {
-            "text": "41st Minister of Defence",
-            "links": [
-              {
-                "text": "Minister of Defence",
-                "type": "internal",
-                "page": "Minister of Defence (New Zealand)"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Jacinda Ardern",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jacinda Ardern"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Ron Mark",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ron Mark"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "6 November 2020"
-          },
-          "office2": {
-            "text": "3rd Minister for Whānau Ora",
-            "links": [
-              {
-                "text": "Minister for Whānau Ora",
-                "type": "internal",
-                "page": "Whānau Ora"
-              }
-            ]
-          },
-          "primeminister2": {
-            "text": "Jacinda Ardern"
-          },
-          "predecessor2": {
-            "text": "Te Ururoa Flavell",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Te Ururoa Flavell"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "26 October 2017"
-          },
-          "office3": {
-            "text": "14th Minister for Youth",
-            "links": [
-              {
-                "text": "Minister for Youth",
-                "type": "internal",
-                "page": "Minister for Youth (New Zealand)"
-              }
-            ]
-          },
-          "primeminister3": {
-            "text": "Jacinda Ardern"
-          },
-          "predecessor3": {
-            "text": "Nikki Kaye",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nikki Kaye"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Priyanca Radhakrishnan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Priyanca Radhakrishnan"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "26 October 2017"
-          },
-          "term_end3": {
-            "text": "6 November 2020"
-          },
-          "office4": {
-            "text": "26th Minister of Civil Defence",
-            "links": [
-              {
-                "text": "Minister of Civil Defence",
-                "type": "internal",
-                "page": "Minister of Civil Defence (New Zealand)"
-              }
-            ]
-          },
-          "primeminister4": {
-            "text": "Jacinda Ardern"
-          },
-          "predecessor4": {
-            "text": "Kris Faafoi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kris Faafoi"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Kiri Allan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kiri Allan"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "27 June 2019"
-          },
-          "term_end4": {
-            "text": "6 November 2020"
-          },
-          "office5": {
-            "text": "8th Minister for the Community and Voluntary Sector",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Minister for the Community and Voluntary Sector"
-              }
-            ]
-          },
-          "primeminister5": {
-            "text": "Jacinda Ardern"
-          },
-          "predecessor5": {
-            "text": "Alfred Ngaro",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Alfred Ngaro"
-              }
-            ]
-          },
-          "successor5": {
-            "text": "Poto Williams",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Poto Williams"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "26 October 2017"
-          },
-          "term_end5": {
-            "text": "3 July 2019"
-          },
-          "constituency_mp6": {
-            "text": "Tāmaki Makaurau",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tāmaki Makaurau"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "20 September 2014"
-          },
-          "parliament6": {
-            "text": "New Zealand"
-          },
-          "predecessor6": {
-            "text": "Pita Sharples",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pita Sharples"
-              }
-            ]
-          },
-          "majority6": {
-            "text": "927",
-            "number": 927
-          },
-          "relations": {
-            "text": "Tau Henare (great-grandfather)\nJames Henare (grandfather)",
-            "links": [
-              {
-                "text": "Tau Henare",
-                "type": "internal",
-                "page": "Taurekareka Henare"
-              },
-              {
-                "type": "internal",
-                "page": "James Henare"
-              }
-            ]
-          },
-          "website": {
-            "text": "https://www.labour.org.nz/peenihenare"
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "The Honourable",
+  "name": "Peeni Henare",
+  "image": "Hon Peeni Henare.jpg",
+  "caption": "Henare in 2019",
+  "office1": "41st Minister of Defence",
+  "primeminister1": "Jacinda Ardern",
+  "predecessor1": "Ron Mark",
+  "term_start1": "6 November 2020",
+  "office2": "3rd Minister for Whānau Ora",
+  "primeminister2": "Jacinda Ardern",
+  "predecessor2": "Te Ururoa Flavell",
+  "term_start2": "26 October 2017",
+  "office3": "14th Minister for Youth",
+  "primeminister3": "Jacinda Ardern",
+  "predecessor3": "Nikki Kaye",
+  "successor3": "Priyanca Radhakrishnan",
+  "term_start3": "26 October 2017",
+  "term_end3": "6 November 2020",
+  "office4": "26th Minister of Civil Defence",
+  "primeminister4": "Jacinda Ardern",
+  "predecessor4": "Kris Faafoi",
+  "successor4": "Kiri Allan",
+  "term_start4": "27 June 2019",
+  "term_end4": "6 November 2020",
+  "office5": "8th Minister for the Community and Voluntary Sector",
+  "primeminister5": "Jacinda Ardern",
+  "predecessor5": "Alfred Ngaro",
+  "successor5": "Poto Williams",
+  "term_start5": "26 October 2017",
+  "term_end5": "3 July 2019",
+  "constituency_mp6": "Tāmaki Makaurau",
+  "term_start6": "20 September 2014",
+  "parliament6": "New Zealand",
+  "predecessor6": "Pita Sharples",
+  "majority6": "927",
+  "relations": "Tau Henare (great-grandfather)\nJames Henare (grandfather)",
+  "website": "https://www.labour.org.nz/peenihenare"
 }

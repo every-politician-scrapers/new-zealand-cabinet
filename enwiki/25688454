@@ -1,626 +1,80 @@
 {
-  "title": "Henry Puna",
-  "pageID": 25688454,
-  "categories": [
-    "1949 births",
-    "Cook Islands Party politicians",
-    "Cook Island lawyers",
-    "Living people",
-    "Members of the Parliament of the Cook Islands",
-    "People from Aitutaki",
-    "People from Manihiki",
-    "Prime Ministers of the Cook Islands",
-    "University of Auckland alumni",
-    "University of Tasmania alumni",
-    "Foreign Ministers of the Cook Islands",
-    "Cook Island Seventh-day Adventists",
-    "High Commissioners of the Cook Islands to New Zealand",
-    "Secretaries General of the Pacific Islands Forum"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Henry Tuakeu Puna (born 29 July 1949) is a Cook Islands politician, and the current Secretary General of the Pacific Islands Forum.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Cook Islands"
-                },
-                {
-                  "text": "Secretary General of the Pacific Islands Forum",
-                  "type": "internal",
-                  "page": "Secretary General of the Pacific Islands Forum Secretariat"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Henry Tuakeu Puna"
-                ]
-              }
-            },
-            {
-              "text": "He was Prime Minister of the Cook Islands from November 2010 to October 2020.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Prime Minister of the Cook Islands"
-                }
-              ]
-            },
-            {
-              "text": "Since 2006 he has been leader of the Cook Islands Party.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Cook Islands Party"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Puna was elected to the Parliament of the Cook Islands at the 2005 Manihiki by-election.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Parliament of the Cook Islands"
-                },
-                {
-                  "text": "2005 Manihiki by-election",
-                  "type": "internal",
-                  "page": "2005 Manihiki by-election"
-                }
-              ]
-            },
-            {
-              "text": "He lost his seat at the 2006 election, but regained it in the CIP victory at the 2010 election which saw him elected Prime Minister.",
-              "links": [
-                {
-                  "text": "2006 election",
-                  "type": "internal",
-                  "page": "2006 Cook Islands general election"
-                },
-                {
-                  "text": "2010 election",
-                  "type": "internal",
-                  "page": "2010 Cook Islands general election"
-                }
-              ]
-            },
-            {
-              "text": "During his time as Prime Minister he held various ministerial portfolios, including Foreign affairs, Marine Resources, and Energy."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "In June 2020 Puna announced his intention to stand down as Prime Minister in September to compete for the role of Secretary-General of the Pacific Islands Forum.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Pacific Islands Forum"
-                }
-              ]
-            },
-            {
-              "text": "He stepped down from office on 1 October 2020."
-            },
-            {
-              "text": "On 4 February 2021 he was elected as Secretary-General, replacing Meg Taylor.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Meg Taylor"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Secretary General of the Pacific Islands Forum",
-          "template": "short description"
-        },
-        {
-          "date": "September 2020",
-          "template": "use dmy dates"
-        },
-        {
-          "list": [
-            "Additional Ministries"
-          ],
-          "template": "collapsed infobox section begin"
-        },
-        {
-          "date": "October 2020",
-          "template": "fact"
-        },
-        {
-          "template": "collapsed infobox section end"
-        },
-        {
-          "year": "1949",
-          "month": "7",
-          "day": "29",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific_prefix": {
-            "text": "The Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Henry Puna"
-          },
-          "image": {
-            "text": "Henry Puna 2015.jpg"
-          },
-          "caption": {
-            "text": "Henry Puna in 2015"
-          },
-          "order": {
-            "text": "10th"
-          },
-          "office": {
-            "text": "Secretary General of the Pacific Islands Forum"
-          },
-          "term_start": {
-            "text": "24 May 2021"
-          },
-          "predecessor": {
-            "text": "Meg Taylor",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Meg Taylor"
-              }
-            ]
-          },
-          "order1": {
-            "text": "11th"
-          },
-          "office1": {
-            "text": "Prime Minister of the Cook Islands"
-          },
-          "monarch1": {
-            "text": "Elizabeth II",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Elizabeth II"
-              }
-            ]
-          },
-          "deputy1": {
-            "text": "Tom Marsters Teariki Heather Mark Brown",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tom Marsters"
-              },
-              {
-                "type": "internal",
-                "page": "Teariki Heather"
-              },
-              {
-                "text": "Mark Brown",
-                "type": "internal",
-                "page": "Mark Brown (Cook Islands)"
-              }
-            ]
-          },
-          "1blankname1": {
-            "text": "Queen's Representative",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Queen's Representative"
-              }
-            ]
-          },
-          "1namedata1": {
-            "text": "Frederick Tutu Goodwin Tom Marsters",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Frederick Tutu Goodwin"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "30 November 2010"
-          },
-          "term_end1": {
-            "text": "1 October 2020"
-          },
-          "predecessor1": {
-            "text": "Jim Marurai",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jim Marurai"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Mark Brown",
-            "links": [
-              {
-                "text": "Mark Brown",
-                "type": "internal",
-                "page": "Mark Brown (Cook Islands)"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Minister of Energy"
-          },
-          "term_start3": {
-            "text": "3 December 2010"
-          },
-          "term_end3": {
-            "text": "1 October 2020"
-          },
-          "predecessor3": {
-            "text": "William (Smiley) Heather",
-            "links": [
-              {
-                "type": "internal",
-                "page": "William (Smiley) Heather"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Mark Brown",
-            "links": [
-              {
-                "text": "Mark Brown",
-                "type": "internal",
-                "page": "Mark Brown (Cook Islands)"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Minister of Foreign Affairs",
-            "links": [
-              {
-                "text": "Minister of Foreign Affairs",
-                "type": "internal",
-                "page": "Minister of Foreign Affairs (Cook Islands)"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "3 November 2013"
-          },
-          "term_end4": {
-            "text": "1 October 2020"
-          },
-          "predecessor4": {
-            "text": "Tom Marsters",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tom Marsters"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Mark Brown",
-            "links": [
-              {
-                "text": "Mark Brown",
-                "type": "internal",
-                "page": "Mark Brown (Cook Islands)"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Minister of Marine Resources"
-          },
-          "term_start5": {
-            "text": "3 November 2013"
-          },
-          "term_end5": {
-            "text": "1 October 2020"
-          },
-          "predecessor5": {
-            "text": "Teina Bishop",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Teina Bishop"
-              }
-            ]
-          },
-          "successor5": {
-            "text": "Mark Brown",
-            "links": [
-              {
-                "text": "Mark Brown",
-                "type": "internal",
-                "page": "Mark Brown (Cook Islands)"
-              }
-            ]
-          },
-          "office6": {
-            "text": "Minister of Education"
-          },
-          "term_start6": {
-            "text": "17 December 2014"
-          },
-          "term_end6": {
-            "text": "4 June 2020"
-          },
-          "predecessor6": {
-            "text": "Mona Ioane",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mona Ioane"
-              }
-            ]
-          },
-          "successor6": {
-            "text": "Vaine Mokoroa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Vaine Mokoroa"
-              }
-            ]
-          },
-          "office7": {
-            "text": "Minister of Transport"
-          },
-          "term_start7": {
-            "text": "3 November 2013"
-          },
-          "term_end7": {
-            "text": "20 September 2018"
-          },
-          "predecessor7": {
-            "text": "Tom Marsters",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tom Marsters"
-              }
-            ]
-          },
-          "successor7": {
-            "text": "Robert Tapaitau",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Robert Tapaitau"
-              }
-            ]
-          },
-          "office8": {
-            "text": "Minister of Police"
-          },
-          "term_start8": {
-            "text": "March 2020"
-          },
-          "term_end8": {
-            "text": "1 October 2020"
-          },
-          "predecessor8": {
-            "text": "Vaine Mokoroa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Vaine Mokoroa"
-              }
-            ]
-          },
-          "successor8": {
-            "text": "Mark Brown",
-            "links": [
-              {
-                "text": "Mark Brown",
-                "type": "internal",
-                "page": "Mark Brown (Cook Islands)"
-              }
-            ]
-          },
-          "term_start9": {
-            "text": "3 December 2010"
-          },
-          "term_end9": {
-            "text": "17 April 2012"
-          },
-          "predecessor9": {
-            "text": "Jim Marurai",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jim Marurai"
-              }
-            ]
-          },
-          "successor9": {
-            "text": "Teariki Heather",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Teariki Heather"
-              }
-            ]
-          },
-          "office10": {
-            "text": "Minister for the Environment"
-          },
-          "term_start10": {
-            "text": "3 December 2010"
-          },
-          "term_end10": {
-            "text": "3 November 2013"
-          },
-          "predecessor10": {
-            "text": "Cassey Eggelton",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Cassey Eggelton"
-              }
-            ]
-          },
-          "successor10": {
-            "text": "Kiriau Turepu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kiriau Turepu"
-              }
-            ]
-          },
-          "office11": {
-            "text": "Minister of Justice"
-          },
-          "term_start11": {
-            "text": "3 December 2010"
-          },
-          "term_end11": {
-            "text": "3 November 2013"
-          },
-          "predecessor11": {
-            "text": "Apii Piho",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Apii Piho"
-              }
-            ]
-          },
-          "successor11": {
-            "text": "Teariki Heather",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Teariki Heather"
-              }
-            ]
-          },
-          "constituency_mp12": {
-            "text": "Manihiki",
-            "links": [
-              {
-                "text": "Manihiki",
-                "type": "internal",
-                "page": "Manihiki (electorate)"
-              }
-            ]
-          },
-          "parliament12": {
-            "text": "Cook Islands"
-          },
-          "term_start12": {
-            "text": "17 November 2010"
-          },
-          "term_end12": {
-            "text": "24 March 2021"
-          },
-          "predecessor12": {
-            "text": "Apii Piho",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Apii Piho"
-              }
-            ]
-          },
-          "successor12": {
-            "text": "Akaiti Puna"
-          },
-          "term_start13": {
-            "text": "8 February 2005"
-          },
-          "term_end13": {
-            "text": "27 September 2006"
-          },
-          "predecessor13": {
-            "text": "Robert Woonton",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Robert Woonton"
-              }
-            ]
-          },
-          "successor13": {
-            "text": "Apii Piho",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Apii Piho"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "July 29, 1949"
-          },
-          "birth_place": {
-            "text": "Aitutaki, Cook Islands",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Aitutaki"
-              },
-              {
-                "type": "internal",
-                "page": "Cook Islands"
-              }
-            ]
-          },
-          "party": {
-            "text": "Cook Islands Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Cook Islands Party"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Akaiti Puna"
-          },
-          "children": {
-            "text": "Henry Edwin Abraham Tina Vivienne"
-          },
-          "alma_mater": {
-            "text": "University of Auckland University of Tasmania",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Auckland"
-              },
-              {
-                "type": "internal",
-                "page": "University of Tasmania"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "honorific_prefix": "The Honourable",
+  "name": "Henry Puna",
+  "image": "Henry Puna 2015.jpg",
+  "caption": "Henry Puna in 2015",
+  "order": "10th",
+  "office": "Secretary General of the Pacific Islands Forum",
+  "term_start": "24 May 2021",
+  "predecessor": "Meg Taylor",
+  "order1": "11th",
+  "office1": "Prime Minister of the Cook Islands",
+  "monarch1": "Elizabeth II",
+  "deputy1": "Tom Marsters Teariki Heather Mark Brown",
+  "1blankname1": "Queen's Representative",
+  "1namedata1": "Frederick Tutu Goodwin Tom Marsters",
+  "term_start1": "30 November 2010",
+  "term_end1": "1 October 2020",
+  "predecessor1": "Jim Marurai",
+  "successor1": "Mark Brown",
+  "office3": "Minister of Energy",
+  "term_start3": "3 December 2010",
+  "term_end3": "1 October 2020",
+  "predecessor3": "William (Smiley) Heather",
+  "successor3": "Mark Brown",
+  "office4": "Minister of Foreign Affairs",
+  "term_start4": "3 November 2013",
+  "term_end4": "1 October 2020",
+  "predecessor4": "Tom Marsters",
+  "successor4": "Mark Brown",
+  "office5": "Minister of Marine Resources",
+  "term_start5": "3 November 2013",
+  "term_end5": "1 October 2020",
+  "predecessor5": "Teina Bishop",
+  "successor5": "Mark Brown",
+  "office6": "Minister of Education",
+  "term_start6": "17 December 2014",
+  "term_end6": "4 June 2020",
+  "predecessor6": "Mona Ioane",
+  "successor6": "Vaine Mokoroa",
+  "office7": "Minister of Transport",
+  "term_start7": "3 November 2013",
+  "term_end7": "20 September 2018",
+  "predecessor7": "Tom Marsters",
+  "successor7": "Robert Tapaitau",
+  "office8": "Minister of Police",
+  "term_start8": "March 2020",
+  "term_end8": "1 October 2020",
+  "predecessor8": "Vaine Mokoroa",
+  "successor8": "Mark Brown",
+  "term_start9": "3 December 2010",
+  "term_end9": "17 April 2012",
+  "predecessor9": "Jim Marurai",
+  "successor9": "Teariki Heather",
+  "office10": "Minister for the Environment",
+  "term_start10": "3 December 2010",
+  "term_end10": "3 November 2013",
+  "predecessor10": "Cassey Eggelton",
+  "successor10": "Kiriau Turepu",
+  "office11": "Minister of Justice",
+  "term_start11": "3 December 2010",
+  "term_end11": "3 November 2013",
+  "predecessor11": "Apii Piho",
+  "successor11": "Teariki Heather",
+  "constituency_mp12": "Manihiki",
+  "parliament12": "Cook Islands",
+  "term_start12": "17 November 2010",
+  "term_end12": "24 March 2021",
+  "predecessor12": "Apii Piho",
+  "successor12": "Akaiti Puna",
+  "term_start13": "8 February 2005",
+  "term_end13": "27 September 2006",
+  "predecessor13": "Robert Woonton",
+  "successor13": "Apii Piho",
+  "birth_date": "July 29, 1949",
+  "birth_place": "Aitutaki, Cook Islands",
+  "party": "Cook Islands Party",
+  "spouse": "Akaiti Puna",
+  "children": "Henry Edwin Abraham Tina Vivienne",
+  "alma_mater": "University of Auckland University of Tasmania"
 }

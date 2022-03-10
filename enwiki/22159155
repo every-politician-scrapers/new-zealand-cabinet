@@ -1,416 +1,51 @@
 {
-  "title": "Kelvin Davis (politician)",
-  "pageID": 22159155,
-  "categories": [
-    "Living people",
-    "New Zealand Labour Party MPs",
-    "New Zealand list MPs",
-    "Unsuccessful candidates in the 2011 New Zealand general election",
-    "Members of the New Zealand House of Representatives",
-    "New Zealand MPs for Māori electorates",
-    "People educated at Bay of Islands College",
-    "21st-century New Zealand politicians",
-    "Candidates in the 2017 New Zealand general election",
-    "1967 births",
-    "People from Kawakawa, New Zealand",
-    "Members of the Cabinet of New Zealand",
-    "Ngāpuhi",
-    "Candidates in the 2020 New Zealand general election"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Kelvin Glen Davis (born 2 March 1967) is a New Zealand politician and a member of the House of Representatives who has served as Deputy Leader of the Labour Party since 1 August 2017.",
-              "links": [
-                {
-                  "text": "House of Representatives",
-                  "type": "internal",
-                  "page": "New Zealand House of Representatives"
-                },
-                {
-                  "text": "Deputy Leader",
-                  "type": "internal",
-                  "page": "Deputy Leader of the New Zealand Labour Party"
-                },
-                {
-                  "text": "Labour Party",
-                  "type": "internal",
-                  "page": "New Zealand Labour Party"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Kelvin Glen Davis"
-                ]
-              }
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "A former teacher, Davis served as a list MP from 2008 to 2011 and again in 2014.",
-              "links": [
-                {
-                  "text": "list MP",
-                  "type": "internal",
-                  "page": "list MP"
-                },
-                {
-                  "text": "2008",
-                  "type": "internal",
-                  "page": "2008 New Zealand general election"
-                }
-              ]
-            },
-            {
-              "text": "He won the electorate of Te Tai Tokerau in the 2014 election.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Te Tai Tokerau"
-                },
-                {
-                  "text": "2014 election",
-                  "type": "internal",
-                  "page": "2014 New Zealand general election"
-                }
-              ]
-            },
-            {
-              "text": "Davis was elected as Labour Deputy Leader two months before the 2017 election, becoming the first deputy of Māori descent in the Labour Party.",
-              "links": [
-                {
-                  "text": "2017 election",
-                  "type": "internal",
-                  "page": "2017 New Zealand general election"
-                },
-                {
-                  "text": "Māori",
-                  "type": "internal",
-                  "page": "Māori people"
-                }
-              ]
-            },
-            {
-              "text": "Currently, the third-ranked member of the Sixth Labour Government, Davis serves as the Minister of Corrections, Minister of Tourism and Minister for Māori Crown Relations, in addition to an Associate Minister of Education portfolio (Māori Education).",
-              "links": [
-                {
-                  "text": "Sixth Labour Government",
-                  "type": "internal",
-                  "page": "Sixth Labour Government of New Zealand"
-                },
-                {
-                  "text": "Minister of Corrections",
-                  "type": "internal",
-                  "page": "Minister of Corrections (New Zealand)"
-                },
-                {
-                  "text": "Minister of Tourism",
-                  "type": "internal",
-                  "page": "Minister of Tourism (New Zealand)"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "New Zealand politician",
-          "template": "short description"
-        },
-        {
-          "date": "October 2014",
-          "template": "use dmy dates"
-        },
-        {
-          "date": "October 2014",
-          "template": "use new zealand english"
-        },
-        {
-          "country": "NZL",
-          "list": [
-            "MP"
-          ],
-          "size": "100%",
-          "template": "post-nominals"
-        },
-        {
-          "year": "1967",
-          "month": "3",
-          "day": "2",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Kelvin Davis"
-          },
-          "honorific-prefix": {
-            "text": "The Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "image": {
-            "text": "Hon Kelvin Davis.jpg"
-          },
-          "caption": {
-            "text": "Davis in 2020"
-          },
-          "order": {
-            "text": "18th"
-          },
-          "office": {
-            "text": "Deputy Leader of the New Zealand Labour Party"
-          },
-          "term_start": {
-            "text": "1 August 2017"
-          },
-          "leader": {
-            "text": "Jacinda Ardern",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jacinda Ardern"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Jacinda Ardern"
-          },
-          "office1": {
-            "text": "13th Minister of Corrections",
-            "links": [
-              {
-                "text": "Minister of Corrections",
-                "type": "internal",
-                "page": "Minister of Corrections (New Zealand)"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "26 October 2017"
-          },
-          "primeminister1": {
-            "text": "Jacinda Ardern"
-          },
-          "predecessor1": {
-            "text": "Louise Upston",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Louise Upston"
-              }
-            ]
-          },
-          "office2": {
-            "text": "1st Minister for Māori Crown Relations"
-          },
-          "term_start2": {
-            "text": "26 October 2017"
-          },
-          "primeminister2": {
-            "text": "Jacinda Ardern"
-          },
-          "office3": {
-            "text": "3rd Minister for Children",
-            "links": [
-              {
-                "text": "Minister for Children",
-                "type": "internal",
-                "page": "Ministry for Children",
-                "anchor": "List of Ministers for Children"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "6 November 2020"
-          },
-          "primeminister3": {
-            "text": "Jacinda Ardern"
-          },
-          "predecessor3": {
-            "text": "Tracey Martin",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tracey Martin"
-              }
-            ]
-          },
-          "office4": {
-            "text": "36th Minister of Tourism",
-            "links": [
-              {
-                "text": "Minister of Tourism",
-                "type": "internal",
-                "page": "Minister of Tourism (New Zealand)"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "26 October 2017"
-          },
-          "term_end4": {
-            "text": "6 November 2020"
-          },
-          "primeminister4": {
-            "text": "Jacinda Ardern"
-          },
-          "predecessor4": {
-            "text": "Paula Bennett",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Paula Bennett"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Stuart Nash",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Stuart Nash"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Deputy Leader of the Opposition"
-          },
-          "term_start5": {
-            "text": "1 August 2017"
-          },
-          "term_end5": {
-            "text": "26 October 2017"
-          },
-          "leader5": {
-            "text": "Jacinda Ardern"
-          },
-          "predecessor5": {
-            "text": "Jacinda Ardern"
-          },
-          "successor5": {
-            "text": "Paula Bennett",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Paula Bennett"
-              }
-            ]
-          },
-          "constituency_mp6": {
-            "text": "Te Tai Tokerau",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Te Tai Tokerau"
-              }
-            ]
-          },
-          "parliament6": {
-            "text": "New Zealand"
-          },
-          "term_start6": {
-            "text": "20 September 2014"
-          },
-          "majority6": {
-            "text": "8,164",
-            "number": 8164
-          },
-          "predecessor6": {
-            "text": "Hone Harawira",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Hone Harawira"
-              }
-            ]
-          },
-          "constituency_mp7": {
-            "text": "Labour Party List",
-            "links": [
-              {
-                "text": "Labour Party",
-                "type": "internal",
-                "page": "New Zealand Labour Party"
-              }
-            ]
-          },
-          "parliament7": {
-            "text": "New Zealand"
-          },
-          "term_start7": {
-            "text": "23 May 2014"
-          },
-          "term_end7": {
-            "text": "20 September 2014"
-          },
-          "predecessor7": {
-            "text": "Shane Jones",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Shane Jones"
-              }
-            ]
-          },
-          "term_start8": {
-            "text": "8 November 2008"
-          },
-          "term_end8": {
-            "text": "26 November 2011"
-          },
-          "birth_date": {
-            "text": "March 2, 1967"
-          },
-          "birth_place": {
-            "text": "Kawakawa, New Zealand",
-            "links": [
-              {
-                "text": "Kawakawa",
-                "type": "internal",
-                "page": "Kawakawa, New Zealand"
-              }
-            ]
-          },
-          "birth_name": {
-            "text": "Kelvin Glen Davis"
-          },
-          "party": {
-            "text": "Labour",
-            "links": [
-              {
-                "text": "Labour",
-                "type": "internal",
-                "page": "New Zealand Labour Party"
-              }
-            ]
-          },
-          "website": {
-            "text": "Labour website",
-            "links": [
-              {
-                "text": "Labour website",
-                "type": "external",
-                "site": "http://www.labour.org.nz/kelvindavis"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Kelvin Davis",
+  "honorific-prefix": "The Honourable",
+  "image": "Hon Kelvin Davis.jpg",
+  "caption": "Davis in 2020",
+  "order": "18th",
+  "office": "Deputy Leader of the New Zealand Labour Party",
+  "term_start": "1 August 2017",
+  "leader": "Jacinda Ardern",
+  "predecessor": "Jacinda Ardern",
+  "office1": "13th Minister of Corrections",
+  "term_start1": "26 October 2017",
+  "primeminister1": "Jacinda Ardern",
+  "predecessor1": "Louise Upston",
+  "office2": "1st Minister for Māori Crown Relations",
+  "term_start2": "26 October 2017",
+  "primeminister2": "Jacinda Ardern",
+  "office3": "3rd Minister for Children",
+  "term_start3": "6 November 2020",
+  "primeminister3": "Jacinda Ardern",
+  "predecessor3": "Tracey Martin",
+  "office4": "36th Minister of Tourism",
+  "term_start4": "26 October 2017",
+  "term_end4": "6 November 2020",
+  "primeminister4": "Jacinda Ardern",
+  "predecessor4": "Paula Bennett",
+  "successor4": "Stuart Nash",
+  "office5": "Deputy Leader of the Opposition",
+  "term_start5": "1 August 2017",
+  "term_end5": "26 October 2017",
+  "leader5": "Jacinda Ardern",
+  "predecessor5": "Jacinda Ardern",
+  "successor5": "Paula Bennett",
+  "constituency_mp6": "Te Tai Tokerau",
+  "parliament6": "New Zealand",
+  "term_start6": "20 September 2014",
+  "majority6": "8,164",
+  "predecessor6": "Hone Harawira",
+  "constituency_mp7": "Labour Party List",
+  "parliament7": "New Zealand",
+  "term_start7": "23 May 2014",
+  "term_end7": "20 September 2014",
+  "predecessor7": "Shane Jones",
+  "term_start8": "8 November 2008",
+  "term_end8": "26 November 2011",
+  "birth_date": "March 2, 1967",
+  "birth_place": "Kawakawa, New Zealand",
+  "birth_name": "Kelvin Glen Davis",
+  "party": "Labour",
+  "website": "Labour website"
 }

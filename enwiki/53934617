@@ -1,224 +1,24 @@
 {
-  "title": "Jan Tinetti",
-  "pageID": 53934617,
-  "categories": [
-    "Living people",
-    "People from Hokitika",
-    "People educated at Villa Maria College, Christchurch",
-    "New Zealand Labour Party MPs",
-    "Members of the New Zealand House of Representatives",
-    "New Zealand women in politics",
-    "New Zealand list MPs",
-    "Women members of the New Zealand House of Representatives",
-    "Candidates in the 2017 New Zealand general election",
-    "New Zealand schoolteachers",
-    "1968 births",
-    "Candidates in the 2020 New Zealand general election",
-    "Christchurch College of Education alumni",
-    "Female interior ministers"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Janette Rose Tinetti (born 1968) is a New Zealand politician and a Member of Parliament in the House of Representatives for the Labour Party.",
-              "links": [
-                {
-                  "text": "Member of Parliament",
-                  "type": "internal",
-                  "page": "Member of parliament"
-                },
-                {
-                  "text": "House of Representatives",
-                  "type": "internal",
-                  "page": "New Zealand House of Representatives"
-                },
-                {
-                  "text": "Labour Party",
-                  "type": "internal",
-                  "page": "New Zealand Labour Party"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Janette Rose Tinetti"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "New Zealand politician",
-          "template": "short description"
-        },
-        {
-          "date": "September 2017",
-          "template": "use dmy dates"
-        },
-        {
-          "country": "NZL",
-          "list": [
-            "MP"
-          ],
-          "size": "100%",
-          "template": "post-nominals"
-        },
-        {
-          "birth_year": "1968",
-          "template": "birth year and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "The Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Jan Tinetti"
-          },
-          "image": {
-            "text": "Jan Tinetti.jpg"
-          },
-          "order": {
-            "text": "36th Minister of Internal Affairs",
-            "links": [
-              {
-                "text": "Minister of Internal Affairs",
-                "type": "internal",
-                "page": "Minister of Internal Affairs (New Zealand)"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Jacinda Ardern",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jacinda Ardern"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "6 November 2020"
-          },
-          "predecessor": {
-            "text": "Tracey Martin",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tracey Martin"
-              }
-            ]
-          },
-          "order1": {
-            "text": "16th Minister for Women",
-            "links": [
-              {
-                "text": "Minister for Women",
-                "type": "internal",
-                "page": "Minister for Women (New Zealand)"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Jacinda Ardern",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jacinda Ardern"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "6 November 2020"
-          },
-          "predecessor1": {
-            "text": "Julie Anne Genter",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Julie Anne Genter"
-              }
-            ]
-          },
-          "constituency_mp3": {
-            "text": "Labour party list",
-            "links": [
-              {
-                "text": "Labour",
-                "type": "internal",
-                "page": "New Zealand Labour Party"
-              },
-              {
-                "text": "party list",
-                "type": "internal",
-                "page": "party list"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "23 September 2017"
-          },
-          "parliament3": {
-            "text": "New Zealand"
-          },
-          "party": {
-            "text": "Labour",
-            "links": [
-              {
-                "text": "Labour",
-                "type": "internal",
-                "page": "New Zealand Labour Party"
-              }
-            ]
-          },
-          "birth_name": {
-            "text": "Janette Rose Tinetti"
-          },
-          "birth_date": {
-            "text": "1968 (age 54)"
-          },
-          "birth_place": {
-            "text": "Hokitika, New Zealand",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Hokitika"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "David Merton"
-          },
-          "relations": {
-            "text": "Don Merton (father-in-law)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Don Merton"
-              }
-            ]
-          },
-          "children": {
-            "text": "Two"
-          },
-          "profession": {
-            "text": "School principal"
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "The Honourable",
+  "name": "Jan Tinetti",
+  "image": "Jan Tinetti.jpg",
+  "order": "36th Minister of Internal Affairs",
+  "primeminister": "Jacinda Ardern",
+  "term_start": "6 November 2020",
+  "predecessor": "Tracey Martin",
+  "order1": "16th Minister for Women",
+  "primeminister1": "Jacinda Ardern",
+  "term_start1": "6 November 2020",
+  "predecessor1": "Julie Anne Genter",
+  "constituency_mp3": "Labour party list",
+  "term_start3": "23 September 2017",
+  "parliament3": "New Zealand",
+  "party": "Labour",
+  "birth_name": "Janette Rose Tinetti",
+  "birth_date": "1968 (age 54)",
+  "birth_place": "Hokitika, New Zealand",
+  "spouse": "David Merton",
+  "relations": "Don Merton (father-in-law)",
+  "children": "Two",
+  "profession": "School principal"
 }
