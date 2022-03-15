@@ -1,0 +1,63 @@
+id,name,relationship,relative,relativename
+Q1047359,Michael Hardie Boys,father,Q106687730,Reginald Hardie Boys
+Q1047359,Michael Hardie Boys,spouse,Q65093869,Mary Zohrab
+Q1396178,Winston Peters,mother,Q90844250,Joan Peters
+Q1396178,Winston Peters,sibling,Q5982592,Ian Peters
+Q1396178,Winston Peters,sibling,Q6197475,Jim Peters
+Q1396178,Winston Peters,sibling,Q90839606,Marie Tautari
+Q1396178,Winston Peters,sibling,Q90844041,Lynette Stewart
+Q16150043,Ross Ardern,child,Q3606816,Jacinda Ardern
+Q16150043,Ross Ardern,father,Q105953229,Henry Wiltshire Ardern
+Q16150043,Ross Ardern,mother,Q105953231,Gwladys Majorie Ardern
+Q16150043,Ross Ardern,sibling,Q105953114,Ian S. Ardern
+Q16150043,Ross Ardern,sibling,Q105953316,Keith Ardern
+Q16731071,Denise Lee,father,Q5592319,Graeme Lee
+Q17180701,Cindy Kiro,spouse,Q106957671,Richard Davies
+Q180383,Helen Clark,spouse,Q3376528,Peter Davis
+Q18098260,Peeni Henare,mother,Q104604943,Te Hemo Ata Henare
+Q18167638,Jenny Salesa,spouse,Q17180900,Damon Salesa
+Q19876617,Dalton Tagelagi,father,Q7408006,Sam Pata Emani Tagelagi
+Q23498274,Patsy Reddy,spouse,Q23799191,David Gascoigne
+Q241638,Silvia Cartwright,spouse,Q63323215,Peter Cartwright
+Q2622925,Michael Cullen,spouse,Q104639563,Lowson Anne Collins
+Q2899642,Sian Elias,spouse,Q9385312,Hugh Fletcher
+Q2989309,Terepai Maoate,spouse,Q12826225,Lord
+Q3606816,Jacinda Ardern,child,Q105953130,Neve Ardern Gayford
+Q3606816,Jacinda Ardern,father,Q16150043,Ross Ardern
+Q3606816,Jacinda Ardern,partner,Q52151947,Clarke Gayford
+Q3606816,Jacinda Ardern,sibling,Q105953135,Louise Ardern
+Q3798833,Nanaia Mahuta,father,Q7347282,Robert Mahuta
+Q3798833,Nanaia Mahuta,sibling,Q109653816,Tipa Mahuta
+Q41498761,Kieran McAnulty,relative,Q96093764,John Monaghan
+Q41689955,Golriz Ghahraman,partner,Q16232034,Guy Williams
+Q4451134,Te Ururoa Flavell,relative,Q104668231,Ranginui Parewahawaha Leonard
+Q466137,Georgina Beyer,father,Q5144886,Colin Beyer
+Q4706207,Alan Bollard,father,Q17418389,Ted Bollard
+Q485733,Anand Satyanand,spouse,Q96124270,Susan Satyanand
+Q515624,Jerry Mateparae,spouse,Q104938986,Raewyn Mateparae
+Q515624,Jerry Mateparae,spouse,Q104939039,Janine Mateparae
+Q5408237,Eugenie Sage,relative,Q24718548,Pat Suggate
+Q57783,John Key,child,Q56486725,Max Key
+Q57783,John Key,spouse,Q96184845,Bronagh Key
+Q6128819,David Carter,father,Q97142412,Maurice Carter
+Q6128819,David Carter,relative,Q97142438,Tim Carter
+Q6128819,David Carter,sibling,Q97142404,Philip Carter
+Q6245566,John Luxton,spouse,Q104639424,Mary Scholtens
+Q6274873,Jonathan Young,relative,Q92461701,John Young
+Q6540092,Lianne Dalziel,relative,Q63244086,Mike Davidson
+Q6540092,Lianne Dalziel,sibling,Q107349311,Kathryn Dalziel
+Q6766765,Mark Blumsky,father,Q14537108,John Blumsky
+Q6768911,Mark Mitchell,spouse,Q109998376,Peggy Bourne
+Q7437262,Scott Simpson,spouse,Q27449969,Desley Simpson
+Q8021596,Willie Jackson,mother,Q78636699,June Jackson
+Q81749869,Tracey McLellan,child,Q81750859,Jake McLellan
+Q9682,Elizabeth II,child,Q151754,"Anne, Princess Royal"
+Q9682,Elizabeth II,child,Q153330,"Prince Andrew, Duke of York"
+Q9682,Elizabeth II,child,Q154920,"Prince Edward, Earl of Wessex"
+Q9682,Elizabeth II,child,Q43274,"Charles, Prince of Wales"
+Q9682,Elizabeth II,father,Q280856,George VI
+Q9682,Elizabeth II,mother,Q10633,"Queen Elizabeth, The Queen Mother"
+Q9682,Elizabeth II,sibling,Q153815,"Princess Margaret, Countess of Snowdon"
+Q9682,Elizabeth II,spouse,Q80976,"Prince Philip, Duke of Edinburgh"
+Q99746504,Camilla Belich,spouse,Q28839674,Andrew Kirton
+Q99746506,Rachel Brooking,father,Q101413725,Tom Brooking
