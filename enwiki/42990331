@@ -10,8 +10,6 @@
 {
   "honorific_prefix": "Her Excellency The Right Honourable",
   "name": "Dame Cindy Kiro",
-  "image": "Cindy Kiro official portrait October 2021 (cropped).jpg",
-  "caption": "Official portrait of Kiro in 2021",
   "order": "22nd",
   "office": "Governor-General of New Zealand",
   "term_start": "21 October 2021",
@@ -32,7 +30,6 @@
   "successor2": "John Angus"
 }
 {
-  "image": "Flag of the Governor-General of New Zealand.svg",
   "name": "Dame Cindy Kiro\n(2021–present)",
   "dipstyle": "Her Excellency the Right Honourable",
   "offstyle": "Your Excellency"
