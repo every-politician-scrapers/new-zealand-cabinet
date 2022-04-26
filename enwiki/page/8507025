@@ -1,5 +1,5 @@
 {
-  "title": "Solicitor-General of New Zealand",
+  "title": "Solicitor-General (New Zealand)",
   "pageID": 8507025,
   "categories": [
     "Solicitors-General of New Zealand",
@@ -13,10 +13,11 @@
         {
           "sentences": [
             {
-              "text": "The Solicitor-General of New Zealand is the second law officer of state in New Zealand.",
+              "text": "The Solicitor-General (or Solicitor General) is the second law officer of state in New Zealand.",
               "formatting": {
                 "bold": [
-                  "Solicitor-General of New Zealand"
+                  "Solicitor-General",
+                  "Solicitor General"
                 ]
               }
             },
@@ -36,7 +37,13 @@
               ]
             },
             {
-              "text": "The current Solicitor-General is Una Jagose."
+              "text": "The current Solicitor-General is Una Jagose.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Una Jagose"
+                }
+              ]
             }
           ]
         },
@@ -154,20 +161,19 @@
               "text": "Whether the position was established is difficult to determine."
             },
             {
-              "text": "Papers in 1854 refer to Sewell as the late Solicitor-General, yet his biography says he was Attorney-General.",
+              "text": "Papers in 1854 refer to Henry Sewell as the late Solicitor-General, yet his biography says he was Attorney-General.",
               "links": [
                 {
-                  "text": "Sewell",
                   "type": "internal",
                   "page": "Henry Sewell"
                 }
               ]
             },
             {
-              "text": "Also, in 1861 reference is made of Travers being offered the position, but Travers had not been in office since 1859.",
+              "text": "Also, in 1861 reference is made of William Travers being offered the position, but Travers had not been in office since 1859.",
               "links": [
                 {
-                  "text": "Travers",
+                  "text": "William Travers",
                   "type": "internal",
                   "page": "William Travers (New Zealand politician)"
                 }
@@ -213,19 +219,19 @@
               "text": "The current Solicitor-General is Una Jagose, who was appointed in February 2016."
             },
             {
-              "text": "Ms Jagose was a former acting head of the Government Communications Security Bureau (GCSB) and prior to that had spent two years as Deputy Solicitor, Crown Legal Risk at Crown Law."
+              "text": "Jagose was a former acting head of the Government Communications Security Bureau (GCSB) and prior to that had spent two years as Deputy Solicitor, Crown Legal Risk at Crown Law."
             },
             {
               "text": "Her predecessor was Michael Heron, who was appointed in July 2012."
             },
             {
-              "text": "Mr Heron was a former partner of Meredith Connell (the firm that holds the Crown Prosecution warrant in Auckland) and more recently, Russell McVeagh."
+              "text": "Heron is a former partner of Meredith Connell (the firm that holds the Crown Prosecution warrant in Auckland) and more recently, Russell McVeagh."
             },
             {
-              "text": "In turn, his predecessor was Dr David Collins QC, who was appointed as a Judge of the High Court in March 2012."
+              "text": "In turn, his predecessor was Dr David Collins QC, who was appointed as a judge of the High Court in March 2012."
             },
             {
-              "text": "There has been a usual practice of appointing the Solicitor General as a Judge of the High Court, although former Solicitor-General Terrence Arnold's predecessor, John McGrath QC, was appointed to the Court of Appeal in July 2000 (Justice McGrath was subsequently appointed to the Supreme Court in May 2005.",
+              "text": "There has been a usual practice of appointing the Solicitor General as a judge of the High Court, although former Solicitor-General Terrence Arnold's predecessor, John McGrath QC, was appointed to the Court of Appeal in July 2000 (Justice McGrath was subsequently appointed to the Supreme Court in May 2005.",
               "links": [
                 {
                   "text": "High Court",
