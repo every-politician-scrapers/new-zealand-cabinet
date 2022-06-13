@@ -17,10 +17,6 @@ class OfficeholderList < OfficeholderListBase
     def columns
       %w[_ no img name start end].freeze
     end
-
-    def raw_end
-      super.gsub('†', '').tidy
-    end
   end
 end
 
