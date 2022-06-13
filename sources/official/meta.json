@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+      "name": "New Zealand",
+      "id": "Q664"
+    },
+    "cabinet": {
+      "id": "Q101584542",
+      "start": "2020-11-06",
+      "parent": "Q2932373"
+    },
+    "source": {
+        "url":   "https://dpmc.govt.nz/our-business-units/cabinet-office/ministers-and-their-portfolios/ministerial-list",
+        "title": "Ministerial List",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/new-zealand-cabinet"
+}
