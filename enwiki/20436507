@@ -4,8 +4,8 @@
   "office": "40th Prime Minister of New Zealand",
   "monarch": "Elizabeth II",
   "1blankname": "Governor-General",
-  "1namedata": "Patsy Reddy\n(2016–2021)\nCindy Kiro\n(2021–present)",
-  "deputy1": "Winston Peters\n(2017–2020)\nGrant Robertson\n(2020–present)",
+  "1namedata": "Patsy Reddy\nCindy Kiro",
+  "deputy1": "Winston Peters\nGrant Robertson",
   "term_start": "26 October 2017",
   "predecessor1": "Bill English",
   "office2": "17th Leader of the Labour Party",
@@ -43,5 +43,5 @@
   "parents": "Ross Ardern (father)",
   "residence": "Premier House",
   "alma_mater": "University of Waikato",
-  "website": "Campaign website"
+  "website": "Labour Party profile"
 }
