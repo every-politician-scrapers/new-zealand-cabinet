@@ -1,0 +1,1973 @@
+{
+  "title": "David Clark (New Zealand politician)",
+  "pageID": 33612158,
+  "categories": [
+    "1973 births",
+    "Living people",
+    "New Zealand Labour Party MPs",
+    "New Zealand Presbyterian ministers",
+    "Politicians from Auckland",
+    "Members of the New Zealand House of Representatives",
+    "New Zealand MPs for Dunedin electorates",
+    "University of Otago alumni",
+    "21st-century New Zealand politicians",
+    "Candidates in the 2017 New Zealand general election",
+    "Members of the Cabinet of New Zealand",
+    "Candidates in the 2020 New Zealand general election"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "David Scott Clark (born 5 January 1973) is a New Zealand Labour Party politician who is the Member of Parliament for Dunedin.",
+              "links": [
+                {
+                  "text": "Labour Party",
+                  "type": "internal",
+                  "page": "New Zealand Labour Party"
+                },
+                {
+                  "text": "Member of Parliament",
+                  "type": "internal",
+                  "page": "New Zealand House of Representatives"
+                },
+                {
+                  "text": "Dunedin",
+                  "type": "internal",
+                  "page": "Dunedin (New Zealand electorate)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "David Scott Clark"
+                ]
+              }
+            },
+            {
+              "text": "He was the Minister of Health until July 2020, when he resigned after multiple controversies related to the response to COVID-19.",
+              "links": [
+                {
+                  "text": "Minister of Health",
+                  "type": "internal",
+                  "page": "Minister of Health (New Zealand)"
+                },
+                {
+                  "text": "response to COVID-19",
+                  "type": "internal",
+                  "page": "COVID-19 pandemic in New Zealand"
+                }
+              ]
+            },
+            {
+              "text": "Previously he has been Opposition Spokesperson for Small Business and Economic Development."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "New Zealand politician",
+          "template": "short description"
+        },
+        {
+          "date": "August 2014",
+          "template": "use new zealand english"
+        },
+        {
+          "date": "September 2017",
+          "template": "use dmy dates"
+        },
+        {
+          "country": "NZL",
+          "list": [
+            "MP"
+          ],
+          "size": "100%",
+          "template": "post-nominals"
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2011",
+            "month": "11",
+            "date": "26",
+            "df": "yes",
+            "template": "start date",
+            "text": "November 26, 2011"
+          }
+        },
+        {
+          "df": "y",
+          "year": "1973",
+          "month": "01",
+          "day": "05",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "Reverend The Honourable Dr",
+            "links": [
+              {
+                "text": "Reverend",
+                "type": "internal",
+                "page": "The Reverend"
+              },
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              },
+              {
+                "text": "Dr",
+                "type": "internal",
+                "page": "Doctor of Philosophy"
+              }
+            ]
+          },
+          "name": {
+            "text": "David Clark"
+          },
+          "image": {
+            "text": "David Clark sawyers bay.jpg"
+          },
+          "caption": {
+            "text": "Clark in 2015"
+          },
+          "order": {
+            "text": "14th Minister of Commerce and Consumer Affairs",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister of Commerce and Consumer Affairs"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "6 November 2020"
+          },
+          "primeminister": {
+            "text": "Jacinda Ardern"
+          },
+          "predecessor": {
+            "text": "Kris Faafoi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kris Faafoi"
+              }
+            ]
+          },
+          "order2": {
+            "text": "20th Minister Responsible for the Earthquake Commission",
+            "links": [
+              {
+                "text": "Minister Responsible for the Earthquake Commission",
+                "type": "internal",
+                "page": "Earthquake Commission"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "6 November 2020"
+          },
+          "primeminister2": {
+            "text": "Jacinda Ardern",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jacinda Ardern"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Grant Robertson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Grant Robertson"
+              }
+            ]
+          },
+          "order3": {
+            "text": "16th Minister for State Owned Enterprises",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister for State Owned Enterprises"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "6 November 2020"
+          },
+          "primeminister3": {
+            "text": "Jacinda Ardern",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jacinda Ardern"
+              }
+            ]
+          },
+          "predecessor3": {
+            "text": "Winston Peters",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Winston Peters"
+              }
+            ]
+          },
+          "order4": {
+            "text": "31st Minister of Statistics",
+            "links": [
+              {
+                "text": "Minister of Statistics",
+                "type": "internal",
+                "page": "Minister of Statistics (New Zealand)"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "6 November 2020"
+          },
+          "primeminister4": {
+            "text": "Jacinda Ardern",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jacinda Ardern"
+              }
+            ]
+          },
+          "predecessor4": {
+            "text": "James Shaw",
+            "links": [
+              {
+                "text": "James Shaw",
+                "type": "internal",
+                "page": "James Shaw (New Zealand politician)"
+              }
+            ]
+          },
+          "order5": {
+            "text": "1st Minister for the Digital Economy and Communications"
+          },
+          "term_start5": {
+            "text": "6 November 2020"
+          },
+          "primeminister5": {
+            "text": "Jacinda Ardern",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jacinda Ardern"
+              }
+            ]
+          },
+          "order6": {
+            "text": "40th Minister of Health",
+            "links": [
+              {
+                "text": "Minister of Health",
+                "type": "internal",
+                "page": "Minister of Health (New Zealand)"
+              }
+            ]
+          },
+          "term_start6": {
+            "text": "26 October 2017"
+          },
+          "term_end6": {
+            "text": "2 July 2020"
+          },
+          "predecessor6": {
+            "text": "Jonathan Coleman",
+            "links": [
+              {
+                "text": "Jonathan Coleman",
+                "type": "internal",
+                "page": "Jonathan Coleman (politician)"
+              }
+            ]
+          },
+          "successor6": {
+            "text": "Chris Hipkins",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chris Hipkins"
+              }
+            ]
+          },
+          "primeminister6": {
+            "text": "Jacinda Ardern"
+          },
+          "constituency_mp7": {
+            "text": "Dunedin\nDunedin North (2011–2020)",
+            "links": [
+              {
+                "text": "Dunedin",
+                "type": "internal",
+                "page": "Dunedin (New Zealand electorate)"
+              }
+            ]
+          },
+          "parliament7": {
+            "text": "New Zealand"
+          },
+          "term_start7": {
+            "text": "November 26, 2011"
+          },
+          "majority7": {
+            "text": "15,521",
+            "number": 15521
+          },
+          "predecessor7": {
+            "text": "Pete Hodgson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pete Hodgson"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "January 5, 1973"
+          },
+          "party": {
+            "text": "Labour",
+            "links": [
+              {
+                "text": "Labour",
+                "type": "internal",
+                "page": "New Zealand Labour Party"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Katrina"
+          },
+          "children": {
+            "text": "3",
+            "number": 3
+          },
+          "alma_mater": {
+            "text": "*University of Otago \n*Eberhard Karls University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Otago"
+              },
+              {
+                "text": "Eberhard Karls University",
+                "type": "internal",
+                "page": "University of Tübingen"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "* Treasury analyst \n* Presbyterian minister"
+          },
+          "website": {
+            "text": "http://www.davidclark.org.nz/"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.odt.co.nz/news/dunedin/247224/rising-star-david-clark-promoted",
+          "title": "Rising star David Clark promoted",
+          "date": "26 February 2013",
+          "work": "Otago Daily Times",
+          "access-date": "8 March 2014",
+          "first": "Dene",
+          "last": "Mackenzie",
+          "archive-url": "https://web.archive.org/web/20200407023628/https://www.odt.co.nz/news/dunedin/rising-star-david-clark-promoted",
+          "archive-date": "7 April 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Mitchell",
+          "first1": "Rob",
+          "title": "National Portrait: David Clark, Health Minister",
+          "url": "https://www.stuff.co.nz/national/politics/102696540/national-portrait-david-clark-health-minister",
+          "access-date": "23 January 2019",
+          "via": "Stuff",
+          "work": "The Dominion Post",
+          "date": "8 April 2018",
+          "archive-url": "https://web.archive.org/web/20190419162216/https://www.stuff.co.nz/national/politics/102696540/national-portrait-david-clark-health-minister",
+          "archive-date": "19 April 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.odt.co.nz/news/dunedin/128301/minister-standing-mp",
+          "title": "From minister to standing for MP",
+          "date": "27 September 2010",
+          "work": "Otago Daily Times",
+          "access-date": "8 March 2014",
+          "first": "David",
+          "last": "Loughrey",
+          "archive-url": "https://web.archive.org/web/20190124203827/https://www.odt.co.nz/news/dunedin/minister-standing-mp",
+          "archive-date": "24 January 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.davidclark.org.nz/about",
+          "publisher": "David Clark – New Zealand Labour Party",
+          "title": "About me",
+          "access-date": "5 July 2017",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "David Clark resigns as Health Minister: 'It's best for me to step aside'",
+          "url": "https://www.rnz.co.nz/news/political/420310/david-clark-resigns-as-health-minister-it-s-best-for-me-to-step-aside",
+          "access-date": "2 July 2020",
+          "work": "Radio New Zealand",
+          "date": "2 July 2020",
+          "archive-url": "https://web.archive.org/web/20200701233533/https://www.rnz.co.nz/news/political/420310/david-clark-resigns-as-health-minister-it-s-best-for-me-to-step-aside",
+          "archive-date": "1 July 2020",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Early life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Clark grew up in Beachlands, just south of Auckland, and was schooled in Auckland.",
+              "links": [
+                {
+                  "text": "Beachlands",
+                  "type": "internal",
+                  "page": "Beachlands, New Zealand"
+                }
+              ]
+            },
+            {
+              "text": "He studied at Saint Kentigern College and spent his last year on a school exchange in Germany, immersing himself in the German language.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Saint Kentigern College"
+                },
+                {
+                  "type": "internal",
+                  "page": "German language"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 1991, Clark moved to Dunedin to study at the University of Otago.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Dunedin"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Otago"
+                }
+              ]
+            },
+            {
+              "text": "He initially studied medicine but abandoned that in favour of pursuing degrees in theology and philosophy."
+            },
+            {
+              "text": "Clark also studied theology and philosophy at Eberhard Karls University in Tübingen.",
+              "links": [
+                {
+                  "text": "Eberhard Karls University",
+                  "type": "internal",
+                  "page": "University of Tübingen"
+                },
+                {
+                  "type": "internal",
+                  "page": "Tübingen"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Ordained in 1997, Clark is a Presbyterian minister.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Presbyterian minister"
+                }
+              ]
+            },
+            {
+              "text": "He worked as the Assistant Minister at St Lukes Presbyterian Church in Auckland."
+            },
+            {
+              "text": "He was the celebrant at the civil union of MP Grant Robertson.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Grant Robertson"
+                }
+              ]
+            },
+            {
+              "text": "Clark later returned to the University of Otago and completed a PhD on the work of German/New Zealand refugee and existentialist thinker Helmut Rex.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Helmut Rex"
+                }
+              ]
+            },
+            {
+              "text": "He has also worked as a Treasury analyst and the warden of Selwyn College at the University of Otago.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Otago"
+                }
+              ]
+            },
+            {
+              "text": "Before his election to Parliament, Clark served as deputy chair of the Otago Community Trust."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Member of Parliament",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "After serving as chairman on the Labour Party Dunedin North electorate committee, Clark was selected by the Labour Party to replace the retiring Pete Hodgson in the electorate.",
+              "links": [
+                {
+                  "text": "Labour Party",
+                  "type": "internal",
+                  "page": "New Zealand Labour Party"
+                },
+                {
+                  "text": "Dunedin North",
+                  "type": "internal",
+                  "page": "Dunedin North (New Zealand electorate)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Pete Hodgson"
+                }
+              ]
+            },
+            {
+              "text": "He won the seat at the 2011 election over National candidate Michael Woodhouse.",
+              "links": [
+                {
+                  "text": "2011 election",
+                  "type": "internal",
+                  "page": "2011 New Zealand general election"
+                },
+                {
+                  "text": "National",
+                  "type": "internal",
+                  "page": "New Zealand National Party"
+                },
+                {
+                  "type": "internal",
+                  "page": "Michael Woodhouse"
+                }
+              ]
+            },
+            {
+              "text": "Clark would defeat Woodhouse again in each of the following three elections, increasing his majority every time."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "template": "nz parlbox header"
+        },
+        {
+          "term": "50th",
+          "start": "2011",
+          "end": "2014",
+          "electorate": "Dunedin North",
+          "_list": "49",
+          "party": "New Zealand Labour Party",
+          "template": "nz parlbox"
+        },
+        {
+          "term": "51st",
+          "start": "2014",
+          "end": "2017",
+          "electorate": "Dunedin North",
+          "_list": "26",
+          "party": "New Zealand Labour Party",
+          "template": "nz parlbox"
+        },
+        {
+          "term": "52nd",
+          "start": "2017",
+          "end": "2020",
+          "electorate": "Dunedin North",
+          "_list": "9",
+          "party": "New Zealand Labour Party",
+          "template": "nz parlbox"
+        },
+        {
+          "term": "53rd",
+          "start": "2020",
+          "end": "present",
+          "electorate": "Dunedin",
+          "_list": "16",
+          "party": "New Zealand Labour Party",
+          "template": "nz parlbox"
+        },
+        {
+          "template": "nz parlbox footer"
+        }
+      ],
+      "references": [
+        {
+          "title": "Official Count Results -- Dunedin North",
+          "url": "https://www.electionresults.govt.nz/electionresults_2011/electorate-8.html",
+          "access-date": "11 July 2020",
+          "publisher": "Electoral Commission",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Official Count Results – Dunedin North",
+          "url": "http://www.electionresults.govt.nz/electionresults_2014/electorate-8.html",
+          "archive-url": "https://web.archive.org/web/20200122200141/http://www.electionresults.govt.nz/electionresults_2014/electorate-8.html",
+          "archive-date": "22 January 2020",
+          "access-date": "10 June 2016",
+          "publisher": "Electoral Commission",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Dunedin North – Official Result",
+          "url": "https://www.electionresults.govt.nz/electionresults_2017/electorate-details-08.html",
+          "archive-url": "https://web.archive.org/web/20200116060348/https://electionresults.govt.nz/electionresults_2017/electorate-details-08.html",
+          "archive-date": "16 January 2020",
+          "access-date": "23 January 2019",
+          "publisher": "Electoral Commission",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Dunedin - Official Result",
+          "url": "https://electionresults.govt.nz/electionresults_2020/electorate-details-08.html",
+          "access-date": "7 November 2020",
+          "publisher": "Electoral Commission",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Opposition, 2011–2017",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Clark's maiden parliamentary speech focused on his concern about rising inequality and his passion for social justice."
+            },
+            {
+              "text": "In it, he argued that a more equal society will produce better outcomes, both socially and economically."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Under Labour leaders David Shearer, David Cunliffe and Andrew Little, Clark served as the party's spokesperson in a range of economic portfolios, including revenue, economic development and small business."
+            },
+            {
+              "text": "In Opposition he served as Labour's spokesperson for various areas, including Revenue, Economic Development, Small Business, Tertiary Education, and Health.",
+              "links": [
+                {
+                  "text": "Opposition",
+                  "type": "internal",
+                  "page": "Official Opposition (New Zealand)"
+                }
+              ]
+            },
+            {
+              "text": "During his time as Revenue spokesperson, he drew attention to difficulties the dated Inland Revenue computer system was creating for the organisation, and the small amounts that multinational companies were contributing to the tax base.",
+              "links": [
+                {
+                  "text": "Inland Revenue",
+                  "type": "internal",
+                  "page": "Inland Revenue Department (New Zealand)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Clark completed an Eisenhower Fellowship in 2013, focusing much of his trip on the priority accorded to the values of fairness and freedom in New Zealand and the United States.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Eisenhower Fellowship"
+                }
+              ]
+            },
+            {
+              "text": "The same year, Parliament passed a private member's bill in Clark's name.",
+              "links": [
+                {
+                  "text": "private member's bill",
+                  "type": "internal",
+                  "page": "private member's bill"
+                }
+              ]
+            },
+            {
+              "text": "The bill proposed \"Mondayisation\" of Waitangi Day and Anzac Day so that additional public holidays would be held if the true dates for those holidays occurred on a weekend.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mondayisation"
+                },
+                {
+                  "type": "internal",
+                  "page": "Waitangi Day"
+                },
+                {
+                  "type": "internal",
+                  "page": "Anzac Day"
+                }
+              ]
+            },
+            {
+              "text": "This was the first Bill to pass against the Government in four years."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "After the retirement of long-serving Labour MP Annette King was announced in March 2017, Clark became the Labour Party's health spokesperson.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Annette King"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.odt.co.nz/opinion/opinion/197760/search-more-equal-society",
+          "title": "In search of a more equal society",
+          "date": "15 February 2012",
+          "work": "Otago Daily Times",
+          "access-date": "8 March 2014",
+          "first": "David",
+          "last": "Clark",
+          "archive-url": "https://web.archive.org/web/20181017001740/https://www.odt.co.nz/opinion/search-more-equal-society",
+          "archive-date": "17 October 2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.odt.co.nz/news/dunedin/197789/mp-articulates-his-vision-social-justice",
+          "title": "MP articulates his vision of social justice",
+          "date": "15 February 2012",
+          "work": "Otago Daily Times",
+          "access-date": "8 March 2014",
+          "first": "Dene",
+          "last": "Mackenzie",
+          "archive-url": "https://web.archive.org/web/20181016165051/https://www.odt.co.nz/news/dunedin/mp-articulates-his-vision-social-justice",
+          "archive-date": "16 October 2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&objectid=10843570",
+          "title": "6300 caught in IRD privacy breaches",
+          "date": "29 October 2013",
+          "work": "The New Zealand Herald",
+          "access-date": "8 March 2014",
+          "archive-url": "https://web.archive.org/web/20170924141258/http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&objectid=10843570",
+          "archive-date": "24 September 2017",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.stuff.co.nz/technology/digital-living/6873923/Glitch-hits-IRD-website",
+          "title": "Glitch hits IRD website",
+          "date": "7 May 2012",
+          "work": "Stuff",
+          "access-date": "8 March 2014",
+          "first": "Tom",
+          "last": "Pullar-Strecker",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&objectid=10850827",
+          "title": "Dunne must front up over IRD privacy breaches – Labour",
+          "date": "29 November 2012",
+          "work": "The New Zealand Herald",
+          "access-date": "8 March 2014",
+          "first": "Kate",
+          "last": "Shuttleworth",
+          "archive-url": "https://web.archive.org/web/20170924183103/http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&objectid=10850827",
+          "archive-date": "24 September 2017",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.newshub.co.nz/politics/labour-slams-government-over-facebook-tax-loophole-2012112916",
+          "title": "Labour slams Government over Facebook tax loophole",
+          "publisher": "3 News",
+          "date": "29 November 2012",
+          "access-date": "8 September 2013",
+          "archive-url": "https://web.archive.org/web/20170925040127/http://www.newshub.co.nz/politics/labour-slams-government-over-facebook-tax-loophole-2012112916",
+          "archive-date": "25 September 2017",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.ch9.co.nz/content/labour-mp-awarded-eisenhower-fellowship",
+          "title": "Labour MP awarded an Eisenhower Fellowship",
+          "publisher": "Dunedin Television",
+          "date": "19 September 2013",
+          "access-date": "8 September 2013",
+          "archive-url": "https://web.archive.org/web/20120921012547/http://www.ch9.co.nz/content/labour-mp-awarded-eisenhower-fellowship",
+          "archive-date": "21 September 2012",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.odt.co.nz/opinion/opinion/259502/fairness-hallmark-our-country",
+          "title": "Fairness the hallmark of our country",
+          "date": "3 June 2013",
+          "work": "Otago Daily Times",
+          "access-date": "8 September 2013",
+          "first": "David",
+          "last": "Clark",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "author": "Editorial",
+          "date": "18 March 2013",
+          "title": "Editorial: Strong case to 'Mondayise' holidays",
+          "work": "The Dominion Post",
+          "url": "http://www.stuff.co.nz/dominion-post/comment/editorials/8438007/Editorial-Strong-case-to-Mondayise-holidays",
+          "access-date": "8 March 2013",
+          "archive-url": "https://web.archive.org/web/20171211164516/http://www.stuff.co.nz/dominion-post/comment/editorials/8438007/Editorial-Strong-case-to-Mondayise-holidays",
+          "archive-date": "11 December 2017",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Shuttleworth",
+          "first": "Kate",
+          "date": "17 April 2013",
+          "title": "Mondayising bill passes its final hurdle",
+          "work": "The New Zealand Herald",
+          "url": "http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&objectid=10878134",
+          "access-date": "8 March 2014",
+          "archive-url": "https://web.archive.org/web/20160304041442/http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&objectid=10878134",
+          "archive-date": "4 March 2016",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Staff",
+          "first": "Newstalk ZB",
+          "title": "David Clark to replace Annette King as health spokesperson",
+          "url": "https://www.newstalkzb.co.nz/news/health/david-clark-to-replace-annette-king-as-health-spokesperson/",
+          "access-date": "2020-12-23",
+          "website": "ZB",
+          "language": "en-nz",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Hon Dr David Clark",
+          "url": "https://www.parliament.nz/en/mps-and-electorates/members-of-parliament/clark-david/",
+          "archive-url": "https://web.archive.org/web/20190509214335/https://www.parliament.nz/en/mps-and-electorates/members-of-parliament/clark-david/",
+          "archive-date": "9 May 2019",
+          "access-date": "23 January 2019",
+          "publisher": "New Zealand Parliament",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Sixth Labour Government, 2017–present",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "After the 2017 general election, the Labour Party formed a government with New Zealand First and the Greens.",
+              "links": [
+                {
+                  "text": "2017 general election",
+                  "type": "internal",
+                  "page": "2017 New Zealand general election"
+                },
+                {
+                  "text": "government",
+                  "type": "internal",
+                  "page": "Sixth Labour Government of New Zealand"
+                },
+                {
+                  "type": "internal",
+                  "page": "New Zealand First"
+                },
+                {
+                  "text": "Greens",
+                  "type": "internal",
+                  "page": "Green Party of Aotearoa New Zealand"
+                }
+              ]
+            },
+            {
+              "text": "Clark was appointed to the Cabinet as Minister of Health and Associate Minister of Finance.",
+              "links": [
+                {
+                  "text": "Minister of Health",
+                  "type": "internal",
+                  "page": "Minister of Health (New Zealand)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In late April 2018, Clark appointed three new chairs to head Auckland's three district health boards: Patrick Snedden for the Auckland District Health Board, Judy McGregor for the Waitematā District Health Board, and Vui Mark Gosche for the Counties Manukau District Health Board.",
+              "links": [
+                {
+                  "text": "district health boards",
+                  "type": "internal",
+                  "page": "district health board"
+                },
+                {
+                  "type": "internal",
+                  "page": "Patrick Snedden"
+                },
+                {
+                  "type": "internal",
+                  "page": "Auckland District Health Board"
+                },
+                {
+                  "type": "internal",
+                  "page": "Judy McGregor"
+                },
+                {
+                  "type": "internal",
+                  "page": "Waitematā District Health Board"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mark Gosche"
+                },
+                {
+                  "type": "internal",
+                  "page": "Counties Manukau District Health Board"
+                }
+              ]
+            },
+            {
+              "text": "These appointments replace Lester Levy, who had headed all three boards and resigned in December 2017.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Lester Levy"
+                }
+              ]
+            },
+            {
+              "text": "On 30 April 2018, Clark conceded that the Government would be unable to deliver on its election promise of reducing general practitioner fees but indicated that it would be introduced in phases over time.",
+              "links": [
+                {
+                  "text": "general practitioner",
+                  "type": "internal",
+                  "page": "general practitioner"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 4 May 2018, Clark announced that the Dunedin Public Hospital would be replaced by a new hospital on the site of the former Cadbury factory site and a neighbouring block that included the building occupied by Work and Income.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Dunedin Public Hospital"
+                },
+                {
+                  "text": "Cadbury factory site",
+                  "type": "internal",
+                  "page": "Cadbury",
+                  "anchor": "New Zealand"
+                },
+                {
+                  "text": "Work and Income",
+                  "type": "internal",
+                  "page": "Ministry of Social Development (New Zealand)"
+                }
+              ]
+            },
+            {
+              "text": "The construction project is estimated to cost NZ$1.4 billion, would involve around a thousand workers, and is expected to be completed by 2026."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In mid-June 2018, Clark was criticised by employees of the Counties Manukau District Health Board for allegedly trying to silence their reports of run-down buildings, asbestos, and overflowing sewage at Middlemore Hospital.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Middlemore Hospital"
+                }
+              ]
+            },
+            {
+              "text": "Clark denied those allegations but criticised the staff for communicating through the media rather than through official channels."
+            },
+            {
+              "text": "Clark subsequently apologized to Counties Manukau DHB chairman Rabin Rabindran for the handling of the Middlemore saga."
+            },
+            {
+              "text": "That same month, Clark defended the Government's $500 million pay offer to nurses after the national union, the New Zealand Nurses Organisation, voted to go on strike.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "New Zealand Nurses Organisation"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In mid-July 2018, Clark was forced to publicly defend his decision to go on a family holiday prior to a planned national strike by the Nurses Organisation."
+            },
+            {
+              "text": "On 25 July, Clark—alongside union representatives from the E tū and the Public Service Association as well as the Ministry of Social Development and the Accident Compensation Corporation—signed a NZ$173.5 million pay equity agreement to pay 5,000 mental health and addiction workers more.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "E tū"
+                },
+                {
+                  "type": "internal",
+                  "page": "Public Service Association"
+                },
+                {
+                  "text": "Ministry of Social Development",
+                  "type": "internal",
+                  "page": "Ministry of Social Development (New Zealand)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Accident Compensation Corporation"
+                }
+              ]
+            },
+            {
+              "text": "Later that month, he announced that the District Health Boards, Nurses Organisation, and the Ministry of Health had successfully negotiated a joint accord to ensure safe staffing levels for nurses.",
+              "links": [
+                {
+                  "text": "Ministry of Health",
+                  "type": "internal",
+                  "page": "Ministry of Health (New Zealand)"
+                }
+              ]
+            },
+            {
+              "text": "In early September 2018, Clark suspended the troubled Oracle IT project to overhaul the District Health Boards' ageing IT systems."
+            },
+            {
+              "text": "The troubled project had cost NZ$100 million."
+            },
+            {
+              "text": "In mid-November, Clark announced that the Government had scrapped plans for a proposed third medical school in the Waikato region on the grounds that the project would have cost billions to set up and operate.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Waikato"
+                }
+              ]
+            },
+            {
+              "text": "On 19 November, he also announced that the Government would establish a NZ$20 million new health centre in the South Island town of Westport.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "South Island"
+                },
+                {
+                  "text": "Westport",
+                  "type": "internal",
+                  "page": "Westport, New Zealand"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.radionz.co.nz/news/political/342022/video-who-s-in-who-s-out",
+          "access-date": "20 October 2017",
+          "title": "Who's in? Who's out?",
+          "date": "20 October 2017",
+          "work": "Radio New Zealand",
+          "archive-url": "https://web.archive.org/web/20180720165721/http://www.radionz.co.nz/news/political/342022/ardern-vows-to-improve-cabinet-gender-balance",
+          "archive-date": "20 July 2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Health minister Dr David Clark names the three new Auckland DHB chairs",
+          "url": "https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12041618",
+          "access-date": "23 January 2019",
+          "work": "The New Zealand Herald",
+          "date": "29 April 2018",
+          "archive-url": "https://web.archive.org/web/20190419195728/https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12041618",
+          "archive-date": "19 April 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "GP fee cut: Govt needs to 'prioritise promises' – Minister",
+          "url": "https://www.radionz.co.nz/news/political/356247/gp-fee-cut-govt-needs-to-prioritise-promises-minister",
+          "access-date": "23 January 2019",
+          "publisher": "Radio New Zealand",
+          "date": "30 April 2018",
+          "archive-url": "https://web.archive.org/web/20190419200245/https://www.radionz.co.nz/news/political/356247/gp-fee-cut-govt-needs-to-prioritise-promises-minister",
+          "archive-date": "19 April 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Cuts to doctor's fees may be phased in over time",
+          "url": "https://www.radionz.co.nz/news/political/356213/cuts-to-doctor-s-fees-may-be-phased-in-over-time",
+          "access-date": "23 January 2019",
+          "publisher": "Radio New Zealand",
+          "date": "29 April 2018",
+          "archive-url": "https://web.archive.org/web/20190419200149/https://www.radionz.co.nz/news/political/356213/cuts-to-doctor-s-fees-may-be-phased-in-over-time",
+          "archive-date": "19 April 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "McNeilly",
+          "first1": "Hamish",
+          "title": "Popular tourist attraction Cadbury World closing to make way for $1.4 billion Dunedin Hospital",
+          "url": "https://www.stuff.co.nz/national/health/103621156/popular-tourist-attraction-cadbury-world-closing-to-make-way-for-14-billion-dunedin-hospital",
+          "access-date": "4 May 2018",
+          "work": "Stuff",
+          "date": "4 May 2018",
+          "archive-url": "https://web.archive.org/web/20190819160644/https://www.stuff.co.nz/national/health/103621156/former-cadbury-chocolate-factory-to-become-part-of-14-billion-dunedin-hospital",
+          "archive-date": "19 August 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Lynch",
+          "first1": "Jenna",
+          "title": "David Clark accused of silencing DHB staff over Middlemore",
+          "url": "https://www.newshub.co.nz/home/politics/2018/06/david-clark-accused-of-silencing-dhb-staff-over-middlemore.html",
+          "access-date": "23 January 2019",
+          "publisher": "Newshub",
+          "date": "14 June 2018",
+          "archive-url": "https://web.archive.org/web/20190419233335/https://www.newshub.co.nz/home/politics/2018/06/david-clark-accused-of-silencing-dhb-staff-over-middlemore.html",
+          "archive-date": "19 April 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Moir",
+          "first1": "Jo",
+          "title": "Middlemore Hospital: What really went down between health minister and Counties Manukau DHB?",
+          "url": "https://www.stuff.co.nz/national/health/103249836/middlemore-hospital-what-really-went-down-between-health-minister-and-counties-manukau-dhb",
+          "access-date": "23 January 2019",
+          "work": "Stuff",
+          "date": "24 April 2018",
+          "archive-url": "https://web.archive.org/web/20191102083314/https://www.stuff.co.nz/national/health/103249836/middlemore-hospital-what-really-went-down-between-health-minister-and-counties-manukau-dhb",
+          "archive-date": "2 November 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Bennett",
+          "first1": "Lucy",
+          "title": "Health Minister David Clark 'said sorry' to Counties Manukau DHB chairman Rabin Rabindran over Middlemore Hospital saga, correspondence shows",
+          "url": "https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12072583",
+          "access-date": "23 January 2019",
+          "work": "The New Zealand Herald",
+          "date": "18 June 2018",
+          "archive-url": "https://web.archive.org/web/20191102083314/https://www.stuff.co.nz/national/health/103249836/middlemore-hospital-what-really-went-down-between-health-minister-and-counties-manukau-dhb",
+          "archive-date": "2 November 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Small",
+          "first1": "Zane",
+          "title": "The Govt has 'put everything on the table' for nurses' pay – Health Minister David Clark",
+          "url": "https://www.newshub.co.nz/home/politics/2018/06/the-govt-has-put-everything-on-the-table-for-nurses-pay-health-minister-david-clark.html",
+          "access-date": "23 January 2019",
+          "publisher": "Newshub",
+          "date": "19 June 2018",
+          "archive-url": "https://web.archive.org/web/20190419195702/https://www.newshub.co.nz/home/politics/2018/06/the-govt-has-put-everything-on-the-table-for-nurses-pay-health-minister-david-clark.html",
+          "archive-date": "19 April 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Bennett",
+          "first1": "Lucy",
+          "title": "Health Minister David Clark defends holiday in lead-up to nurses' strike",
+          "url": "https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12088384",
+          "access-date": "23 January 2019",
+          "work": "The New Zealand Herald",
+          "date": "13 July 2018",
+          "archive-url": "https://web.archive.org/web/20200416092231/https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12088384",
+          "archive-date": "16 April 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Health Minister David Clark signs pay equity agreement",
+          "url": "https://www.stuff.co.nz/national/health/105741935/health-minister-david-clark-signs-pay-equity-agreement",
+          "access-date": "23 January 2019",
+          "work": "Stuff",
+          "date": "25 July 2018",
+          "archive-url": "https://web.archive.org/web/20190419235313/https://www.stuff.co.nz/national/health/105741935/health-minister-david-clark-signs-pay-equity-agreement",
+          "archive-date": "19 April 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Bennett",
+          "first1": "Lucy",
+          "title": "Pay equity settlement for mental health and addiction workers signed",
+          "url": "https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12095022",
+          "access-date": "23 January 2019",
+          "work": "The New Zealand Herald",
+          "date": "25 July 2018",
+          "archive-url": "https://web.archive.org/web/20190613153109/https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12095022",
+          "archive-date": "13 June 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Moger",
+          "first1": "Laine",
+          "title": "Safer staffing levels for nurses agreed, Health Minister David Clark says",
+          "url": "https://www.stuff.co.nz/national/health/105806991/safe-staffing-for-nurses-agreed-health-minister-david-clark-says",
+          "access-date": "23 January 2019",
+          "work": "Stuff",
+          "date": "27 July 2018",
+          "archive-url": "https://web.archive.org/web/20190419235315/https://www.stuff.co.nz/national/health/105806991/safe-staffing-for-nurses-agreed-health-minister-david-clark-says",
+          "archive-date": "19 April 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "DHBs, nurses reach agreement on staffing levels",
+          "url": "https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12096468",
+          "access-date": "23 January 2019",
+          "work": "The New Zealand Herald",
+          "date": "27 July 2018",
+          "archive-url": "https://web.archive.org/web/20190829125807/https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12096468",
+          "archive-date": "29 August 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Bennett",
+          "first1": "Lucy",
+          "title": "Health Minister David Clark suspends troubled Oracle DHB IT project",
+          "url": "https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12118966",
+          "access-date": "23 January 2019",
+          "work": "The New Zealand Herald",
+          "date": "4 September 2018",
+          "archive-url": "https://web.archive.org/web/20190517054323/https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12118966",
+          "archive-date": "17 May 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Government pulls plug on Waikato rural med school",
+          "url": "https://www.stuff.co.nz/national/health/108623053/government-pulls-plug-on-waikato-rural-med-school",
+          "access-date": "24 January 2019",
+          "work": "Stuff",
+          "date": "15 November 2018",
+          "archive-url": "https://web.archive.org/web/20190503184316/https://www.stuff.co.nz/national/health/108623053/government-pulls-plug-on-waikato-rural-med-school",
+          "archive-date": "3 May 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Plans for third medical school scrapped: Clark",
+          "url": "https://www.odt.co.nz/news/politics/plans-third-medical-school-scrapped-clark",
+          "access-date": "24 January 2019",
+          "work": "Otago Daily Times",
+          "date": "15 November 2018",
+          "archive-url": "https://web.archive.org/web/20190419233939/https://www.odt.co.nz/news/politics/plans-third-medical-school-scrapped-clark",
+          "archive-date": "19 April 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Walls",
+          "first1": "Jason",
+          "title": "Health Minister David Clark has committed $20 million for a new health centre in Westport",
+          "url": "https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12162530",
+          "access-date": "24 January 2019",
+          "work": "The New Zealand Herald",
+          "date": "19 November 2018",
+          "archive-url": "https://web.archive.org/web/20200106114555/https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12162530",
+          "archive-date": "6 January 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Dunedin Hospital announcement: What you need to know",
+          "url": "https://www.odt.co.nz/news/dunedin/dunedin-hospital-announcement-what-you-need-know",
+          "access-date": "4 May 2018",
+          "work": "Otago Daily Times",
+          "date": "4 May 2018",
+          "archive-url": "https://web.archive.org/web/20200114084547/https://www.odt.co.nz/news/dunedin/dunedin-hospital-announcement-what-you-need-know",
+          "archive-date": "14 January 2020",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "COVID-19 pandemic",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "As Minister of Health, Clark took a leadership role in the Government's response to the COVID-19 pandemic in New Zealand.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "COVID-19 pandemic in New Zealand"
+                }
+              ]
+            },
+            {
+              "text": "In early April 2020, Clark drew media attention and public criticism when he drove to a Dunedin park two kilometres away from his home to ride a mountain bike trail despite the Government's COVID-19 pandemic lockdown."
+            },
+            {
+              "text": "Clark later apologised to Prime Minister Jacinda Ardern for ignoring official guidelines advising against non-essential travel.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jacinda Ardern"
+                }
+              ]
+            },
+            {
+              "text": "During the first week of the country's national lock-down he also drove his family twenty kilometres to a nearby beach for a walk."
+            },
+            {
+              "text": "Ardern subsequently announced that Clark offered his resignation, but due to his role in the response to the COVID-19 pandemic, she did not accept it, instead depriving him of his ministerial role as Associate Finance Minister and demoting him to the bottom of Labour's Cabinet ranking.",
+              "links": [
+                {
+                  "text": "Cabinet ranking",
+                  "type": "internal",
+                  "page": "Cabinet of New Zealand",
+                  "anchor": "Members"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In late June 2020, Clark attracted media attention and criticism following a press conference at which he stated, \"The director-general [ has accepted that protocols weren't being followed, he has accepted responsibility for that and has set about putting it right\"."
+            },
+            {
+              "text": "His remark was interpreted by some journalists as blaming Bloomfield for the Ministry of Health's mismanagement of quarantine following a recent outbreak stemming from overseas travel."
+            },
+            {
+              "text": "The Spinoff editor Toby Manhire opined that Clark's \"humility bypass\" created problems for Ardern's government.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "The Spinoff"
+                },
+                {
+                  "type": "internal",
+                  "page": "Toby Manhire"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "The Spinoff"
+                ]
+              }
+            },
+            {
+              "text": "Left-wing commentator Chris Trotter described Clark's handling of the situation as \"shameful\" and called on Ardern to dismiss him from his position.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Chris Trotter"
+                }
+              ]
+            },
+            {
+              "text": "Right-wing commentator Trish Anderson criticised Clark for not \"'pulling his weight' in the government\" and criticised Ardern's perceived inaction against him as a \"failure of leadership.\""
+            },
+            {
+              "text": "Clark's Wikipedia article was also vandalised with remarks attacking his handling of the press conference with Bloomfield.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Wikipedia"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In early July 2020, Clark announced that he was resigning as Minister of Health, stating that \"I've always taken a view that the team must come first ... so I've made the call that it's best for me to step aside.\""
+            },
+            {
+              "text": "Ardern accepted his resignation, stating that she \"accepted Clark's conclusion that his presence in the role was creating an unhelpful distraction from the Government's ongoing response to Covid-19 and wider health reforms.\""
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "template": "'s"
+        }
+      ],
+      "references": [
+        {
+          "title": "PM: David Clark 'needs to be a role model'",
+          "url": "https://www.rnz.co.nz/news/political/413502/pm-david-clark-needs-to-be-a-role-model",
+          "access-date": "7 April 2020",
+          "work": "Radio New Zealand",
+          "date": "5 April 2020",
+          "archive-url": "https://web.archive.org/web/20200407052718/https://www.rnz.co.nz/news/political/413502/pm-david-clark-needs-to-be-a-role-model",
+          "archive-date": "7 April 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Manch",
+          "first1": "Thomas",
+          "last2": "Cooke",
+          "first2": "Henry",
+          "title": "Health Minister drives to local park to ride his mountain bike, amid coronavirus lockdown",
+          "url": "https://www.stuff.co.nz/national/health/coronavirus/120780372/health-minister-drives-to-local-park-to-ride-his-mountain-bike-amid-coronavirus-lockdown",
+          "access-date": "4 April 2020",
+          "work": "Stuff",
+          "date": "2 April 2020",
+          "archive-url": "https://web.archive.org/web/20200407052017/https://www.stuff.co.nz/national/health/coronavirus/120780372/health-minister-drives-to-local-park-to-ride-his-mountain-bike-amid-coronavirus-lockdown",
+          "archive-date": "7 April 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Coronavirus Covid 19: David Clark apologises to PM for flouting his own Government's lockdown advice",
+          "url": "https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12322301",
+          "access-date": "4 April 2020",
+          "work": "The New Zealand Herald",
+          "date": "3 April 2020",
+          "archive-url": "https://web.archive.org/web/20200407052222/https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12322301",
+          "archive-date": "7 April 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Sachdeva",
+          "first1": "Sam",
+          "title": "Clark's biking calamity a sign of wider confusion",
+          "url": "https://www.newsroom.co.nz/2020/04/04/1114021/clarks-cycle-calamity-a-sign-of-wider-confusion",
+          "access-date": "4 April 2020",
+          "work": "Newsroom",
+          "date": "4 April 2020",
+          "archive-url": "https://web.archive.org/web/20200406102009/https://www.newsroom.co.nz/2020/04/04/1114021/clarks-cycle-calamity-a-sign-of-wider-confusion",
+          "archive-date": "6 April 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "David Clark offers to resign after revealing he took a trip to beach during Covid-19 lockdown",
+          "url": "https://www.rnz.co.nz/news/political/413617/david-clark-offers-to-resign-after-revealing-he-took-a-trip-to-beach-during-covid-19-lockdown",
+          "access-date": "7 April 2020",
+          "work": "Radio New Zealand",
+          "date": "7 April 2020",
+          "archive-url": "https://web.archive.org/web/20200407052511/https://www.rnz.co.nz/news/political/413617/david-clark-offers-to-resign-after-revealing-he-took-a-trip-to-beach-during-covid-19-lockdown",
+          "archive-date": "7 April 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Covid 19 coronavirus: Health Minister David Clark throws Dr Ashley Bloomfield under the bus - as he stands right behind him",
+          "url": "https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12342772",
+          "access-date": "24 June 2020",
+          "work": "The New Zealand Herald",
+          "date": "25 June 2020",
+          "archive-url": "https://web.archive.org/web/20200624225534/https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12342772",
+          "archive-date": "24 June 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Manhire",
+          "first1": "Toby",
+          "title": "David Clark is not responsible",
+          "url": "https://thespinoff.co.nz/politics/25-06-2020/david-clark-is-not-responsible/",
+          "access-date": "24 June 2020",
+          "work": "The Spinoff",
+          "date": "25 June 2020",
+          "archive-url": "https://web.archive.org/web/20200624230101/https://thespinoff.co.nz/politics/25-06-2020/david-clark-is-not-responsible/",
+          "archive-date": "24 June 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Ensor",
+          "first1": "Jamie",
+          "title": "Health Minister David Clark's behaviour 'shameful', Jacinda Ardern needs to act - commentators",
+          "url": "https://www.newshub.co.nz/home/politics/2020/06/health-minister-david-clark-s-behaviour-shameful-jacinda-ardern-needs-to-act-commentators.html",
+          "access-date": "24 June 2020",
+          "work": "Newshub",
+          "date": "25 June 2020",
+          "archive-url": "https://web.archive.org/web/20200624230324/https://www.newshub.co.nz/home/politics/2020/06/health-minister-david-clark-s-behaviour-shameful-jacinda-ardern-needs-to-act-commentators.html",
+          "archive-date": "24 June 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Health Minister David Clark's Wikipedia entry edited following controversy with Dr Ashley Bloomfield",
+          "url": "https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12343142",
+          "work": "The New Zealand Herald",
+          "date": "26 June 2020",
+          "access-date": "26 June 2020",
+          "language": "en",
+          "archive-url": "https://web.archive.org/web/20200625183247/https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12343142",
+          "archive-date": "25 June 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "David Clark's Wikipedia changed",
+          "url": "https://www.newshub.co.nz/home/entertainment/2020/06/david-clark-s-wikipedia-changed.html",
+          "work": "Newshub",
+          "date": "26 June 2020",
+          "language": "en",
+          "archive-url": "https://web.archive.org/web/20200627032856/https://www.newshub.co.nz/home/entertainment/2020/06/david-clark-s-wikipedia-changed.html",
+          "archive-date": "27 June 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Coughlan",
+          "first1": "Thomas",
+          "title": "David Clark resigns as Health Minister, will contest general election",
+          "url": "https://www.stuff.co.nz/national/300047391/david-clark-resigns-as-health-minister-will-contest-general-election",
+          "access-date": "2 July 2020",
+          "work": "Stuff",
+          "date": "2 July 2020",
+          "archive-url": "https://web.archive.org/web/20200702015422/https://www.stuff.co.nz/national/300047391/david-clark-resigns-as-health-minister-will-contest-general-election",
+          "archive-date": "2 July 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "David Clark throws Ashley Bloomfield under the bus, while Bloomfield looks on",
+          "url": "https://www.stuff.co.nz/national/health/coronavirus/300041875/david-clark-throws-ashley-bloomfield-under-the-bus-while-bloomfield-looks-on",
+          "access-date": "24 June 2020",
+          "work": "Stuff",
+          "date": "25 June 2020",
+          "archive-url": "https://web.archive.org/web/20200624225309/https://www.stuff.co.nz/national/health/coronavirus/300041875/david-clark-throws-ashley-bloomfield-under-the-bus-while-bloomfield-looks-on",
+          "archive-date": "24 June 2020",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Second term, 2020&ndash;present",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "During the 2020 New Zealand general election held on 17 October, Clark contested the Dunedin electorate and was re-elected, defeating National candidate Michael Woodhouse by a margin of 15,521 votes.",
+              "links": [
+                {
+                  "text": "2020 New Zealand general election",
+                  "type": "internal",
+                  "page": "2020 New Zealand general election"
+                },
+                {
+                  "text": "Dunedin electorate",
+                  "type": "internal",
+                  "page": "Dunedin (New Zealand electorate)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Michael Woodhouse"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 2 November 2020, Prime Minister Ardern announced that Clark would be returning to Cabinet but would not be holding his former Health portfolio."
+            },
+            {
+              "text": "Instead, he would pick up the Commerce and Consumer Affairs, Statistics, Digital Economy and Communication and State Owned Enterprises portfolios, as well as becoming Minister Responsible for the Earthquake Commission.",
+              "links": [
+                {
+                  "text": "Statistics",
+                  "type": "internal",
+                  "page": "Statistics NZ"
+                },
+                {
+                  "text": "State Owned Enterprises",
+                  "type": "internal",
+                  "page": "Minister for State Owned Enterprises"
+                },
+                {
+                  "type": "internal",
+                  "page": "Earthquake Commission"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Dunedin - Official Result",
+          "url": "https://www.electionresults.govt.nz/electionresults_2020/electorate-details-08.html",
+          "publisher": "Electoral Commission",
+          "access-date": "7 January 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Ministerial List for Announcement on Monday",
+          "url": "https://dpmc.govt.nz/sites/default/files/2020-11/ministerial-list-2-nov-2020.pdf",
+          "publisher": "Department of the Prime Minister and Cabinet",
+          "access-date": "4 November 2020",
+          "date": "2 November 2020",
+          "archive-url": "https://web.archive.org/web/20201103122141/https://dpmc.govt.nz/sites/default/files/2020-11/ministerial-list-2-nov-2020.pdf",
+          "archive-date": "3 November 2020",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Clark is married to Katrina, and they have three children."
+            },
+            {
+              "text": "His brother, Ben, stood for Labour in the North Shore at the 2011 election, placing second behind Maggie Barry.",
+              "links": [
+                {
+                  "text": "North Shore",
+                  "type": "internal",
+                  "page": "North Shore (New Zealand electorate)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Maggie Barry"
+                }
+              ]
+            },
+            {
+              "text": "During his university years, Clark was a competitive cyclist and has twice completed the Ironman Triathlon.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ironman Triathlon"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.ironman.com/triathlon/events/ironman/new-zealand/results.aspx?y=2003#axzz2Vtks1VsT",
+          "title": "Athlete Tracker – IRONMAN.com &#124; Official Site of IRONMAN, IRONMAN 70.3, 5i50, Iron Girl and IRONKIDS &#124; Triathlon Races &#124; Official IRONMAN Merchandise &#124; IRONMAN World Championship in Kona, Hawaii",
+          "publisher": "IRONMAN.com",
+          "access-date": "8 September 2013",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.ironman.com/triathlon/events/ironman/new-zealand/results.aspx?y=2005#axzz2Vtks1VsT",
+          "title": "Athlete Tracker – IRONMAN.com &#124; Official Site of IRONMAN, IRONMAN 70.3, 5i50, Iron Girl and IRONKIDS &#124; Triathlon Races &#124; Official IRONMAN Merchandise &#124; IRONMAN World Championship in Kona, Hawaii",
+          "publisher": "IRONMAN.com",
+          "access-date": "8 September 2013",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "s-start"
+        },
+        {
+          "list": [
+            "nz"
+          ],
+          "template": "s-par"
+        },
+        {
+          "before": "Pete Hodgson",
+          "template": "s-bef"
+        },
+        {
+          "title": "Member of Parliament for Dunedin North",
+          "years": "2011–2020",
+          "template": "s-ttl"
+        },
+        {
+          "reason": "Constituency abolished",
+          "template": "s-non"
+        },
+        {
+          "list": [
+            "Constituency"
+          ],
+          "template": "s-new"
+        },
+        {
+          "title": "Member of Parliament for Dunedin",
+          "years": "2020–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Jonathan Coleman",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of Health",
+          "years": "2017–2020",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Chris Hipkins",
+          "template": "s-aft"
+        },
+        {
+          "before": "Kris Faafoi",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of Commerce and Consumer Affairs",
+          "years": "2020–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "before": "Grant Robertson",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister Responsible for the Earthquake Commission",
+          "years": "2020–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "before": "James Shaw",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of Statistics",
+          "years": "2020–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "before": "Winston Peters",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister for State Owned Enterprises",
+          "years": "2020–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "list": [
+            "office"
+          ],
+          "template": "s-new"
+        },
+        {
+          "title": "Minister for the Digital Economy and Communications",
+          "years": "2020–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "sixth labour government of new zealand"
+        },
+        {
+          "template": "nz labour party"
+        },
+        {
+          "template": "current members of the new zealand house of representatives"
+        },
+        {
+          "template": "coronavirus pandemic in new zealand"
+        },
+        {
+          "template": "authority control"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Official website",
+            "links": [
+              {
+                "text": "Official website",
+                "type": "external",
+                "site": "http://www.davidclark.org.nz/"
+              }
+            ]
+          },
+          {
+            "text": "Profile on New Zealand Labour Party website",
+            "links": [
+              {
+                "text": "Profile",
+                "type": "external",
+                "site": "http://www.labour.org.nz/davidclark"
+              }
+            ]
+          },
+          {
+            "text": "Profile on New Zealand Parliament website",
+            "links": [
+              {
+                "text": "Profile",
+                "type": "external",
+                "site": "http://www.parliament.nz/en-NZ/MPP/MPs/MPs/f/4/1/50MP142941-Clark-David.htm"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

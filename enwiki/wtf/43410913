@@ -1,0 +1,885 @@
+{
+  "title": "Peeni Henare",
+  "pageID": 43410913,
+  "categories": [
+    "Living people",
+    "New Zealand Labour Party MPs",
+    "Government ministers of New Zealand",
+    "Members of the New Zealand House of Representatives",
+    "New Zealand MPs for Māori electorates",
+    "21st-century New Zealand politicians",
+    "Candidates in the 2017 New Zealand general election",
+    "Year of birth missing (living people)",
+    "Candidates in the 2020 New Zealand general election",
+    "New Zealand defence ministers"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Peeni Ereatara Gladwyn Henare is a New Zealand Labour Party politician who has been a member of the New Zealand parliament for the Tāmaki Makaurau Māori electorate since the 2014 general election.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "New Zealand Labour Party"
+                },
+                {
+                  "type": "internal",
+                  "page": "Tāmaki Makaurau"
+                },
+                {
+                  "text": "2014 general election",
+                  "type": "internal",
+                  "page": "2014 New Zealand general election"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Peeni Ereatara Gladwyn Henare"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "New Zealand politician",
+          "template": "short description"
+        },
+        {
+          "date": "October 2014",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "October 2014",
+          "template": "use new zealand english"
+        },
+        {
+          "country": "NZL",
+          "list": [
+            "MP"
+          ],
+          "size": "100%",
+          "template": "post-nominals"
+        },
+        {
+          "template": "ipac",
+          "transcription": "ˈ,p,ē,n,i,_,ˈ,h,e,n,a,ˌ,r,e"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Peeni Henare"
+          },
+          "image": {
+            "text": "Hon Peeni Henare.jpg"
+          },
+          "caption": {
+            "text": "Henare in 2019"
+          },
+          "office1": {
+            "text": "41st Minister of Defence",
+            "links": [
+              {
+                "text": "Minister of Defence",
+                "type": "internal",
+                "page": "Minister of Defence (New Zealand)"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Jacinda Ardern",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jacinda Ardern"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Ron Mark",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ron Mark"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "6 November 2020"
+          },
+          "office2": {
+            "text": "3rd Minister for Whānau Ora",
+            "links": [
+              {
+                "text": "Minister for Whānau Ora",
+                "type": "internal",
+                "page": "Whānau Ora"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "Jacinda Ardern"
+          },
+          "predecessor2": {
+            "text": "Te Ururoa Flavell",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Te Ururoa Flavell"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "26 October 2017"
+          },
+          "office3": {
+            "text": "14th Minister for Youth",
+            "links": [
+              {
+                "text": "Minister for Youth",
+                "type": "internal",
+                "page": "Minister for Youth (New Zealand)"
+              }
+            ]
+          },
+          "primeminister3": {
+            "text": "Jacinda Ardern"
+          },
+          "predecessor3": {
+            "text": "Nikki Kaye",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nikki Kaye"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Priyanca Radhakrishnan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Priyanca Radhakrishnan"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "26 October 2017"
+          },
+          "term_end3": {
+            "text": "6 November 2020"
+          },
+          "office4": {
+            "text": "26th Minister of Civil Defence",
+            "links": [
+              {
+                "text": "Minister of Civil Defence",
+                "type": "internal",
+                "page": "Minister of Civil Defence (New Zealand)"
+              }
+            ]
+          },
+          "primeminister4": {
+            "text": "Jacinda Ardern"
+          },
+          "predecessor4": {
+            "text": "Kris Faafoi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kris Faafoi"
+              }
+            ]
+          },
+          "successor4": {
+            "text": "Kiri Allan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kiri Allan"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "27 June 2019"
+          },
+          "term_end4": {
+            "text": "6 November 2020"
+          },
+          "office5": {
+            "text": "8th Minister for the Community and Voluntary Sector",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister for the Community and Voluntary Sector"
+              }
+            ]
+          },
+          "primeminister5": {
+            "text": "Jacinda Ardern"
+          },
+          "predecessor5": {
+            "text": "Alfred Ngaro",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alfred Ngaro"
+              }
+            ]
+          },
+          "successor5": {
+            "text": "Poto Williams",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Poto Williams"
+              }
+            ]
+          },
+          "term_start5": {
+            "text": "26 October 2017"
+          },
+          "term_end5": {
+            "text": "3 July 2019"
+          },
+          "constituency_mp6": {
+            "text": "Tāmaki Makaurau",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tāmaki Makaurau"
+              }
+            ]
+          },
+          "term_start6": {
+            "text": "20 September 2014"
+          },
+          "parliament6": {
+            "text": "New Zealand"
+          },
+          "predecessor6": {
+            "text": "Pita Sharples",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pita Sharples"
+              }
+            ]
+          },
+          "majority6": {
+            "text": "927",
+            "number": 927
+          },
+          "relations": {
+            "text": "Tau Henare (great-grandfather)\nJames Henare (grandfather)",
+            "links": [
+              {
+                "text": "Tau Henare",
+                "type": "internal",
+                "page": "Taurekareka Henare"
+              },
+              {
+                "type": "internal",
+                "page": "James Henare"
+              }
+            ]
+          },
+          "website": {
+            "text": "https://www.labour.org.nz/peenihenare"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Family",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Henare is a great grandson of Taurekareka Henare, who held the Northern Maori seat between and.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Taurekareka Henare"
+                },
+                {
+                  "type": "internal",
+                  "page": "Northern Maori"
+                }
+              ]
+            },
+            {
+              "text": "His grandfather was James Henare, who had stood for the National Party in five elections between and 1963.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "James Henare"
+                },
+                {
+                  "text": "National Party",
+                  "type": "internal",
+                  "page": "New Zealand National Party"
+                },
+                {
+                  "text": "1963",
+                  "type": "internal",
+                  "page": "1963 Northern Maori by-election"
+                }
+              ]
+            },
+            {
+              "text": "His father was Erima Henare, who was the head of the Māori Language Commission.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Māori Language Commission"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "1914"
+          ],
+          "template": "nz election link year"
+        },
+        {
+          "list": [
+            "1938"
+          ],
+          "template": "nz election link year"
+        },
+        {
+          "list": [
+            "1946"
+          ],
+          "template": "nz election link year"
+        }
+      ],
+      "references": [
+        {
+          "last": "Gustafson",
+          "first": "Barry",
+          "author-link": "Barry Gustafson",
+          "title": "The First 50 Years : A History of the New Zealand National Party",
+          "year": "1986",
+          "publisher": "Reed Methuen",
+          "location": "Auckland",
+          "isbn": "0-474-00177-6",
+          "page": "247",
+          "template": "citation",
+          "type": "book"
+        },
+        {
+          "url": "http://www.nzherald.co.nz/northern-advocate/news/article.cfm?c_id=1503450&objectid=11267530",
+          "title": "Grandson aims to keep Parliament seat in family",
+          "work": "The Northern Advocate",
+          "date": "4 June 2014",
+          "access-date": "22 September 2014",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Peeni Henare won the Tāmaki Makaurau electorate ahead of Rangi McLean of the Māori Party in 2014.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Māori Party"
+                }
+              ]
+            },
+            {
+              "text": "In 2016, a member's bill submitted by Henare which aimed to ban the import of goods produced by slave labour was drawn from the ballot."
+            },
+            {
+              "text": "The bill had been first introduced by Maryan Street and defeated at its first reading in 2009.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Maryan Street"
+                }
+              ]
+            },
+            {
+              "text": "It was again defeated at its first reading in 2016 due to opposition from the National Party and Act New Zealand.",
+              "links": [
+                {
+                  "text": "National Party",
+                  "type": "internal",
+                  "page": "New Zealand National Party"
+                },
+                {
+                  "text": "Act New Zealand",
+                  "type": "internal",
+                  "page": "ACT New Zealand"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Henare was elected as a Minister outside Cabinet by the Labour Party caucus following Labour's formation of a coalition government with New Zealand First and the Greens in 2017.",
+              "links": [
+                {
+                  "text": "coalition government",
+                  "type": "internal",
+                  "page": "Sixth Labour Government of New Zealand"
+                },
+                {
+                  "type": "internal",
+                  "page": "New Zealand First"
+                },
+                {
+                  "text": "Greens",
+                  "type": "internal",
+                  "page": "Green Party of Aotearoa New Zealand"
+                }
+              ]
+            },
+            {
+              "text": "He assumed the portfolio of Minister for Whānau Ora, which falls under the purview of Te Puni Kōkiri (the Ministry for Māori Development).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Whānau Ora"
+                },
+                {
+                  "type": "internal",
+                  "page": "Te Puni Kōkiri"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Following a cabinet reshuffle in late June 2019, Henare was appointed as Minister of Civil Defence.",
+              "links": [
+                {
+                  "text": "cabinet reshuffle",
+                  "type": "internal",
+                  "page": "cabinet reshuffle"
+                },
+                {
+                  "text": "Minister of Civil Defence",
+                  "type": "internal",
+                  "page": "Minister of Civil Defence (New Zealand)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "During the 2020 general election, Henare retained Tāmaki Makaurau, defeating the Māori Party candidate and co-leader John Tamihere and Green co-leader Marama Davidson.",
+              "links": [
+                {
+                  "text": "2020 general election",
+                  "type": "internal",
+                  "page": "2020 New Zealand general election"
+                },
+                {
+                  "type": "internal",
+                  "page": "John Tamihere"
+                },
+                {
+                  "type": "internal",
+                  "page": "Marama Davidson"
+                }
+              ]
+            },
+            {
+              "text": "When the official results were released, Henare had a majority of 956, but after the Māori Party requested a recount in Tāmaki Makaurau, Henare's majority fell slightly to 927."
+            },
+            {
+              "text": "In November 2020, Henare was announced as Minister of Defence and Minister for Whānau Ora.",
+              "links": [
+                {
+                  "text": "Minister of Defence",
+                  "type": "internal",
+                  "page": "Minister of Defence (New Zealand)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Whānau Ora"
+                }
+              ]
+            },
+            {
+              "text": "He also assumed the health, housing and tourism associate porfolios with responsibility for Māori health and housing."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2022 he indicated to Labour Party President Claire Szabó that he would possibly be unwilling to recontest Tāmaki Makaurau at the Next New Zealand general election, preferring instead to contest the election as a list-only candidate.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Claire Szabó"
+                },
+                {
+                  "type": "internal",
+                  "page": "Tāmaki Makaurau"
+                },
+                {
+                  "type": "internal",
+                  "page": "Next New Zealand general election"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "template": "nz parlbox header"
+        },
+        {
+          "list": [
+            "2014"
+          ],
+          "template": "nz election link year"
+        },
+        {
+          "term": "51st",
+          "end": "2017",
+          "party": "New Zealand Labour Party",
+          "electorate": "Tāmaki Makaurau",
+          "_list": "none",
+          "template": "nz parlbox"
+        },
+        {
+          "list": [
+            "2017"
+          ],
+          "template": "nz election link year"
+        },
+        {
+          "term": "52nd",
+          "end": "2020",
+          "party": "New Zealand Labour Party",
+          "electorate": "Tāmaki Makaurau",
+          "_list": "none",
+          "template": "nz parlbox"
+        },
+        {
+          "list": [
+            "2020"
+          ],
+          "template": "nz election link year"
+        },
+        {
+          "term": "53rd",
+          "end": "present",
+          "party": "New Zealand Labour Party",
+          "electorate": "Tāmaki Makaurau",
+          "_list": "18",
+          "template": "nz parlbox"
+        },
+        {
+          "template": "nz parlbox footer"
+        }
+      ],
+      "references": [
+        {
+          "last1": "Ropiha",
+          "first1": "Billie Jo",
+          "title": "Peeni Henare presents humble victory speech",
+          "url": "https://www.maoritelevision.com/news/regional/peeni-henare-presents-humble-victory-speech",
+          "access-date": "2 October 2014",
+          "work": "Māori Television",
+          "date": "20 September 2014",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Customs and Excise (Prohibition of Imports Made by Slave Labour) Amendment Bill – New Zealand Parliament",
+          "url": "https://www.parliament.nz/en/pb/bills-and-laws/bills-proposed-laws/document/00DBHOH_BILL68000_1/tab/hansard",
+          "access-date": "2021-09-03",
+          "website": "www.parliament.nz",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Customs and Excise (Prohibition of Imports Made by Slave Labour) Amendment Bill – New Zealand Parliament",
+          "url": "https://www.parliament.nz/en/pb/bills-and-laws/bills-proposed-laws/document/00DBHOH_BILL9293_1/customs-and-excise-prohibition-of-imports-made-by-slave",
+          "access-date": "2021-09-03",
+          "website": "www.parliament.nz",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Customs and Excise (Prohibition of Imports Made by Slave Labour) Amendment Bill — First Reading – New Zealand Parliament",
+          "url": "https://www.parliament.nz/en/pb/hansard-debates/rhr/document/49HansD_20090729_00001289/customs-and-excise-prohibition-of-imports-made-by-slave",
+          "access-date": "2021-09-03",
+          "website": "www.parliament.nz",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.radionz.co.nz/news/political/342022/video-who-s-in-who-s-out",
+          "access-date": "20 October 2017",
+          "title": "Who's in? Who's out?",
+          "date": "20 October 2017",
+          "work": "Radio NZ",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Ministry of Māori Development",
+          "url": "https://www.govt.nz/organisations/te-puni-kokiri/",
+          "publisher": "Te Puni Kokiri",
+          "access-date": "11 October 2017",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Ministerial List",
+          "url": "https://www.dpmc.govt.nz/our-business-units/cabinet-office/ministers-and-their-portfolios/ministerial-list",
+          "publisher": "Department of the Prime Minister and Cabinet",
+          "access-date": "26 October 2017",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Winners and losers – PM reveals first substantive Cabinet reshuffle",
+          "url": "https://www.rnz.co.nz/news/political/393077/winners-and-losers-pm-reveals-first-substantive-cabinet-reshuffle",
+          "access-date": "1 July 2019",
+          "publisher": "Radio New Zealand",
+          "date": "27 June 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Small",
+          "first1": "Zane",
+          "title": "Jacinda Ardern's Cabinet reshuffle: Phil Twyford's Housing portfolio split into three",
+          "url": "https://www.newshub.co.nz/home/politics/2019/06/jacinda-ardern-s-cabinet-reshuffle-twyford-s-housing-portfolio-split-into-three.html",
+          "access-date": "1 July 2019",
+          "publisher": "Newshub",
+          "date": "27 June 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Tāmaki Makaurau – Official Results",
+          "url": "https://www.electionresults.govt.nz/electionresults_2020/electorate-details-68.html",
+          "publisher": "Electoral Commission",
+          "access-date": "6 November 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Hurihanganui",
+          "first1": "Te Aniwa",
+          "title": "Māori Party requests recount in two electorates after claims of bias",
+          "url": "https://www.rnz.co.nz/news/political/430362/maori-party-requests-recount-in-two-electorates-after-claims-of-bias",
+          "access-date": "20 November 2020",
+          "publisher": "RNZ",
+          "date": "11 November 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Amended Official Result for the Tāmaki Makaurau and Te Tai Hauāuru Electoral Districts",
+          "url": "https://gazette.govt.nz/notice/id/2020-au5297",
+          "work": "New Zealand Gazette",
+          "access-date": "20 November 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Ministerial List for Announcement on Monday",
+          "url": "https://dpmc.govt.nz/sites/default/files/2020-11/ministerial-list-2-nov-2020.pdf",
+          "publisher": "Department of the Prime Minister and Cabinet",
+          "access-date": "4 November 2020",
+          "date": "2 November 2020",
+          "archive-url": "https://web.archive.org/web/20201103122141/https://dpmc.govt.nz/sites/default/files/2020-11/ministerial-list-2-nov-2020.pdf",
+          "archive-date": "3 November 2020",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Ministerial List",
+          "url": "https://dpmc.govt.nz/our-business-units/cabinet-office/ministers-and-their-portfolios/ministerial-list",
+          "access-date": "2020-11-02",
+          "website": "Ministerial List",
+          "language": "en-NZ",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.newsroom.co.nz/political-future-about-to-come-clearer-for-labour-mps",
+          "first": "Jo",
+          "last": "Moir",
+          "title": "Big decisions loom on Labour MPs' futures",
+          "date": "2 May 2022",
+          "work": "Newsroom",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "commons category"
+        },
+        {
+          "template": "wikiquote"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "list": [
+            "nz"
+          ],
+          "template": "s-par"
+        },
+        {
+          "before": "Pita Sharples",
+          "template": "s-bef"
+        },
+        {
+          "title": "Member of Parliament for Tāmaki Makaurau",
+          "years": "2014–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Te Ururoa Flavell",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister for Whānau Ora",
+          "years": "2017–present",
+          "template": "s-ttl"
+        },
+        {
+          "rows": "2",
+          "template": "s-inc"
+        },
+        {
+          "before": "Ron Mark",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of Defence",
+          "years": "2020–present",
+          "template": "s-ttl"
+        },
+        {
+          "before": "Alfred Ngaro",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister for the Community and Voluntary Sector",
+          "years": "2017–2019",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Poto Williams",
+          "template": "s-aft"
+        },
+        {
+          "before": "Nikki Kaye",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister for Youth",
+          "years": "2017–2020",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Priyanca Radhakrishnan",
+          "template": "s-aft"
+        },
+        {
+          "before": "Kris Faafoi",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of Civil Defence",
+          "years": "2019–2020",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Kiri Allan",
+          "template": "s-aft"
+        },
+        {
+          "template": "sixth labour government of new zealand"
+        },
+        {
+          "template": "nz labour party"
+        },
+        {
+          "template": "current members of the new zealand house of representatives"
+        }
+      ]
+    }
+  ]
+}

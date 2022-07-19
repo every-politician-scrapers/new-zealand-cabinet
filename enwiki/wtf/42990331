@@ -1,0 +1,1362 @@
+{
+  "title": "Cindy Kiro",
+  "pageID": 42990331,
+  "categories": [
+    "1958 births",
+    "Living people",
+    "People from Whangārei",
+    "Massey University alumni",
+    "Massey University faculty",
+    "New Zealand Māori academics",
+    "New Zealand Māori women academics",
+    "Victoria University of Wellington faculty",
+    "People educated at Rutherford College, Auckland",
+    "Companions of the Queen's Service Order",
+    "Dames Grand Companion of the New Zealand Order of Merit",
+    "Ngāpuhi",
+    "Ngāti Kahu",
+    "Ngāti Hine",
+    "New Zealand people of English descent",
+    "Governors-General of New Zealand",
+    "Children's Ombudsmen",
+    "Ombudsmen in New Zealand",
+    "Dames of the Order of St John"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Dame Alcyion Cynthia Kiro  (née Simpson; born 1958) is a New Zealand public health academic, administrator, and advocate, who has served as the 22nd governor-general of New Zealand since 21 October 2021.",
+              "links": [
+                {
+                  "text": "governor-general of New Zealand",
+                  "type": "internal",
+                  "page": "governor-general of New Zealand"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Dame Alcyion Cynthia Kiro",
+                  "Simpson"
+                ]
+              }
+            },
+            {
+              "text": "Kiro is the first Māori woman, the third person of Māori descent, and the fourth woman to hold the office.",
+              "links": [
+                {
+                  "text": "Māori",
+                  "type": "internal",
+                  "page": "Māori people"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Before she was announced as governor-general designate, Kiro was Ahorangi chief executive of the Royal Society Te Apārangi and was previously the Children's Commissioner, head of school of the School of Public Health at Massey University, head of Te Kura Māori at Victoria University of Wellington and Pro-Vice Chancellor (Māori) of the University of Auckland.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Royal Society Te Apārangi"
+                },
+                {
+                  "text": "Children's Commissioner",
+                  "type": "internal",
+                  "page": "Children's Commissioner Act 2003",
+                  "anchor": "Children's Commissioners"
+                },
+                {
+                  "type": "internal",
+                  "page": "Massey University"
+                },
+                {
+                  "type": "internal",
+                  "page": "Victoria University of Wellington"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Auckland"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "New Zealand Governor-General, former academic and social justice advocate",
+          "template": "short description"
+        },
+        {
+          "date": "May 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "country": "NZL",
+          "list": [
+            "GNZMf",
+            "QSO",
+            "DStJ"
+          ],
+          "size": "100%",
+          "template": "post-nominals"
+        },
+        {
+          "birth_year": "1958",
+          "template": "birth year and age"
+        },
+        {
+          "country": "NZL",
+          "list": [
+            "GNZMf",
+            "QSO",
+            "DStJ"
+          ],
+          "size": "85%",
+          "template": "post-nominals"
+        },
+        {
+          "template": "ipac",
+          "transcription": "k,ɪəˈr,oʊ"
+        }
+      ],
+      "infoboxes": [
+        {
+          "embed": {
+            "text": "yes"
+          },
+          "fields": {
+            "text": "Public health"
+          },
+          "alma_mater": {
+            "text": "University of Auckland Massey University European University Institute",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Auckland"
+              },
+              {
+                "type": "internal",
+                "page": "Massey University"
+              },
+              {
+                "type": "internal",
+                "page": "European University Institute"
+              }
+            ]
+          },
+          "thesis_title": {
+            "text": "Kimihia Hauora Māori = Māori Health Policy and Practice"
+          },
+          "thesis_url": {
+            "text": "http://mro.massey.ac.nz/handle/10179/2166"
+          },
+          "thesis_year": {
+            "text": "2001",
+            "number": 2001
+          },
+          "academic_advisors": {
+            "text": "Michael Belgrave Chris Cunningham",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Michael Belgrave"
+              },
+              {
+                "text": "Chris Cunningham",
+                "type": "internal",
+                "page": "Chris Cunningham (academic)"
+              }
+            ]
+          }
+        },
+        {
+          "honorific_prefix": {
+            "text": "Her Excellency The Right Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Her Excellency"
+              },
+              {
+                "type": "internal",
+                "page": "The Right Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Dame Cindy Kiro"
+          },
+          "image": {
+            "text": "Cindy Kiro official portrait October 2021 (cropped).jpg"
+          },
+          "caption": {
+            "text": "Official portrait, 2021"
+          },
+          "order": {
+            "text": "22nd"
+          },
+          "office": {
+            "text": "Governor-General of New Zealand"
+          },
+          "term_start": {
+            "text": "21 October 2021"
+          },
+          "monarch": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Jacinda Ardern",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jacinda Ardern"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Dame Patsy Reddy",
+            "links": [
+              {
+                "text": "Dame Patsy Reddy",
+                "type": "internal",
+                "page": "Patsy Reddy"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Alcyion Cynthia Simpson"
+          },
+          "birth_date": {
+            "text": "1958 (age 64)"
+          },
+          "birth_place": {
+            "text": "Whangārei, New Zealand",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Whangārei"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Chris Kuchel Richard Davies",
+            "links": [
+              {
+                "text": "Richard Davies",
+                "type": "internal",
+                "page": "Richard Davies (doctor)"
+              }
+            ]
+          },
+          "residence": {
+            "text": "Government House, Wellington",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Government House, Wellington"
+              }
+            ]
+          },
+          "children": {
+            "text": "2 children, 2 stepchildren"
+          },
+          "office2": {
+            "text": "Children's Commissioner",
+            "links": [
+              {
+                "text": "Children's Commissioner",
+                "type": "internal",
+                "page": "Children's Ombudsman",
+                "anchor": "New Zealand"
+              }
+            ]
+          },
+          "termstart2": {
+            "text": "1 September 2003"
+          },
+          "termend2": {
+            "text": "1 September 2008"
+          },
+          "appointer2": {
+            "text": "Steve Maharey",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Steve Maharey"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Roger McClay",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Roger McClay"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "John Angus",
+            "links": [
+              {
+                "text": "John Angus",
+                "type": "internal",
+                "page": "John Angus (children's advocate)"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.newshub.co.nz/home/politics/2021/05/prime-minister-jacinda-ardern-announces-dame-cindy-kero-as-next-governor-general.html",
+          "title": "Prime Minister Jacinda Ardern announces Dame Cindy Kiro as next Governor-General",
+          "date": "24 May 2021",
+          "work": "Newshub",
+          "first": "Zane",
+          "last": "Small",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Early life and education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Kiro was born in Whangārei in April 1957, the eldest child of six.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Whangārei"
+                }
+              ]
+            },
+            {
+              "text": "She is of Māori and English descent, affiliating with Ngā Puhi, Ngāti Kahu, and Ngāti Hine iwi.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ngā Puhi"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ngāti Kahu"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ngāti Hine"
+                },
+                {
+                  "text": "iwi",
+                  "type": "internal",
+                  "page": "iwi"
+                }
+              ]
+            },
+            {
+              "text": "Her father was Norman Simpson, who was originally from the north of England."
+            },
+            {
+              "text": "Her mother's maiden name was Ngawaiunu Kiro and her maternal grandparents were Te Rangihaeata Hemi Kiro and Hukatere Miha Maihi."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She was raised by her mother's parents for part of her early life and took their surname of Kiro.",
+              "formatting": {
+                "italic": [
+                  "Kiro"
+                ]
+              }
+            },
+            {
+              "text": "One of her sisters also has the name Kiro, while her other siblings have the name Simpson.",
+              "formatting": {
+                "italic": [
+                  "Kiro",
+                  "Simpson"
+                ]
+              }
+            },
+            {
+              "text": "She grew up in South Auckland and West Auckland."
+            },
+            {
+              "text": "Her grandparents moved to South Auckland, living at Ōtara and then Māngere.",
+              "links": [
+                {
+                  "text": "Ōtara",
+                  "type": "internal",
+                  "page": "Ōtara"
+                },
+                {
+                  "type": "internal",
+                  "page": "Māngere"
+                }
+              ]
+            },
+            {
+              "text": "Her parents also moved to Auckland and the family lived at New Lynn and Te Atatū in West Auckland.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "New Lynn"
+                },
+                {
+                  "type": "internal",
+                  "page": "Te Atatū"
+                }
+              ]
+            },
+            {
+              "text": "Kiro attended Rutherford High School in Te Atatū.",
+              "links": [
+                {
+                  "text": "Rutherford High School",
+                  "type": "internal",
+                  "page": "Rutherford College, Auckland"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She then joined the first cohort of social work students at Massey University in Palmerston North."
+            },
+            {
+              "text": "She completed a Bachelor of Arts in social sciences from the University of Auckland.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bachelor of Arts"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Auckland"
+                }
+              ]
+            },
+            {
+              "text": "In 1987 Kiro graduated with a certificate in epidemiology from the European University Institute in Fiesole, Italy.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "European University Institute"
+                },
+                {
+                  "text": "Fiesole, Italy",
+                  "type": "internal",
+                  "page": "Fiesole"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "date": "2021-05-25",
+          "title": "Dame Cindy Kiro - from humble beginnings to Governor General",
+          "url": "https://www.rnz.co.nz/national/programmes/ninetonoon/audio/2018796867/dame-cindy-kiro-from-humble-beginnings-to-governor-general",
+          "access-date": "2021-05-25",
+          "website": "RNZ",
+          "language": "en-nz",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.auckland.ac.nz/en/news/2021/02/24/haere-r_-professor-dame-cindy-kiro.html",
+          "title": "Haere rā Professor Dame Cindy Kiro",
+          "date": "24 February 2021",
+          "publisher": "University of Auckland",
+          "access-date": "7 November 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Hewitson",
+          "first": "Michelle",
+          "date": "15 August 2003",
+          "title": "A horribly good voice for the kids",
+          "url": "https://www.nzherald.co.nz/nz/a-horribly-good-voice-for-the-kids/XAIHSECRVQP7KPCZF2HQ7MWYXU/",
+          "url-status": "live",
+          "access-date": "2021-05-24",
+          "website": "NZ Herald",
+          "language": "en-NZ",
+          "archive-url": "https://web.archive.org/web/20210524044935/https://www.nzherald.co.nz/nz/a-horribly-good-voice-for-the-kids/XAIHSECRVQP7KPCZF2HQ7MWYXU/",
+          "archive-date": "24 May 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Associate Professor Cindy Kiro – Massey University",
+          "url": "http://www.massey.ac.nz/massey/learning/departments/centres-research/te-mata-o-te-tau/people/associate-professor-cindy-kiro.cfm",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20140714181153/http://www.massey.ac.nz/massey/learning/departments/centres-research/te-mata-o-te-tau/people/associate-professor-cindy-kiro.cfm",
+          "archive-date": "14 July 2014",
+          "access-date": "7 June 2014",
+          "publisher": "massey.ac.nz",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://e-tangata.co.nz/korero/dame-cindy-kiro-a-pohara-kotiro-from-the-wop-wops/",
+          "title": "Dame Cindy Kiro: A pōhara kōtiro from the wop-wops",
+          "first": "Dale",
+          "last": "Husband",
+          "date": "7 November 2021",
+          "work": "E-Tangata",
+          "access-date": "7 November 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://orcid.org/0000-0002-9899-5311",
+          "title": "ORCID",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "From 1995 to 2000 Kiro was a senior lecturer in social policy at Massey University in Albany."
+            },
+            {
+              "text": "Kiro was awarded her PhD in social policy from Massey University in 2001 for a thesis entitled Kimihia Hauora Māori = Māori Health Policy and Practice.",
+              "links": [
+                {
+                  "text": "PhD",
+                  "type": "internal",
+                  "page": "Doctor of Philosophy"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Kimihia Hauora Māori = Māori Health Policy and Practice"
+                ]
+              }
+            },
+            {
+              "text": "She went on to gain a Master of Business Administration (Executive) from the University of Auckland.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Master of Business Administration"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Kiro was appointed New Zealand's Children's Commissioner in 2003 and served in this role until 2008."
+            },
+            {
+              "text": "While in this role she established the Taskforce for Action on Family Violence that included many government department chief executives, and people from areas such as the police, Family Courts, and Māori and Pacific Island representatives.",
+              "links": [
+                {
+                  "text": "Family Courts",
+                  "type": "internal",
+                  "page": "Family Court of New Zealand"
+                }
+              ]
+            },
+            {
+              "text": "The passing of the Crimes (Substituted Section 59) Amendment Act 2007 during her tenure attracted considerable public and media interest.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Crimes (Substituted Section 59) Amendment Act 2007"
+                }
+              ]
+            },
+            {
+              "text": "Kiro supported and advocated for the repeal of Section 59 of the Crimes Act, which provided a legal justification for using force against children."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Kiro returned to academia, as an associate professor at Massey University and heading its School of Public Health."
+            },
+            {
+              "text": "In 2013 Kiro took a position as head of Te Kura Māori at the School of Education at Victoria University of Wellington.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Victoria University of Wellington"
+                }
+              ]
+            },
+            {
+              "text": "Kiro went on to serve as the Pro-Vice Chancellor (Māori) at the University of Auckland.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Auckland"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In October 2020 Kiro was appointed chief executive of the Royal Society Te Apārangi, commencing on 1 March 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Royal Society Te Apārangi"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://mro.massey.ac.nz/bitstream/handle/10179/2166/01_front.pdf",
+          "title": "Kimihia Hauora Māori = Māori Health Policy and Practice",
+          "first": "Cynthia A.",
+          "last": "Kiro",
+          "date": "2001",
+          "publisher": "Massey University",
+          "access-date": "24 May 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Professor Cindy Kiro - Chair",
+          "url": "http://www.weag.govt.nz/about-the-weag/about-us/professor-cindy-kiro/",
+          "url-status": "live",
+          "access-date": "2021-05-24",
+          "website": "Welfare Expert Advisory Group - Kia Piki Ake",
+          "archive-url": "https://web.archive.org/web/20190121224608/http://weag.govt.nz/about-the-weag/about-us/professor-cindy-kiro/",
+          "archive-date": "21 January 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "16 May 2007",
+          "title": "Anti-smacking bill becomes law",
+          "url": "https://www.nzherald.co.nz/nz/anti-smacking-bill-becomes-law/XX752WBOY62KJAXOI56UAB6AWQ/",
+          "url-status": "live",
+          "access-date": "2021-05-24",
+          "website": "NZ Herald",
+          "language": "en-NZ",
+          "archive-url": "https://web.archive.org/web/20201106232736/http://www.nzherald.co.nz/nz/anti-smacking-bill-becomes-law/XX752WBOY62KJAXOI56UAB6AWQ/",
+          "archive-date": "6 November 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2010-04-29",
+          "title": "Maori graduates' achieve success",
+          "url": "https://www.stuff.co.nz/auckland/local-news/north-harbour-news/3637446/Maori-graduates-achieve-success",
+          "access-date": "2021-05-24",
+          "website": "Stuff",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "8 April 2013",
+          "title": "New staff at Te Kura Māori",
+          "url": "https://www.wgtn.ac.nz/education/about/news/news-archives/2013-news/welcome-new-tkm-staff",
+          "url-status": "live",
+          "access-date": "2021-05-24",
+          "website": "www.wgtn.ac.nz",
+          "archive-url": "https://web.archive.org/web/20210524035826/https://www.wgtn.ac.nz/education/about/news/news-archives/2013-news/welcome-new-tkm-staff",
+          "archive-date": "24 May 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "13 August 2003",
+          "title": "Dr Cindy Kiro appointed Commissioner for Children",
+          "url": "https://www.beehive.govt.nz/release/dr-cindy-kiro-appointed-commissioner-children",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20210524041747/https://www.beehive.govt.nz/release/dr-cindy-kiro-appointed-commissioner-children",
+          "archive-date": "24 May 2021",
+          "publisher": "beehive.govt.nz",
+          "access-date": "7 June 2014",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.stuff.co.nz/dominion-post/news/local-papers/the-wellingtonian/2323372/The-Wellingtonian-interview-Cindy-Kiro",
+          "title": "The Wellingtonian interview: Cindy Kiro",
+          "first": "Joseph",
+          "last": "Romanos",
+          "date": "6 May 2009",
+          "work": "Stuff",
+          "access-date": "7 June 2014",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.pha.org.nz/phchampckiro.html",
+          "title": "Public Health Champion 2012 – Cindy Kiro",
+          "publisher": "Public Health Association of New Zealand",
+          "access-date": "7 June 2014",
+          "archive-url": "https://web.archive.org/web/20140714123704/http://www.pha.org.nz/phchampckiro.html",
+          "archive-date": "14 July 2014",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.maramatanga.ac.nz/person/associate-professor-cindy-kiro",
+          "title": "Associate Professor Cindy Kiro &#124; Ngā Pae o te Māramatanga",
+          "publisher": "maramatanga.ac.nz",
+          "access-date": "7 June 2014",
+          "archive-url": "https://web.archive.org/web/20130205164925/http://maramatanga.ac.nz/person/associate-professor-cindy-kiro",
+          "archive-date": "5 February 2013",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Professor Cynthia Kiro appointed as Ahorangi Chief Executive",
+          "url": "https://www.royalsociety.org.nz/news/professor-cynthia-kiro-appointed-as-ahorangi-chief-executive/",
+          "access-date": "9 October 2020",
+          "website": "Royal Society Te Apārangi",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Governor-general",
+      "depth": 0
+    },
+    {
+      "title": "Appointment and investiture",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "On 24 May 2021, Prime Minister Jacinda Ardern announced that Elizabeth II, Queen of New Zealand had agreed to her recommendation to appoint Kiro as the next governor-general of New Zealand from 21 October 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Elizabeth II"
+                },
+                {
+                  "type": "internal",
+                  "page": "Queen of New Zealand"
+                }
+              ]
+            },
+            {
+              "text": "The five-year term of the previous governor-general, Dame Patsy Reddy, ended on 28 September 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Patsy Reddy"
+                }
+              ]
+            },
+            {
+              "text": "Kiro is the first Māori woman to be appointed as governor-general.",
+              "links": [
+                {
+                  "text": "Māori",
+                  "type": "internal",
+                  "page": "Māori people"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Kiro was invested as a Dame Grand Cross of the New Zealand Order of Merit and Companion of the Queen's Service Order by Queen Elizabeth II during a private audience via video call on 19 October (18 October British time).",
+              "links": [
+                {
+                  "text": "invested",
+                  "type": "internal",
+                  "page": "Investiture"
+                }
+              ]
+            },
+            {
+              "text": "She was sworn in as governor-general by the chief justice, Helen Winkelmann, at Parliament on 21 October.",
+              "links": [
+                {
+                  "text": "chief justice",
+                  "type": "internal",
+                  "page": "Chief Justice of New Zealand"
+                },
+                {
+                  "type": "internal",
+                  "page": "Helen Winkelmann"
+                }
+              ]
+            },
+            {
+              "text": "The ceremony was smaller than usual because of COVID-19 restrictions on the size of gatherings.",
+              "links": [
+                {
+                  "text": "COVID-19 restrictions",
+                  "type": "internal",
+                  "page": "New Zealand government response to the COVID-19 pandemic"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Cindy_Kiro_video_audience_with_Queen_2.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Cindy_Kiro_video_audience_with_Queen_2.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Cindy_Kiro_video_audience_with_Queen_2.jpg",
+          "caption": "Kiro showing the Queen her insignia of Companion of the Queen's Service Order during a virtual private audience, 19 October 2021",
+          "links": []
+        }
+      ],
+      "references": [
+        {
+          "title": "Dame Cindy Kiro: New Zealand's first Māori woman to be governor-general, on her 'very poor' upbringing and life of service",
+          "url": "https://www.nzherald.co.nz/nz/dame-cindy-kiro-new-zealands-first-maori-woman-to-be-governor-general-on-her-very-poor-upbringing-and-life-of-service/HAOIFR2264TD6FK5KCENIBCYRA/",
+          "date": "24 May 2021",
+          "access-date": "2021-05-24",
+          "work": "The New Zealand Herald",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "2021-10-19",
+          "title": "The Queen invests Dame Cindy Kiro with the traditional Insignia of the Governor-General in video call",
+          "url": "https://www.stuff.co.nz/national/126731351/the-queen-invests-dame-cindy-kiro-with-the-traditional-insignia-of-the-governorgeneral-in-video-call",
+          "access-date": "2021-10-21",
+          "website": "Stuff",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Smith",
+          "first": "Phil",
+          "date": "2021-10-22",
+          "title": "Swearing-in a Governor General: a photo essay",
+          "url": "https://www.rnz.co.nz/national/programmes/the-house/audio/2018817489/swearing-in-a-governor-general-a-photo-essay",
+          "url-status": "live",
+          "access-date": "2021-10-23",
+          "website": "RNZ",
+          "language": "en-nz",
+          "archive-url": "https://web.archive.org/web/20211023220304/https://www.rnz.co.nz/national/programmes/the-house/audio/2018817489/swearing-in-a-governor-general-a-photo-essay",
+          "archive-date": "23 October 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Dame Cindy Kiro to be next Governor-General of New Zealand - Ardern",
+          "url": "https://www.rnz.co.nz/news/political/443256/dame-cindy-kiro-to-be-next-governor-general-of-new-zealand-ardern",
+          "access-date": "24 May 2021",
+          "work": "Radio New Zealand",
+          "date": "24 May 2021",
+          "archive-url": "https://web.archive.org/web/20210524035028/https://www.rnz.co.nz/news/political/443256/dame-cindy-kiro-to-be-next-governor-general-of-new-zealand-ardern",
+          "archive-date": "24 May 2021",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "2021-10-21",
+          "title": "Dame Cindy Kiro sworn in as Governor-General",
+          "url": "https://www.rnz.co.nz/news/national/453964/dame-cindy-kiro-sworn-in-as-governor-general",
+          "access-date": "2021-10-21",
+          "website": "RNZ",
+          "language": "en-nz",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Duties",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Kiro travelled to the United Kingdom on 1 June 2022 for a week-long tour to celebrate the Platinum Jubilee of Elizabeth II.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Platinum Jubilee of Elizabeth II"
+                }
+              ]
+            },
+            {
+              "text": "She attended the Platinum Jubilee Pageant, which included New Zealand defence personnel.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Platinum Jubilee Pageant"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 14 June, Kiro, in the exercise of her constitutional role, swore in a government minister for the first time; Kieran McAnulty was appointed to the Executive Council.",
+              "links": [
+                {
+                  "text": "government minister",
+                  "type": "internal",
+                  "page": "Ministers in the New Zealand Government"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kieran McAnulty"
+                },
+                {
+                  "text": "Executive Council",
+                  "type": "internal",
+                  "page": "Executive Council of New Zealand"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Governor-General’s Visit To The UK For The Queen’s Platinum Jubilee Week",
+          "url": "https://www.scoop.co.nz/stories/PO2205/S00271/governor-generals-visit-to-the-uk-for-the-queens-platinum-jubilee-week.htm",
+          "access-date": "17 June 2022",
+          "work": "www.scoop.co.nz",
+          "agency": "Scoop",
+          "date": "31 May 2022",
+          "language": "en-NZ",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Appointment of Minister and Allocation of Portfolios",
+          "url": "https://gg.govt.nz/governor-general/blog/2022/06/appointment-minister-and-allocation-portfolios",
+          "website": "gg.govt.nz",
+          "publisher": "Government House",
+          "access-date": "17 June 2022",
+          "language": "en-NZ",
+          "template": "citation",
+          "type": "press release"
+        }
+      ]
+    },
+    {
+      "title": "Honours and awards",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In 2012, Kiro received the Public Health Champion award from the Public Health Association of New Zealand, and a US Fulbright Travel Award.",
+              "links": [
+                {
+                  "text": "Fulbright Travel Award",
+                  "type": "internal",
+                  "page": "Fulbright Program"
+                }
+              ]
+            },
+            {
+              "text": "The same year she was also named the Māori of the Year for Community Contribution by Television New Zealand.",
+              "links": [
+                {
+                  "text": "Television New Zealand",
+                  "type": "internal",
+                  "page": "TVNZ"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In the 2021 New Year Honours, Kiro was appointed a Dame Companion of the New Zealand Order of Merit, for services to child wellbeing and education.",
+              "links": [
+                {
+                  "text": "2021 New Year Honours",
+                  "type": "internal",
+                  "page": "2021 New Year Honours (New Zealand)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Dame Companion of the New Zealand Order of Merit"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 9 August 2021, Kiro was appointed as an additional Dame Grand Companion of the New Zealand Order of Merit and as an additional Companion of the Queen's Service Order in preparation for becoming governor-general.",
+              "links": [
+                {
+                  "text": "9 August 2021",
+                  "type": "internal",
+                  "page": "2021 Special Honours (New Zealand)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Dame Grand Companion of the New Zealand Order of Merit"
+                },
+                {
+                  "text": "Companion of the Queen's Service Order",
+                  "type": "internal",
+                  "page": "Queen's Service Order"
+                }
+              ]
+            },
+            {
+              "text": "As governor-general, Kiro is entitled to be styled \"Her Excellency\" while in office and \"The Right Honourable\" for life.",
+              "links": [
+                {
+                  "text": "Her Excellency",
+                  "type": "internal",
+                  "page": "Excellency"
+                },
+                {
+                  "type": "internal",
+                  "page": "The Right Honourable"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 21 October 2021, Kiro was appointed a Dame of the Order of Saint John by the Queen and appointed a prior of the same order as the governor-general.",
+              "links": [
+                {
+                  "text": "Dame of the Order of Saint John",
+                  "type": "internal",
+                  "page": "Order of Saint John (chartered 1888)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "infoboxes": [
+        {
+          "image": {
+            "text": "Flag of the Governor-General of New Zealand.svg"
+          },
+          "name": {
+            "text": "Dame Cindy Kiro\n(2021–present)"
+          },
+          "dipstyle": {
+            "text": "Her Excellency the Right Honourable"
+          },
+          "offstyle": {
+            "text": "Your Excellency"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "PHA Awards",
+          "url": "https://www.pha.org.nz/awards",
+          "access-date": "2021-05-24",
+          "website": "www.pha.org.nz",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://dpmc.govt.nz/publications/new-year-honours-list-2021",
+          "title": "New Year honours list 2021",
+          "date": "31 December 2020",
+          "publisher": "Department of the Prime Minister and Cabinet",
+          "access-date": "31 December 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2020-12-30",
+          "title": "New Year Honours: Former children's commissioner Prof Cindy Kiro made dame companion",
+          "url": "https://www.stuff.co.nz/national/300192426/new-year-honours-former-childrens-commissioner-prof-cindy-kiro-made-dame-companion",
+          "access-date": "2021-05-24",
+          "website": "Stuff",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2020-12-31",
+          "title": "New Year's Honours 2021 list announced",
+          "url": "https://www.rnz.co.nz/news/national/433839/new-year-s-honours-2021-list-announced",
+          "access-date": "2021-05-24",
+          "website": "RNZ",
+          "language": "en-nz",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://dpmc.govt.nz/publications/special-honours-list-9-august-2021",
+          "title": "Special honours list 9 August 2021",
+          "date": "10 August 2021",
+          "publisher": "Department of the Prime Minister and Cabinet",
+          "access-date": "10 August 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Protocols",
+          "url": "https://www.parliament.nz/resource/en-nz/QWA_00124_2015/3f65c9ef7d40ad53c7f9a5eeb7caa172a7afb513",
+          "pages": "5, 9",
+          "publisher": "New Zealand Parliament",
+          "access-date": "8 June 2018",
+          "year": "2015",
+          "format": "PDF",
+          "archive-url": "https://web.archive.org/web/20180612143519/https://www.parliament.nz/resource/en-nz/QWA_00124_2015/3f65c9ef7d40ad53c7f9a5eeb7caa172a7afb513",
+          "archive-date": "12 June 2018",
+          "url-status": "usurped",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "\"The Right Honourable\"",
+          "url": "https://www.dpmc.govt.nz/our-programmes/new-zealand-royal-honours/new-zealand-royal-honours-system/types-new-zealand-royal-honours/the-right-honourable",
+          "publisher": "Department of the Prime Minister and Cabinet",
+          "access-date": "21 October 2021",
+          "language": "en-NZ",
+          "date": "1 April 2011",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.thegazette.co.uk/notice/3936025",
+          "title": "Order of St John",
+          "work": "The London Gazette",
+          "date": "25 November 2021",
+          "issue": "3936025",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Prof Dame Cynthia Kiro - The University of Auckland",
+          "url": "https://unidirectory.auckland.ac.nz/profile/c-kiro",
+          "access-date": "2021-05-24",
+          "website": "unidirectory.auckland.ac.nz",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": [
+            {
+              "text": "Kiro was married to architect, later teacher, Chris Kuchel for 30 years, and had two sons with him."
+            },
+            {
+              "text": "Five years after separating, she met her current husband, GP Richard Davies, and is stepmother to his two sons.",
+              "links": [
+                {
+                  "text": "GP",
+                  "type": "internal",
+                  "page": "General practitioner"
+                },
+                {
+                  "text": "Richard Davies",
+                  "type": "internal",
+                  "page": "Richard Davies (doctor)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Platinum_Jubilee-_Dame_Cindy_and_Dr_Davies_outside_St_Paul's_Cathedral.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Platinum_Jubilee-_Dame_Cindy_and_Dr_Davies_outside_St_Paul's_Cathedral.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Platinum_Jubilee-_Dame_Cindy_and_Dr_Davies_outside_St_Paul's_Cathedral.jpg",
+          "caption": "Kiro and Richard Davies in London, June 2022",
+          "links": []
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.pressreader.com/new-zealand/new-zealand-womans-weekly/20210607/281655373005203",
+          "title": "Dame Cindy Kiro: 'I know what it's like to go hungry'",
+          "date": "7 June 2021",
+          "work": "New Zealand Woman's Weekly",
+          "first": "Leena",
+          "last": "Tailor",
+          "access-date": "22 October 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Evans",
+          "first": "Julianne",
+          "date": "November 2018",
+          "title": "Nau mai e Cindy",
+          "url": "https://cdn.auckland.ac.nz/assets/auckland/about-us/the-university/official-publications/uninews/2018/uninews-09-2018.pdf",
+          "journal": "Uni News",
+          "publisher": "University of Auckland",
+          "pages": "6–7",
+          "access-date": "24 May 2021",
+          "template": "citation",
+          "type": "journal"
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "List of female representatives of heads of state",
+            "links": [
+              {
+                "type": "internal",
+                "page": "List of female representatives of heads of state"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "scholia"
+        },
+        {
+          "template": "commons category"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-gov"
+        },
+        {
+          "before": "Dame Patsy Reddy",
+          "template": "s-bef"
+        },
+        {
+          "title": "Governor-General of New Zealand",
+          "years": "2021–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "list": [
+            "can"
+          ],
+          "template": "s-prec"
+        },
+        {
+          "before": "Queen Elizabeth II",
+          "as": "Monarch",
+          "template": "s-bef"
+        },
+        {
+          "title": "Order of Precedence of New Zealand as Governor-General",
+          "years": "2021–present",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Jacinda Ardern",
+          "as": "Prime Minister",
+          "template": "s-aft"
+        },
+        {
+          "template": "governors-general of new zealand"
+        },
+        {
+          "template": "authority control"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Biography of The Rt Hon Dame Cindy Kiro, GNZM, QSO",
+            "links": [
+              {
+                "text": "Biography of The Rt Hon Dame Cindy Kiro, GNZM, QSO",
+                "type": "external",
+                "site": "https://gg.govt.nz/governor-general/biography-rt-hon-dame-cindy-kiro-gnzm-qso"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}
