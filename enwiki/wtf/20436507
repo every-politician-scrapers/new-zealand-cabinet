@@ -91,7 +91,7 @@
         {
           "sentences": [
             {
-              "text": "Born in Hamilton, Ardern grew up in Morrinsville and Murupara, where she attended a state school.",
+              "text": "Born in Hamilton, Ardern grew up in Morrinsville and Murupara.",
               "links": [
                 {
                   "text": "Hamilton",
@@ -105,13 +105,11 @@
                 {
                   "type": "internal",
                   "page": "Murupara"
-                },
-                {
-                  "text": "state school",
-                  "type": "internal",
-                  "page": "state school"
                 }
               ]
+            },
+            {
+              "text": "She joined the Labour Party at the age of 17."
             },
             {
               "text": "After graduating from the University of Waikato in 2001, Ardern worked as a researcher in the office of Prime Minister Helen Clark.",
