@@ -796,11 +796,12 @@
           "type": "web"
         },
         {
-          "url": "https://web.archive.org/web/20081206124705/http://2008.electionresults.govt.nz/",
+          "url": "http://2008.electionresults.govt.nz/",
           "title": "2008 GENERAL ELECTION - OFFICIAL RESULT",
           "date": "6 December 2008",
-          "website": "Web.archive.org",
+          "archive-url": "https://web.archive.org/web/20081206124705/http://2008.electionresults.govt.nz/",
           "access-date": "18 July 2022",
+          "archive-date": "6 December 2008",
           "template": "citation",
           "type": "web"
         },
@@ -884,7 +885,6 @@
         },
         {
           "url": "https://www.parliament.nz/media/8243/2020-general-election-and-referendums.pdf",
-          "format": "PDF",
           "title": "The 2020 General Election and referendums: results, analysis, and demographics of the 53rd Parliament",
           "website": "Parliament.nz",
           "access-date": "July 18, 2022",
@@ -6195,7 +6195,7 @@
         {
           "last1": "McClure",
           "first1": "Tess",
-          "title": "West must stand firm as China challenges ‘rules and norms’, Ardern tells Nato",
+          "title": "West must stand firm as China challenges 'rules and norms', Ardern tells Nato",
           "url": "https://www.theguardian.com/world/2022/jun/30/west-must-stand-firm-as-china-challenges-rules-and-norms-ardern-tells-nato",
           "access-date": "1 July 2022",
           "work": "The Guardian",
