@@ -263,7 +263,7 @@
         {
           "sentences": [
             {
-              "text": "Ardern describes herself as a social democrat and a progressive, but has been described as a moderate as well.",
+              "text": "Ardern describes herself as a social democrat and a progressive.",
               "links": [
                 {
                   "text": "social democrat",
@@ -274,11 +274,6 @@
                   "text": "progressive",
                   "type": "internal",
                   "page": "progressivism"
-                },
-                {
-                  "text": "moderate",
-                  "type": "internal",
-                  "page": "Political moderate"
                 }
               ]
             },
@@ -331,7 +326,7 @@
               ]
             },
             {
-              "text": "Ardern moved the Labour Party further to the centre towards the 2020 general election, promising to cut spending during the remainder of COVID-19 recession and cancelling the government's plans to make tertiary education tuition-free.",
+              "text": "Ardern moved the Labour Party further to the centre towards the 2020 general election, promising to cut spending during the remainder of the COVID-19 recession.",
               "links": [
                 {
                   "text": "centre",
@@ -346,11 +341,6 @@
                 {
                   "type": "internal",
                   "page": "COVID-19 recession"
-                },
-                {
-                  "text": "tertiary education",
-                  "type": "internal",
-                  "page": "Tertiary education in New Zealand"
                 }
               ]
             },
@@ -820,15 +810,6 @@
           "type": "news"
         },
         {
-          "title": "The New Zealand \"Socialists\" Who Govern Like Neoliberals",
-          "url": "https://jacobin.com/2021/05/new-zealand-labour-party-socialists-jacinda-ardern",
-          "access-date": "2022-07-17",
-          "website": "jacobin.com",
-          "language": "en-US",
-          "template": "citation",
-          "type": "web"
-        },
-        {
           "url": "https://www.washingtonpost.com/world/2019/03/18/new-zealands-prime-minister-wins-worldwide-praise-her-response-mosque-shootings/",
           "title": "Jacinda Ardern wins worldwide praise for her empathy in wake of Christchurch shootings",
           "newspaper": "The Washington Post",
@@ -850,33 +831,11 @@
           "type": "web"
         },
         {
-          "date": "2020-09-16",
-          "title": "Students disappointed Labour Party dropped fees-free plan",
-          "url": "https://www.rnz.co.nz/national/programmes/morningreport/audio/2018764206/students-disappointed-labour-party-dropped-fees-free-plan",
-          "access-date": "2022-07-17",
-          "website": "RNZ",
-          "language": "en-nz",
-          "template": "citation",
-          "type": "web"
-        },
-        {
           "last": "Cooke",
           "first": "Henry",
           "date": "2020-08-08",
           "title": "Election 2020: Labour launches an extremely centrist campaign",
           "url": "https://www.stuff.co.nz/national/politics/300077606/election-2020-labour-launches-an-extremely-centrist-campaign",
-          "access-date": "2022-07-17",
-          "website": "Stuff",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Cooke",
-          "first": "Mandy Te, Matthew Tso, Laura Wiltshire and Henry",
-          "date": "2020-09-15",
-          "title": "University students may reconsider futures after Labour breaks fees-free promise",
-          "url": "https://www.stuff.co.nz/national/education/300107808/university-students-may-reconsider-futures-after-labour-breaks-feesfree-promise",
           "access-date": "2022-07-17",
           "website": "Stuff",
           "language": "en",
@@ -3267,6 +3226,20 @@
               "text": "A retrospective article published in a medical journal suggested that Ardern's refusal to publicly back the 'yes' campaign \"may have been a decisive factor in the narrow defeat\"."
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In September 2020 Ardern announced that the government had abandoned plans to make tertiary education tuition-free.",
+              "links": [
+                {
+                  "text": "tertiary education",
+                  "type": "internal",
+                  "page": "Tertiary education in New Zealand"
+                }
+              ]
+            }
+          ]
         }
       ],
       "images": [
@@ -3616,6 +3589,16 @@
           "s2cid": "232140948",
           "template": "citation",
           "type": "journal"
+        },
+        {
+          "date": "2020-09-16",
+          "title": "Students disappointed Labour Party dropped fees-free plan",
+          "url": "https://www.rnz.co.nz/national/programmes/morningreport/audio/2018764206/students-disappointed-labour-party-dropped-fees-free-plan",
+          "access-date": "2022-07-17",
+          "website": "RNZ",
+          "language": "en-nz",
+          "template": "citation",
+          "type": "web"
         },
         {
           "last1": "Ainge-Roy",
@@ -6384,6 +6367,26 @@
               ]
             },
             {
+              "text": "The leftist magazine Jacobin asserts that her government is effectively neoliberal.",
+              "links": [
+                {
+                  "text": "Jacobin",
+                  "type": "internal",
+                  "page": "Jacobin (magazine)"
+                },
+                {
+                  "text": "neoliberal",
+                  "type": "internal",
+                  "page": "neoliberal"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Jacobin"
+                ]
+              }
+            },
+            {
               "text": "Ardern advocates a lower rate of immigration, suggesting a drop of around 20,000–30,000.",
               "links": [
                 {
@@ -6641,6 +6644,15 @@
           "access-date": "7 September 2021",
           "archive-date": "7 September 2021",
           "archive-url": "https://web.archive.org/web/20210907113917/https://www.rnz.co.nz/news/political/443047/watch-prime-minister-jacinda-ardern-says-budget-2021-is-a-real-milestone-for-us",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "The New Zealand \"Socialists\" Who Govern Like Neoliberals",
+          "url": "https://jacobin.com/2021/05/new-zealand-labour-party-socialists-jacinda-ardern",
+          "access-date": "2022-07-17",
+          "website": "jacobin.com",
+          "language": "en-US",
           "template": "citation",
           "type": "news"
         },
