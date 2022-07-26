@@ -1,0 +1,85 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Alliance (New Zealand political party)"
+      ],
+      "stated_as": "Alliance party list"
+    },
+    "P580": "1999-11-27",
+    "P582": "2002-07-27"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "New Zealand Labour Party"
+      ],
+      "stated_as": "Labour Party list"
+    },
+    "P580": "2017-09-23"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Employment (New Zealand)"
+      ],
+      "stated_as": "17th Minister of Employment"
+    },
+    "P580": "2017-10-26",
+    "P1365": {
+      "links": [
+        "Paul Goldsmith (politician)"
+      ],
+      "stated_as": "Paul Goldsmith"
+    },
+    "P582": "2020-11-06",
+    "P1366": {
+      "links": [
+        "Carmel Sepuloni"
+      ],
+      "stated_as": "Carmel Sepuloni"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Māori Development"
+      ],
+      "stated_as": "45th Minister for Māori Development"
+    },
+    "P580": "2020-11-06",
+    "P1365": {
+      "links": [
+        "Nanaia Mahuta"
+      ],
+      "stated_as": "Nanaia Mahuta"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Broadcasting, Communications and Digital Media"
+      ],
+      "stated_as": "27th Minister for Broadcasting and Media"
+    },
+    "P580": "2022-06-14",
+    "P1365": {
+      "links": [
+        "Kris Faafoi"
+      ],
+      "stated_as": "Kris Faafoi"
+    }
+  }
+]

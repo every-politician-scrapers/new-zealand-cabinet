@@ -1,0 +1,183 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Christchurch Central"
+      ],
+      "stated_as": "Christchurch Central"
+    },
+    "P580": "1990-10-27",
+    "P1365": {
+      "links": [
+        "Geoffrey Palmer (politician)"
+      ],
+      "stated_as": "Geoffrey Palmer"
+    },
+    "P582": "1996-10-12",
+    "P1366": {
+      "links": [
+        "Tim Barnett (politician)"
+      ],
+      "stated_as": "Tim Barnett"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "New Zealand Labour Party",
+        "List MP"
+      ],
+      "stated_as": "Labour List"
+    },
+    "P580": "1996-10-12",
+    "P582": "1999-11-27"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Christchurch East"
+      ],
+      "stated_as": "Christchurch East"
+    },
+    "P580": "1999-11-27",
+    "P1365": {
+      "links": [
+        "Larry Sutherland"
+      ],
+      "stated_as": "Larry Sutherland"
+    },
+    "P582": "2013-10-11",
+    "P1366": {
+      "links": [
+        "Poto Williams"
+      ],
+      "stated_as": "Poto Williams"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Immigration (New Zealand)"
+      ],
+      "stated_as": "49th Minister of Immigration"
+    },
+    "P1545": "49",
+    "P580": "1999-12-10",
+    "P1365": {
+      "links": [
+        "Tuariki Delamere",
+        "Wyatt Creech"
+      ],
+      "stated_as": "Tuariki Delamere\nWyatt Creech (Acting)"
+    },
+    "P582": "2004-02-21",
+    "P1366": {
+      "links": [
+        "Paul Swain (politician)"
+      ],
+      "stated_as": "Paul Swain"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Accident Compensation Corporation"
+      ],
+      "stated_as": "6th Minister for ACC"
+    },
+    "P1545": "6",
+    "P580": "2001-03-28",
+    "P1365": {
+      "links": [
+        "Michael Cullen (politician)"
+      ],
+      "stated_as": "Michael Cullen"
+    },
+    "P582": "2002-08-15",
+    "P1366": {
+      "links": [
+        "Ruth Dyson"
+      ],
+      "stated_as": "Ruth Dyson"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Commerce and Consumer Affairs"
+      ],
+      "stated_as": "6th Minister of Commerce"
+    },
+    "P1545": "6",
+    "P580": "2002-08-15",
+    "P1365": {
+      "links": [
+        "Paul Swain (politician)"
+      ],
+      "stated_as": "Paul Swain"
+    },
+    "P582": "2004-02-21",
+    "P1366": {
+      "links": [
+        "Margaret Wilson"
+      ],
+      "stated_as": "Margaret Wilson"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Commerce and Consumer Affairs"
+      ],
+      "stated_as": "6th Minister of Commerce"
+    },
+    "P580": "2005-10-19",
+    "P1365": {
+      "links": [
+        "Pete Hodgson"
+      ],
+      "stated_as": "Pete Hodgson"
+    },
+    "P582": "2008-11-19",
+    "P1366": {
+      "links": [
+        "Simon Power (politician)"
+      ],
+      "stated_as": "Simon Power"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Mayor of Christchurch"
+    },
+    "P1545": "46",
+    "P580": "2013-10-24",
+    "P1365": {
+      "links": [
+        "Bob Parker (mayor)"
+      ],
+      "stated_as": "Bob Parker"
+    }
+  }
+]

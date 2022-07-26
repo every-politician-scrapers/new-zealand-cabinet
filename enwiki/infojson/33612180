@@ -1,0 +1,128 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Mount Roskill (New Zealand electorate)"
+      ],
+      "stated_as": "Mount Roskill"
+    },
+    "P580": "2016-12-03",
+    "P1365": {
+      "links": [
+        "Phil Goff"
+      ],
+      "stated_as": "Phil Goff"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Cabinet of New Zealand"
+      ],
+      "stated_as": "Parliamentary Under-Secretary\nfor Ethnic Communities"
+    },
+    "P580": "2017-10-26",
+    "P582": "2019-06-27",
+    "P1366": {
+      "links": [
+        "Priyanca Radhakrishnan"
+      ],
+      "stated_as": "Priyanca Radhakrishnan"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "House of Representatives (New Zealand)"
+      ],
+      "stated_as": "Chief Government Whip in the House of Representatives"
+    },
+    "P580": "2019-06-27",
+    "P1365": {
+      "links": [
+        "Ruth Dyson"
+      ],
+      "stated_as": "Ruth Dyson"
+    },
+    "P582": "2020-11-02",
+    "P1366": {
+      "links": [
+        "Kieran McAnulty"
+      ],
+      "stated_as": "Kieran McAnulty"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Transport (New Zealand)"
+      ],
+      "stated_as": "28th Minister of Transport"
+    },
+    "P580": "2020-11-06",
+    "P1365": {
+      "links": [
+        "Phil Twyford"
+      ],
+      "stated_as": "Phil Twyford"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Workplace Relations and Safety"
+      ],
+      "stated_as": "4th Minister for Workplace Relations and Safety"
+    },
+    "P580": "2020-11-06",
+    "P1365": {
+      "links": [
+        "Andrew Little (New Zealand politician)"
+      ],
+      "stated_as": "Andrew Little"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Leader of the House (New Zealand)"
+      ],
+      "stated_as": "Deputy Leader of the House"
+    },
+    "P580": "2020-11-06",
+    "P1365": {
+      "links": [
+        "Iain Lees-Galloway"
+      ],
+      "stated_as": "Iain Lees-Galloway"
+    },
+    "P582": "2022-06-14",
+    "P1366": {
+      "links": [
+        "Kieran McAnulty"
+      ],
+      "stated_as": "Kieran McAnulty"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Immigration (New Zealand)"
+      ],
+      "stated_as": "58th Minister of Immigration"
+    },
+    "P580": "2022-06-14",
+    "P1365": {
+      "links": [
+        "Kris Faafoi"
+      ],
+      "stated_as": "Kris Faafoi"
+    }
+  }
+]

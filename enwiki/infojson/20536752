@@ -1,0 +1,119 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "New Zealand Labour Party",
+        "Party list"
+      ],
+      "stated_as": "the Labour Party list"
+    },
+    "P580": "2008-11-08",
+    "P582": "2011-11-26"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Napier (New Zealand electorate)"
+      ],
+      "stated_as": "Napier"
+    },
+    "P580": "2014-09-20",
+    "P1365": {
+      "links": [
+        "Chris Tremain"
+      ],
+      "stated_as": "Chris Tremain"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Revenue (New Zealand)"
+      ],
+      "stated_as": "30th Minister of Revenue"
+    },
+    "P1545": "30",
+    "P580": "2017-10-26",
+    "P1365": {
+      "links": [
+        "Judith Collins"
+      ],
+      "stated_as": "Judith Collins"
+    },
+    "P582": "2020-11-06",
+    "P1366": {
+      "links": [
+        "David Parker (New Zealand politician)"
+      ],
+      "stated_as": "David Parker"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Police (New Zealand)"
+      ],
+      "stated_as": "39th Minister of Police"
+    },
+    "P1545": "39",
+    "P580": "2017-10-26",
+    "P1365": {
+      "links": [
+        "Paula Bennett"
+      ],
+      "stated_as": "Paula Bennett"
+    },
+    "P582": "2020-11-06",
+    "P1366": {
+      "links": [
+        "Poto Williams"
+      ],
+      "stated_as": "Poto Williams"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Tourism (New Zealand)"
+      ],
+      "stated_as": "37th Minister of Tourism"
+    },
+    "P1545": "37",
+    "P580": "2020-11-06",
+    "P1365": {
+      "links": [
+        "Kelvin Davis (politician)"
+      ],
+      "stated_as": "Kelvin Davis"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Economic Development (New Zealand)"
+      ],
+      "stated_as": "9th Minister for Economic and Regional Development"
+    },
+    "P1545": "9",
+    "P580": "2020-11-06",
+    "P1365": {
+      "links": [
+        "Phil Twyford",
+        "Shane Jones"
+      ],
+      "stated_as": "Phil Twyford (as Minister for Economic Development) Shane Jones (as Minister for Regional Economic Development)"
+    }
+  }
+]

@@ -1,0 +1,190 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Otago (New Zealand electorate)"
+      ],
+      "stated_as": "Otago"
+    },
+    "P580": "2002-07-27",
+    "P1365": {
+      "links": [
+        "Gavan Herlihy"
+      ],
+      "stated_as": "Gavan Herlihy"
+    },
+    "P582": "2005-09-17",
+    "P1366": {
+      "links": [
+        "Jacqui Dean"
+      ],
+      "stated_as": "Jacqui Dean"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "New Zealand Labour Party",
+        "Party list"
+      ],
+      "stated_as": "Labour Party list"
+    },
+    "P580": "2005-09-17"
+  },
+  {
+    "office": {
+      "links": [
+        "Attorney-General (New Zealand)"
+      ],
+      "stated_as": "32nd Attorney-General of New Zealand"
+    },
+    "P580": "2005-10-19",
+    "P1365": {
+      "links": [
+        "Michael Cullen (politician)"
+      ],
+      "stated_as": "Michael Cullen"
+    },
+    "P582": "2006-03-20",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Michael Cullen"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Leader of the New Zealand Labour Party"
+      ],
+      "stated_as": "16th Deputy Leader of the New Zealand Labour Party"
+    },
+    "P580": "2013-09-15",
+    "P1365": {
+      "links": [
+        "Grant Robertson"
+      ],
+      "stated_as": "Grant Robertson"
+    },
+    "P582": "2014-09-30",
+    "P1366": {
+      "links": [
+        "Annette King"
+      ],
+      "stated_as": "Annette King"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Leader of the Opposition (New Zealand)"
+      ],
+      "stated_as": "Deputy Leader of the Opposition"
+    },
+    "P580": "2013-09-15",
+    "P1365": {
+      "links": [
+        "Grant Robertson"
+      ],
+      "stated_as": "Grant Robertson"
+    },
+    "P582": "2014-09-30",
+    "P1366": {
+      "links": [
+        "Annette King"
+      ],
+      "stated_as": "Annette King"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Trade (New Zealand)"
+      ],
+      "stated_as": "12th Minister for Trade and Export Growth"
+    },
+    "P1545": "12",
+    "P580": "2017-10-26",
+    "P1365": {
+      "links": [
+        "Todd McClay"
+      ],
+      "stated_as": "Todd McClay"
+    },
+    "P582": "2020-11-06",
+    "P1366": {
+      "links": [
+        "Damien O'Connor"
+      ],
+      "stated_as": "Damien O'Connor"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for the Environment (New Zealand)"
+      ],
+      "stated_as": "16th Minister for the Environment"
+    },
+    "P1545": "16",
+    "P580": "2017-10-26",
+    "P1365": {
+      "links": [
+        "Nick Smith (New Zealand politician)"
+      ],
+      "stated_as": "Nick Smith"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Attorney-General (New Zealand)"
+      ],
+      "stated_as": "32nd Attorney-General of New Zealand"
+    },
+    "P1545": "32",
+    "P580": "2017-10-26",
+    "P1365": {
+      "links": [
+        "Chris Finlayson"
+      ],
+      "stated_as": "Chris Finlayson"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Economic Development (New Zealand)"
+      ],
+      "stated_as": "7th Minister for Economic Development"
+    },
+    "P1545": "7",
+    "P580": "2017-10-26",
+    "P1365": {
+      "links": [
+        "Simon Bridges"
+      ],
+      "stated_as": "Simon Bridges"
+    },
+    "P582": "2019-06-27",
+    "P1366": {
+      "links": [
+        "Phil Twyford"
+      ],
+      "stated_as": "Phil Twyford"
+    }
+  }
+]

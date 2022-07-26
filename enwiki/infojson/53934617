@@ -1,0 +1,50 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "New Zealand Labour Party",
+        "party list"
+      ],
+      "stated_as": "Labour party list"
+    },
+    "P580": "2017-09-23"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Women (New Zealand)"
+      ],
+      "stated_as": "16th Minister for Women"
+    },
+    "P1545": "16",
+    "P580": "2020-11-06",
+    "P1365": {
+      "links": [
+        "Julie Anne Genter"
+      ],
+      "stated_as": "Julie Anne Genter"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Internal Affairs (New Zealand)"
+      ],
+      "stated_as": "36th Minister of Internal Affairs"
+    },
+    "P1545": "36",
+    "P580": "2020-11-06",
+    "P1365": {
+      "links": [
+        "Tracey Martin"
+      ],
+      "stated_as": "Tracey Martin"
+    }
+  }
+]

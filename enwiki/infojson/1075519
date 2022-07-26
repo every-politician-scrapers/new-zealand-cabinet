@@ -1,0 +1,153 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Te Tai Hauāuru"
+      ],
+      "stated_as": "Te Tai Hauāuru"
+    },
+    "P580": "1999-11-27",
+    "P1365": {
+      "links": [
+        "Tuku Morgan"
+      ],
+      "stated_as": "Tuku Morgan"
+    },
+    "P582": "2002-07-27",
+    "P1366": {
+      "links": [
+        "Tariana Turia"
+      ],
+      "stated_as": "Tariana Turia"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Tainui (New Zealand electorate)"
+      ],
+      "stated_as": "Tainui"
+    },
+    "P580": "2002-07-27",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "New constituency"
+    },
+    "P582": "2008-11-08",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Constituency abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Local Government (New Zealand)"
+      ],
+      "stated_as": "12th Minister of Local Government"
+    },
+    "P580": "2005-10-19",
+    "P1365": {
+      "links": [
+        "Chris Carter (politician)"
+      ],
+      "stated_as": "Chris Carter"
+    },
+    "P582": "2008-11-19",
+    "P1366": {
+      "links": [
+        "Rodney Hide"
+      ],
+      "stated_as": "Rodney Hide"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Hauraki-Waikato"
+      ],
+      "stated_as": "Hauraki-Waikato"
+    },
+    "P580": "2008-11-08",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "New constituency"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Local Government (New Zealand)"
+      ],
+      "stated_as": "12th Minister of Local Government"
+    },
+    "P580": "2017-10-26",
+    "P1365": {
+      "links": [
+        "Anne Tolley"
+      ],
+      "stated_as": "Anne Tolley"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Māori Development"
+      ],
+      "stated_as": "44th Minister for Māori Development"
+    },
+    "P580": "2017-10-26",
+    "P1365": {
+      "links": [
+        "Te Ururoa Flavell"
+      ],
+      "stated_as": "Te Ururoa Flavell"
+    },
+    "P582": "2020-11-06",
+    "P1366": {
+      "links": [
+        "Willie Jackson (politician)"
+      ],
+      "stated_as": "Willie Jackson"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Foreign Affairs (New Zealand)"
+      ],
+      "stated_as": "28th Minister of Foreign Affairs"
+    },
+    "P580": "2020-11-06",
+    "P1365": {
+      "links": [
+        "Winston Peters"
+      ],
+      "stated_as": "Winston Peters"
+    }
+  }
+]

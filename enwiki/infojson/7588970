@@ -1,0 +1,203 @@
+[
+  {
+    "office": {
+      "links": [
+        "President of the New Zealand Labour Party"
+      ],
+      "stated_as": "33rd President of the Labour Party"
+    },
+    "P580": "2009-03-02",
+    "P1365": {
+      "links": [
+        "Mike Williams (New Zealand politician)"
+      ],
+      "stated_as": "Mike Williams"
+    },
+    "P582": "2011-04-02",
+    "P1366": {
+      "links": [
+        "Moira Coatsworth"
+      ],
+      "stated_as": "Moira Coatsworth"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "New Zealand Labour Party",
+        "list MP"
+      ],
+      "stated_as": "the Labour Party List"
+    },
+    "P580": "2011-11-26"
+  },
+  {
+    "office": {
+      "links": [
+        "Leader of the New Zealand Labour Party"
+      ],
+      "stated_as": "16th Leader of the Labour Party"
+    },
+    "P580": "2014-11-18",
+    "P1365": {
+      "links": [
+        "David Cunliffe"
+      ],
+      "stated_as": "David Cunliffe"
+    },
+    "P582": "2017-08-01",
+    "P1366": {
+      "links": [
+        "Jacinda Ardern"
+      ],
+      "stated_as": "Jacinda Ardern"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Leader of the Opposition (New Zealand)"
+      ],
+      "stated_as": "35th Leader of the Opposition"
+    },
+    "P580": "2014-11-18",
+    "P1365": {
+      "links": [
+        "David Cunliffe"
+      ],
+      "stated_as": "David Cunliffe"
+    },
+    "P582": "2017-08-01",
+    "P1366": {
+      "links": [
+        "Jacinda Ardern"
+      ],
+      "stated_as": "Jacinda Ardern"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Justice (New Zealand)"
+      ],
+      "stated_as": "49th Minister of Justice"
+    },
+    "P580": "2017-10-26",
+    "P1365": {
+      "links": [
+        "Amy Adams (politician)"
+      ],
+      "stated_as": "Amy Adams"
+    },
+    "P582": "2020-11-06",
+    "P1366": {
+      "links": [
+        "Kris Faafoi"
+      ],
+      "stated_as": "Kris Faafoi"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Treaty of Waitangi Negotiations"
+      ],
+      "stated_as": "6th Minister for Treaty of Waitangi Negotiations"
+    },
+    "P580": "2017-10-26",
+    "P1365": {
+      "links": [
+        "Christopher Finlayson"
+      ],
+      "stated_as": "Christopher Finlayson"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Pike River Recovery Agency"
+      ],
+      "stated_as": "Minister Responsible for Pike River Re-entry"
+    },
+    "P580": "2017-10-26",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Office created"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Government Communications Security Bureau"
+      ],
+      "stated_as": "Minister Responsible for the Government Communications Security Bureau"
+    },
+    "P580": "2017-10-26",
+    "P1365": {
+      "links": [
+        "Christopher Finlayson"
+      ],
+      "stated_as": "Christopher Finlayson"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "New Zealand Security Intelligence Service"
+      ],
+      "stated_as": "Minister Responsible for the New Zealand Security Intelligence Service"
+    },
+    "P580": "2017-10-26",
+    "P1365": {
+      "links": [
+        "Christopher Finlayson"
+      ],
+      "stated_as": "Christopher Finlayson"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Workplace Relations and Safety"
+      ],
+      "stated_as": "3rd Minister for Workplace Relations and Safety"
+    },
+    "P580": "2020-07-22",
+    "P1365": {
+      "links": [
+        "Iain Lees-Galloway"
+      ],
+      "stated_as": "Iain Lees-Galloway"
+    },
+    "P582": "2020-11-06",
+    "P1366": {
+      "links": [
+        "Michael Wood (New Zealand politician)"
+      ],
+      "stated_as": "Michael Wood"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Health (New Zealand)"
+      ],
+      "stated_as": "42nd Minister of Health"
+    },
+    "P580": "2020-11-06",
+    "P1365": {
+      "links": [
+        "Chris Hipkins"
+      ],
+      "stated_as": "Chris Hipkins"
+    }
+  }
+]

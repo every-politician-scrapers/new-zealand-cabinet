@@ -1,0 +1,102 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "New Zealand Labour Party",
+        "party list"
+      ],
+      "stated_as": "Labour party list"
+    },
+    "P580": "2017-09-23",
+    "P582": "2020-10-17"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "East Coast (New Zealand electorate)"
+      ],
+      "stated_as": "East Coast"
+    },
+    "P580": "2020-10-17",
+    "P1365": {
+      "links": [
+        "Anne Tolley"
+      ],
+      "stated_as": "Anne Tolley"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Conservation (New Zealand)"
+      ],
+      "stated_as": "14th Minister of Conservation"
+    },
+    "P1545": "14",
+    "P580": "2020-11-06",
+    "P1365": {
+      "links": [
+        "Eugenie Sage"
+      ],
+      "stated_as": "Eugenie Sage"
+    },
+    "P582": "2022-06-14",
+    "P1366": {
+      "links": [
+        "Poto Williams"
+      ],
+      "stated_as": "Poto Williams"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "National Emergency Management Agency (New Zealand)"
+      ],
+      "stated_as": "27th Minister for Emergency Management"
+    },
+    "P1545": "27",
+    "P580": "2020-11-06",
+    "P1365": {
+      "links": [
+        "Peeni Henare"
+      ],
+      "stated_as": "Peeni Henare"
+    },
+    "P582": "2022-06-14",
+    "P1366": {
+      "links": [
+        "Kieran McAnulty"
+      ],
+      "stated_as": "Kieran McAnulty"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Justice (New Zealand)"
+      ],
+      "stated_as": "51st Minister of Justice"
+    },
+    "P1545": "51",
+    "P580": "2022-06-14",
+    "P1365": {
+      "links": [
+        "Kris Faafoi"
+      ],
+      "stated_as": "Kris Faafoi"
+    }
+  }
+]

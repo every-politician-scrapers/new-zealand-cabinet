@@ -1,0 +1,237 @@
+[
+  {
+    "office": {
+      "links": [
+        "New Zealand Parliament"
+      ],
+      "stated_as": "Member of the New Zealand Parliament"
+    },
+    "P580": "1981-11-28",
+    "P1365": {
+      "links": [
+        "Arthur Faulkner"
+      ],
+      "stated_as": "Arthur Faulkner"
+    },
+    "P582": "1990-10-27",
+    "P1366": {
+      "links": [
+        "Gilbert Myles"
+      ],
+      "stated_as": "Gilbert Myles"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Housing (New Zealand)"
+      ],
+      "stated_as": "14th Minister of Housing"
+    },
+    "P580": "1984-07-26",
+    "P1365": {
+      "links": [
+        "Tony Friedlander"
+      ],
+      "stated_as": "Tony Friedlander"
+    },
+    "P582": "1987-08-26",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Helen Clark"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Employment (New Zealand)"
+      ],
+      "stated_as": "9th Minister of Employment"
+    },
+    "P580": "1987-04-06",
+    "P1365": {
+      "links": [
+        "Kerry Burke"
+      ],
+      "stated_as": "Kerry Burke"
+    },
+    "P582": "1989-08-14",
+    "P1366": {
+      "links": [
+        "Annette King"
+      ],
+      "stated_as": "Annette King"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Education (New Zealand)"
+      ],
+      "stated_as": "37th Minister of Education"
+    },
+    "P580": "1989-08-14",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Geoffrey Palmer"
+    },
+    "P582": "1990-11-02",
+    "P1366": {
+      "links": [
+        "Lockwood Smith"
+      ],
+      "stated_as": "Lockwood Smith"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "New Zealand Parliament"
+      ],
+      "stated_as": "Member of the New Zealand Parliament"
+    },
+    "P580": "1993-11-06",
+    "P1365": {
+      "links": [
+        "Gilbert Myles"
+      ],
+      "stated_as": "Gilbert Myles"
+    },
+    "P582": "2016-10-12",
+    "P1366": {
+      "links": [
+        "Michael Wood (New Zealand politician)"
+      ],
+      "stated_as": "Michael Wood"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Foreign Affairs (New Zealand)"
+      ],
+      "stated_as": "25th Minister of Foreign Affairs"
+    },
+    "P580": "1999-12-10",
+    "P1365": {
+      "links": [
+        "Don McKinnon"
+      ],
+      "stated_as": "Don McKinnon"
+    },
+    "P582": "2005-10-19",
+    "P1366": {
+      "links": [
+        "Winston Peters"
+      ],
+      "stated_as": "Winston Peters"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Justice (New Zealand)"
+      ],
+      "stated_as": "43rd Minister of Justice"
+    },
+    "P580": "1999-12-10",
+    "P1365": {
+      "links": [
+        "Tony Ryall"
+      ],
+      "stated_as": "Tony Ryall"
+    },
+    "P582": "2005-10-19",
+    "P1366": {
+      "links": [
+        "Mark Burton"
+      ],
+      "stated_as": "Mark Burton"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Defence (New Zealand)"
+      ],
+      "stated_as": "35th Minister of Defence"
+    },
+    "P580": "2005-10-19",
+    "P1365": {
+      "links": [
+        "Mark Burton"
+      ],
+      "stated_as": "Mark Burton"
+    },
+    "P582": "2008-11-19",
+    "P1366": {
+      "links": [
+        "Wayne Mapp"
+      ],
+      "stated_as": "Wayne Mapp"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Leader of the New Zealand Labour Party"
+      ],
+      "stated_as": "13th Leader of the Labour Party"
+    },
+    "P580": "2008-11-11",
+    "P1365": {
+      "links": [
+        "Helen Clark"
+      ],
+      "stated_as": "Helen Clark"
+    },
+    "P582": "2011-12-13",
+    "P1366": {
+      "links": [
+        "David Shearer"
+      ],
+      "stated_as": "David Shearer"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Leader of the Opposition (New Zealand)"
+      ],
+      "stated_as": "32nd Leader of the Opposition"
+    },
+    "P580": "2008-11-19",
+    "P1365": {
+      "links": [
+        "John Key"
+      ],
+      "stated_as": "John Key"
+    },
+    "P582": "2011-12-13",
+    "P1366": {
+      "links": [
+        "David Shearer"
+      ],
+      "stated_as": "David Shearer"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Mayor of Auckland"
+      ],
+      "stated_as": "2nd Mayor of Auckland"
+    },
+    "P580": "2016-11-01",
+    "P1365": {
+      "links": [
+        "Len Brown"
+      ],
+      "stated_as": "Len Brown"
+    }
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "office": {
+      "links": [
+        "Children's Ombudsman"
+      ],
+      "stated_as": "Children's Commissioner"
+    },
+    "P580": "2003-09-01",
+    "P1365": {
+      "links": [
+        "Roger McClay"
+      ],
+      "stated_as": "Roger McClay"
+    },
+    "P582": "2008-09-01",
+    "P1366": {
+      "links": [
+        "John Angus (children's advocate)"
+      ],
+      "stated_as": "John Angus"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Governor-General of New Zealand"
+    },
+    "P1545": "22",
+    "P580": "2021-10-21",
+    "P1365": {
+      "links": [
+        "Patsy Reddy"
+      ],
+      "stated_as": "Dame Patsy Reddy"
+    }
+  }
+]

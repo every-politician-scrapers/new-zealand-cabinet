@@ -1,0 +1,119 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Tāmaki Makaurau"
+      ],
+      "stated_as": "Tāmaki Makaurau"
+    },
+    "P580": "2014-09-20",
+    "P1365": {
+      "links": [
+        "Pita Sharples"
+      ],
+      "stated_as": "Pita Sharples"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Youth (New Zealand)"
+      ],
+      "stated_as": "14th Minister for Youth"
+    },
+    "P580": "2017-10-26",
+    "P1365": {
+      "links": [
+        "Nikki Kaye"
+      ],
+      "stated_as": "Nikki Kaye"
+    },
+    "P582": "2020-11-06",
+    "P1366": {
+      "links": [
+        "Priyanca Radhakrishnan"
+      ],
+      "stated_as": "Priyanca Radhakrishnan"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Whānau Ora"
+      ],
+      "stated_as": "3rd Minister for Whānau Ora"
+    },
+    "P580": "2017-10-26",
+    "P1365": {
+      "links": [
+        "Te Ururoa Flavell"
+      ],
+      "stated_as": "Te Ururoa Flavell"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for the Community and Voluntary Sector"
+      ],
+      "stated_as": "8th Minister for the Community and Voluntary Sector"
+    },
+    "P580": "2017-10-26",
+    "P1365": {
+      "links": [
+        "Alfred Ngaro"
+      ],
+      "stated_as": "Alfred Ngaro"
+    },
+    "P582": "2019-07-03",
+    "P1366": {
+      "links": [
+        "Poto Williams"
+      ],
+      "stated_as": "Poto Williams"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Civil Defence (New Zealand)"
+      ],
+      "stated_as": "26th Minister of Civil Defence"
+    },
+    "P580": "2019-06-27",
+    "P1365": {
+      "links": [
+        "Kris Faafoi"
+      ],
+      "stated_as": "Kris Faafoi"
+    },
+    "P582": "2020-11-06",
+    "P1366": {
+      "links": [
+        "Kiri Allan"
+      ],
+      "stated_as": "Kiri Allan"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Defence (New Zealand)"
+      ],
+      "stated_as": "41st Minister of Defence"
+    },
+    "P580": "2020-11-06",
+    "P1365": {
+      "links": [
+        "Ron Mark"
+      ],
+      "stated_as": "Ron Mark"
+    }
+  }
+]
