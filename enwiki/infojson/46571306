@@ -1,0 +1,43 @@
+[
+  {
+    "office": {
+      "links": [
+        "Niue Assembly",
+        "Alofi"
+      ],
+      "stated_as": "Member of the Niue Assembly from Alofi South"
+    },
+    "P580": "2008-05"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Natural Resources"
+    },
+    "P580": "2017-05",
+    "P1365": {
+      "links": [
+        "Billy Talagi"
+      ],
+      "stated_as": "Billy Talagi"
+    },
+    "P582": "2020-06"
+  },
+  {
+    "office": {
+      "links": [
+        "Premier of Niue"
+      ],
+      "stated_as": "Premier of Niue"
+    },
+    "P580": "2020-06-11",
+    "P1365": {
+      "links": [
+        "Toke Talagi"
+      ],
+      "stated_as": "Toke Talagi"
+    }
+  }
+]

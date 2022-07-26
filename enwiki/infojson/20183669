@@ -1,0 +1,127 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Remutaka (New Zealand electorate)"
+      ],
+      "stated_as": "Remutaka/Rimutaka"
+    },
+    "P580": "2008-11-08",
+    "P1365": {
+      "links": [
+        "Paul Swain (politician)"
+      ],
+      "stated_as": "Paul Swain"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Leader of the House (New Zealand)"
+      ],
+      "stated_as": "11th Leader of the House"
+    },
+    "P580": "2017-10-26",
+    "P1365": {
+      "links": [
+        "Simon Bridges"
+      ],
+      "stated_as": "Simon Bridges"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Public Service Commission (New Zealand)"
+      ],
+      "stated_as": "19th Minister for the Public Service"
+    },
+    "P580": "2017-10-26",
+    "P1365": {
+      "links": [
+        "Paula Bennett"
+      ],
+      "stated_as": "Paula Bennett"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Education (New Zealand)"
+      ],
+      "stated_as": "47th Minister of Education"
+    },
+    "P580": "2017-10-26",
+    "P1365": {
+      "links": [
+        "Nikki Kaye"
+      ],
+      "stated_as": "Nikki Kaye"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Health (New Zealand)"
+      ],
+      "stated_as": "41st Minister of Health"
+    },
+    "P580": "2020-07-02",
+    "P1365": {
+      "links": [
+        "David Clark (New Zealand politician)"
+      ],
+      "stated_as": "David Clark"
+    },
+    "P582": "2020-11-06",
+    "P1366": {
+      "links": [
+        "Andrew Little (New Zealand politician)"
+      ],
+      "stated_as": "Andrew Little"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "COVID-19 pandemic in New Zealand"
+      ],
+      "stated_as": "1st Minister for COVID-19 Response"
+    },
+    "P580": "2020-11-06",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Position established"
+    },
+    "P582": "2022-06-14",
+    "P1366": {
+      "links": [
+        "Ayesha Verrall"
+      ],
+      "stated_as": "Ayesha Verrall"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Police (New Zealand)"
+      ],
+      "stated_as": "41st Minister of Police"
+    },
+    "P580": "2022-06-14",
+    "P1365": {
+      "links": [
+        "Poto Williams"
+      ],
+      "stated_as": "Poto Williams"
+    }
+  }
+]

@@ -1,0 +1,209 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "West Coast (New Zealand electorate)"
+      ],
+      "stated_as": "West Coast"
+    },
+    "P580": "1993-11-06",
+    "P1365": {
+      "links": [
+        "Margaret Moir"
+      ],
+      "stated_as": "Margaret Moir"
+    },
+    "P582": "1996-10-12",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Seat abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P580": "1996-10-12",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Seat established"
+    },
+    "P582": "2008-11-08",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Chris Auchinvole"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Tourism (New Zealand)"
+      ],
+      "stated_as": "33rd Minister of Tourism"
+    },
+    "P580": "2005-10-19",
+    "P582": "2008-11-19",
+    "P1366": {
+      "links": [
+        "John Key"
+      ],
+      "stated_as": "John Key"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "New Zealand Labour Party",
+        "list MP"
+      ],
+      "stated_as": "Labour Party list"
+    },
+    "P580": "2009-05-01",
+    "P1365": {
+      "links": [
+        "Michael Cullen (politician)"
+      ],
+      "stated_as": "Michael Cullen"
+    },
+    "P582": "2011-11-26"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "West Coast-Tasman"
+      ],
+      "stated_as": "West Coast-Tasman"
+    },
+    "P580": "2011-11-26",
+    "P1365": {
+      "links": [
+        "Chris Auchinvole"
+      ],
+      "stated_as": "Chris Auchinvole"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Agriculture (New Zealand)"
+      ],
+      "stated_as": "34th Minister of Agriculture"
+    },
+    "P580": "2017-10-26",
+    "P1365": {
+      "links": [
+        "David Carter (politician)"
+      ],
+      "stated_as": "Vacant (last held by David Carter)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Biosecurity"
+    },
+    "P580": "2017-10-26",
+    "P1365": {
+      "links": [
+        "David Carter (politician)"
+      ],
+      "stated_as": "Vacant (last held by David Carter)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Food Safety"
+    },
+    "P580": "2017-10-26",
+    "P1365": {
+      "links": [
+        "David Bennett (New Zealand politician)"
+      ],
+      "stated_as": "David Bennett"
+    },
+    "P582": "2020-11-06",
+    "P1366": {
+      "links": [
+        "Ayesha Verrall"
+      ],
+      "stated_as": "Ayesha Verrall"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Rural Communities"
+    },
+    "P580": "2017-10-26",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Office Created"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Trade (New Zealand)"
+      ],
+      "stated_as": "13th Minister for Trade and Export Growth"
+    },
+    "P580": "2020-11-06",
+    "P1365": {
+      "links": [
+        "David Parker (New Zealand politician)"
+      ],
+      "stated_as": "David Parker"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Land Information (New Zealand)"
+      ],
+      "stated_as": "17th Minister for Land Information"
+    },
+    "P580": "2020-11-06",
+    "P1365": {
+      "links": [
+        "Eugenie Sage"
+      ],
+      "stated_as": "Eugenie Sage"
+    }
+  }
+]

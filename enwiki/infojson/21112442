@@ -1,0 +1,68 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Kelston (New Zealand electorate)"
+      ],
+      "stated_as": "Kelston"
+    },
+    "P580": "2014-09-21",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Electorate established"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Social Development (New Zealand)"
+      ],
+      "stated_as": "27th Minister for Social Development"
+    },
+    "P580": "2017-10-26",
+    "P1365": {
+      "links": [
+        "Anne Tolley"
+      ],
+      "stated_as": "Anne Tolley"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Accident Compensation Corporation"
+      ],
+      "stated_as": "14th Minister for ACC"
+    },
+    "P580": "2020-07-22",
+    "P1365": {
+      "links": [
+        "Iain Lees-Galloway"
+      ],
+      "stated_as": "Iain Lees-Galloway"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Arts, Culture and Heritage"
+      ],
+      "stated_as": "13th Minister for Arts, Culture and Heritage"
+    },
+    "P580": "2020-11-06",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Jacinda Ardern"
+    }
+  }
+]

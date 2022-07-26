@@ -1,38 +1,39 @@
-pageid,title
-471433,Phil Goff
-479464,Lianne Dalziel
-597733,Annette King
-615426,Trevor Mallard
-1063291,Judith Collins
-1075519,Nanaia Mahuta
-1075549,Damien O'Connor
-1075605,David Parker (New Zealand politician)
-1082181,Willie Jackson (politician)
-7588970,Andrew Little (New Zealand politician)
-16607106,Grant Robertson
-20183669,Chris Hipkins
-20436507,Jacinda Ardern
-20536752,Stuart Nash
-21112442,Carmel Sepuloni
-22159155,Kelvin Davis (politician)
-25688454,Henry Puna
-28884318,Megan Woods
-33612158,David Clark (New Zealand politician)
-33612180,Michael Wood (New Zealand politician)
-40599999,Poto Williams
-40817349,Juliet Gerrard
-42280863,Ross Ardern
-42415724,Rebecca Kitteridge
-42990331,Cindy Kiro
-43410883,Priyanca Radhakrishnan
-43410913,Peeni Henare
-46571306,Dalton Tagelagi
-49247576,Kevin Short (RNZAF officer)
-53934617,Jan Tinetti
-54690675,Kiri Allan
-54919749,Andy Foster (politician)
-55214536,Naomi Ferguson
-57205530,Una Jagose
-59412738,Helen Winkelmann
-63730195,Ayesha Verrall
-70941225,Adrian Orr
+pageid,title,wikidata,label
+471433,Phil Goff,Q597909,Phil Goff
+479464,Lianne Dalziel,Q6540092,Lianne Dalziel
+597733,Annette King,Q4769089,Annette King
+615426,Trevor Mallard,Q7839303,Trevor Mallard
+1063291,Judith Collins,Q6303349,Judith Collins
+1075519,Nanaia Mahuta,Q3798833,Nanaia Mahuta
+1075549,Damien O'Connor,Q5212493,Damien O'Connor
+1075605,David Parker (New Zealand politician),Q15196319,David Parker
+1082181,Willie Jackson (politician),Q8021596,Willie Jackson
+7588970,Andrew Little (New Zealand politician),Q3561087,Andrew Little
+16607106,Grant Robertson,Q1543207,Grant Robertson
+20183669,Chris Hipkins,Q5106890,Chris Hipkins
+20436507,Jacinda Ardern,Q3606816,Jacinda Ardern
+20536752,Stuart Nash,Q7626890,Stuart Nash
+21112442,Carmel Sepuloni,Q5043325,Carmel Sepuloni
+22159155,Kelvin Davis (politician),Q6386648,Kelvin Davis
+25688454,Henry Puna,Q2569345,Henry Puna
+28884318,Megan Woods,Q6808764,Megan Woods
+33612158,David Clark (New Zealand politician),Q3561074,David Clark
+33612180,Michael Wood (New Zealand politician),Q27950864,Michael Wood
+40599999,Poto Williams,Q17016818,Poto Williams
+40817349,Juliet Gerrard,Q15848292,Juliet Gerrard
+42280863,Ross Ardern,Q16150043,Ross Ardern
+42415724,Rebecca Kitteridge,Q16730900,Rebecca Kitteridge
+42990331,Cindy Kiro,Q17180701,Cindy Kiro
+43410883,Priyanca Radhakrishnan,Q41498722,Priyanca Radhakrishnan
+43410913,Peeni Henare,Q18098260,Peeni Henare
+46571306,Dalton Tagelagi,Q19876617,Dalton Tagelagi
+49247576,Kevin Short (RNZAF officer),Q25183148,Kevin Short
+53934617,Jan Tinetti,Q41498735,Jan Tinetti
+54690675,Kiri Allan,Q41498745,Kiri Allan
+54919749,Andy Foster (politician),Q39073800,Andy Foster
+55214536,Naomi Ferguson,Q39486955,Naomi Ferguson
+57205530,Una Jagose,Q52144553,Una Jagose
+59412738,Helen Winkelmann,Q59800807,Helen Winkelmann
+63730195,Ayesha Verrall,Q91250224,Ayesha Verrall
+65751922,Jane Coombs,Q101116140,Jane Coombs
+70941225,Adrian Orr,Q109550782,Adrian Orr

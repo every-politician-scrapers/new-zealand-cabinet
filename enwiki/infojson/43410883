@@ -1,0 +1,85 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "New Zealand Labour Party",
+        "party list"
+      ],
+      "stated_as": "Labour party list"
+    },
+    "P580": "2017-09-23",
+    "P582": "2020-10-17"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Maungakiekie (New Zealand electorate)"
+      ],
+      "stated_as": "Maungakiekie"
+    },
+    "P580": "2020-10-17",
+    "P1365": {
+      "links": [
+        "Denise Lee"
+      ],
+      "stated_as": "Denise Lee"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for the Community and Voluntary Sector"
+      ],
+      "stated_as": "10th Minister for the Community and Voluntary Sector"
+    },
+    "P580": "2020-11-06",
+    "P1365": {
+      "links": [
+        "Poto Williams"
+      ],
+      "stated_as": "Poto Williams"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Youth (New Zealand)"
+      ],
+      "stated_as": "15th Minister for Youth"
+    },
+    "P580": "2020-11-06",
+    "P1365": {
+      "links": [
+        "Peeni Henare"
+      ],
+      "stated_as": "Peeni Henare"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Diversity, Inclusion and Ethnic Communities"
+    },
+    "P580": "2020-11-06",
+    "P1365": {
+      "links": [
+        "Jenny Salesa"
+      ],
+      "stated_as": "Jenny Salesa"
+    }
+  }
+]

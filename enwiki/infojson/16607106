@@ -1,0 +1,170 @@
+[
+  {
+    "office": {
+      "links": [
+        "Deputy Leader of the New Zealand Labour Party"
+      ],
+      "stated_as": "Deputy Leader of the Labour Party"
+    },
+    "P580": "2008-11-08",
+    "P1365": {
+      "links": [
+        "Marian Hobbs"
+      ],
+      "stated_as": "Marian Hobbs"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Leader of the New Zealand Labour Party"
+      ],
+      "stated_as": "Deputy Leader of the Labour Party"
+    },
+    "P580": "2011-12-13",
+    "P1365": {
+      "links": [
+        "Annette King"
+      ],
+      "stated_as": "Annette King"
+    },
+    "P582": "2013-09-17",
+    "P1366": {
+      "links": [
+        "David Parker (New Zealand politician)"
+      ],
+      "stated_as": "David Parker"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Leader of the Opposition (New Zealand)"
+      ],
+      "stated_as": "Deputy Leader of the Opposition"
+    },
+    "P580": "2011-12-13",
+    "P1365": {
+      "links": [
+        "Annette King"
+      ],
+      "stated_as": "Annette King"
+    },
+    "P582": "2013-09-17",
+    "P1366": {
+      "links": [
+        "David Parker (New Zealand politician)"
+      ],
+      "stated_as": "David Parker"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Sport and Recreation"
+      ],
+      "stated_as": "11th Minister for Sport and Recreation"
+    },
+    "P1545": "11",
+    "P580": "2017-10-26",
+    "P1365": {
+      "links": [
+        "Jonathan Coleman (politician)"
+      ],
+      "stated_as": "Jonathan Coleman"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Finance (New Zealand)"
+      ],
+      "stated_as": "42nd Minister of Finance"
+    },
+    "P1545": "42",
+    "P580": "2017-10-26",
+    "P1365": {
+      "links": [
+        "Steven Joyce"
+      ],
+      "stated_as": "Steven Joyce"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Earthquake Commission"
+      ],
+      "stated_as": "19th Minister Responsible for the Earthquake Commission"
+    },
+    "P1545": "19",
+    "P580": "2019-06-27",
+    "P1365": {
+      "links": [
+        "Megan Woods"
+      ],
+      "stated_as": "Megan Woods"
+    },
+    "P582": "2020-11-06",
+    "P1366": {
+      "links": [
+        "David Clark (New Zealand politician)"
+      ],
+      "stated_as": "David Clark"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Racing"
+      ],
+      "stated_as": "13th Minister for Racing"
+    },
+    "P1545": "13",
+    "P580": "2020-11-06",
+    "P1365": {
+      "links": [
+        "Winston Peters"
+      ],
+      "stated_as": "Winston Peters"
+    },
+    "P582": "2022-06-14",
+    "P1366": {
+      "links": [
+        "Kieran McAnulty"
+      ],
+      "stated_as": "Kieran McAnulty"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Prime Minister of New Zealand"
+      ],
+      "stated_as": "19th Deputy Prime Minister of New Zealand"
+    },
+    "P580": "2020-11-06",
+    "P1365": {
+      "links": [
+        "Winston Peters"
+      ],
+      "stated_as": "Winston Peters"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Infrastructure (New Zealand)"
+      ],
+      "stated_as": "4th Minister for Infrastructure"
+    },
+    "P1545": "4",
+    "P580": "2020-11-06",
+    "P1365": {
+      "links": [
+        "Shane Jones"
+      ],
+      "stated_as": "Shane Jones"
+    }
+  }
+]

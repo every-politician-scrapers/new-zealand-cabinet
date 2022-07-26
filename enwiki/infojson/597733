@@ -1,0 +1,251 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Horowhenua (New Zealand electorate)"
+      ],
+      "stated_as": "Horowhenua"
+    },
+    "P580": "1984-07-14",
+    "P1365": {
+      "links": [
+        "Geoff Thompson (politician)"
+      ],
+      "stated_as": "Geoffrey Thompson"
+    },
+    "P582": "1990-10-27",
+    "P1366": {
+      "links": [
+        "Hamish Hancock"
+      ],
+      "stated_as": "Hamish Hancock"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Employment (New Zealand)"
+      ],
+      "stated_as": "10th Minister of Employment"
+    },
+    "P1545": "10",
+    "P580": "1989-08-14",
+    "P1365": {
+      "links": [
+        "Phil Goff"
+      ],
+      "stated_as": "Phil Goff"
+    },
+    "P582": "1990-11-02",
+    "P1366": {
+      "links": [
+        "Maurice McTigue"
+      ],
+      "stated_as": "Maurice McTigue"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Immigration (New Zealand)"
+      ],
+      "stated_as": "44th Minister of Immigration"
+    },
+    "P1545": "44",
+    "P580": "1990-02-09",
+    "P1365": {
+      "links": [
+        "Roger Douglas"
+      ],
+      "stated_as": "Roger Douglas"
+    },
+    "P582": "1990-11-02",
+    "P1366": {
+      "links": [
+        "Bill Birch"
+      ],
+      "stated_as": "Bill Birch"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "New Zealand Parliament"
+      ],
+      "stated_as": "Member of the New Zealand Parliament\nfor \n(1993–1996)"
+    },
+    "P580": "1993-11-06",
+    "P1365": {
+      "links": [
+        "Graeme Reeves"
+      ],
+      "stated_as": "Graeme Reeves"
+    },
+    "P582": "2017-09-23",
+    "P1366": {
+      "links": [
+        "Paul Eagle"
+      ],
+      "stated_as": "Paul Eagle"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Health (New Zealand)"
+      ],
+      "stated_as": "35th Minister of Health"
+    },
+    "P1545": "35",
+    "P580": "1999-12-10",
+    "P1365": {
+      "links": [
+        "Wyatt Creech"
+      ],
+      "stated_as": "Wyatt Creech"
+    },
+    "P582": "2005-10-19",
+    "P1366": {
+      "links": [
+        "Pete Hodgson"
+      ],
+      "stated_as": "Pete Hodgson"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Police (New Zealand)"
+      ],
+      "stated_as": "34th Minister of Police"
+    },
+    "P1545": "34",
+    "P580": "2005-10-19",
+    "P1365": {
+      "links": [
+        "George Warren Hawkins"
+      ],
+      "stated_as": "George Hawkins"
+    },
+    "P582": "2008-11-19",
+    "P1366": {
+      "links": [
+        "Judith Collins"
+      ],
+      "stated_as": "Judith Collins"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Transport (New Zealand)"
+      ],
+      "stated_as": "23rd Minister of Transport"
+    },
+    "P1545": "23",
+    "P580": "2006-05-03",
+    "P1365": {
+      "links": [
+        "David Parker (New Zealand politician)"
+      ],
+      "stated_as": "David Parker"
+    },
+    "P582": "2008-11-19",
+    "P1366": {
+      "links": [
+        "Steven Joyce"
+      ],
+      "stated_as": "Steven Joyce"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Justice (New Zealand)"
+      ],
+      "stated_as": "45th Minister of Justice"
+    },
+    "P1545": "45",
+    "P580": "2007-10-31",
+    "P1365": {
+      "links": [
+        "Mark Burton"
+      ],
+      "stated_as": "Mark Burton"
+    },
+    "P582": "2008-11-19",
+    "P1366": {
+      "links": [
+        "Simon Power (politician)"
+      ],
+      "stated_as": "Simon Power"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Leader of the New Zealand Labour Party"
+      ],
+      "stated_as": "14th Deputy Leader of the New Zealand Labour Party"
+    },
+    "P580": "2008-11-11",
+    "P1365": {
+      "links": [
+        "Michael Cullen (politician)"
+      ],
+      "stated_as": "Michael Cullen"
+    },
+    "P582": "2011-12-13",
+    "P1366": {
+      "links": [
+        "Grant Robertson"
+      ],
+      "stated_as": "Grant Robertson"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Leader of the New Zealand Labour Party"
+      ],
+      "stated_as": "14th Deputy Leader of the New Zealand Labour Party"
+    },
+    "P1545": "14",
+    "P580": "2014-11-24",
+    "P1365": {
+      "links": [
+        "David Parker (New Zealand politician)"
+      ],
+      "stated_as": "David Parker"
+    },
+    "P582": "2017-03-01",
+    "P1366": {
+      "links": [
+        "Jacinda Ardern"
+      ],
+      "stated_as": "Jacinda Ardern"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of high commissioners of New Zealand to Australia"
+      ],
+      "stated_as": "19th High Commissioner of New Zealand to Australia"
+    },
+    "P1545": "19",
+    "P580": "2018-12",
+    "P1365": {
+      "links": [
+        "Chris Seed"
+      ],
+      "stated_as": "Chris Seed"
+    }
+  }
+]

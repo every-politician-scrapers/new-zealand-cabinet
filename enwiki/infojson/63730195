@@ -1,0 +1,85 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "New Zealand Labour Party",
+        "party list"
+      ],
+      "stated_as": "Labour party list"
+    },
+    "P580": "2020-10-17"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Seniors"
+      ],
+      "stated_as": "14th Minister for Seniors"
+    },
+    "P580": "2020-11-06",
+    "P1365": {
+      "links": [
+        "Tracey Martin"
+      ],
+      "stated_as": "Tracey Martin"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "New Zealand Food Safety"
+      ],
+      "stated_as": "8th Minister for Food Safety"
+    },
+    "P580": "2020-11-06",
+    "P1365": {
+      "links": [
+        "Damien O'Connor"
+      ],
+      "stated_as": "Damien O'Connor"
+    },
+    "P582": "2022-06-14",
+    "P1366": {
+      "links": [
+        "Meka Whaitiri"
+      ],
+      "stated_as": "Meka Whaitiri"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Research, Science and Innovation"
+      ],
+      "stated_as": "27th Minister for Research, Science and Innovation"
+    },
+    "P580": "2022-06-14",
+    "P1365": {
+      "links": [
+        "Megan Woods"
+      ],
+      "stated_as": "Megan Woods"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "COVID-19 pandemic in New Zealand"
+      ],
+      "stated_as": "2nd Minister for COVID-19 Response"
+    },
+    "P580": "2022-06-14",
+    "P1365": {
+      "links": [
+        "Chris Hipkins"
+      ],
+      "stated_as": "Chris Hipkins"
+    }
+  }
+]

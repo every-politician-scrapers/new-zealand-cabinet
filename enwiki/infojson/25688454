@@ -1,0 +1,287 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P580": "2005-02-08",
+    "P1365": {
+      "links": [
+        "Robert Woonton"
+      ],
+      "stated_as": "Robert Woonton"
+    },
+    "P582": "2006-09-27",
+    "P1366": {
+      "links": [
+        "Apii Piho"
+      ],
+      "stated_as": "Apii Piho"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Manihiki (electorate)"
+      ],
+      "stated_as": "Manihiki"
+    },
+    "P580": "2010-11-17",
+    "P1365": {
+      "links": [
+        "Apii Piho"
+      ],
+      "stated_as": "Apii Piho"
+    },
+    "P582": "2021-03-24",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Akaiti Puna"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Prime Minister of the Cook Islands"
+      ],
+      "stated_as": "Prime Minister of the Cook Islands"
+    },
+    "P580": "2010-11-30",
+    "P1365": {
+      "links": [
+        "Jim Marurai"
+      ],
+      "stated_as": "Jim Marurai"
+    },
+    "P582": "2020-10-01",
+    "P1366": {
+      "links": [
+        "Mark Brown (Cook Islands)"
+      ],
+      "stated_as": "Mark Brown"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for the Environment"
+    },
+    "P580": "2010-12-03",
+    "P1365": {
+      "links": [
+        "Cassey Eggelton"
+      ],
+      "stated_as": "Cassey Eggelton"
+    },
+    "P582": "2013-11-03",
+    "P1366": {
+      "links": [
+        "Kiriau Turepu"
+      ],
+      "stated_as": "Kiriau Turepu"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Energy"
+    },
+    "P580": "2010-12-03",
+    "P1365": {
+      "links": [
+        "William (Smiley) Heather"
+      ],
+      "stated_as": "Smiley Heather"
+    },
+    "P582": "2020-10-01",
+    "P1366": {
+      "links": [
+        "Mark Brown (Cook Islands)"
+      ],
+      "stated_as": "Mark Brown"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Justice"
+    },
+    "P580": "2010-12-03",
+    "P1365": {
+      "links": [
+        "Apii Piho"
+      ],
+      "stated_as": "Apii Piho"
+    },
+    "P582": "2013-11-03",
+    "P1366": {
+      "links": [
+        "Teariki Heather"
+      ],
+      "stated_as": "Teariki Heather"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Police"
+    },
+    "P580": "2010-12-03",
+    "P1365": {
+      "links": [
+        "Jim Marurai"
+      ],
+      "stated_as": "Jim Marurai"
+    },
+    "P582": "2012-04-17",
+    "P1366": {
+      "links": [
+        "Teariki Heather"
+      ],
+      "stated_as": "Teariki Heather"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Foreign Affairs (Cook Islands)"
+      ],
+      "stated_as": "Minister of Foreign Affairs"
+    },
+    "P580": "2013-11-03",
+    "P1365": {
+      "links": [
+        "Tom Marsters"
+      ],
+      "stated_as": "Tom Marsters"
+    },
+    "P582": "2020-10-01",
+    "P1366": {
+      "links": [
+        "Mark Brown (Cook Islands)"
+      ],
+      "stated_as": "Mark Brown"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Marine Resources"
+    },
+    "P580": "2013-11-03",
+    "P1365": {
+      "links": [
+        "Teina Bishop"
+      ],
+      "stated_as": "Teina Bishop"
+    },
+    "P582": "2020-10-01",
+    "P1366": {
+      "links": [
+        "Mark Brown (Cook Islands)"
+      ],
+      "stated_as": "Mark Brown"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Transport"
+    },
+    "P580": "2013-11-03",
+    "P1365": {
+      "links": [
+        "Tom Marsters"
+      ],
+      "stated_as": "Tom Marsters"
+    },
+    "P582": "2018-09-20",
+    "P1366": {
+      "links": [
+        "Robert Tapaitau"
+      ],
+      "stated_as": "Robert Tapaitau"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Education"
+    },
+    "P580": "2014-12-17",
+    "P1365": {
+      "links": [
+        "Mona Ioane"
+      ],
+      "stated_as": "Mona Ioane"
+    },
+    "P582": "2020-06-04",
+    "P1366": {
+      "links": [
+        "Vaine Mokoroa"
+      ],
+      "stated_as": "Vaine Mokoroa"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Police"
+    },
+    "P580": "2020-03",
+    "P1365": {
+      "links": [
+        "Vaine Mokoroa"
+      ],
+      "stated_as": "Vaine Mokoroa"
+    },
+    "P582": "2020-10-01",
+    "P1366": {
+      "links": [
+        "Mark Brown (Cook Islands)"
+      ],
+      "stated_as": "Mark Brown"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Secretary General of the Pacific Islands Forum"
+      ],
+      "stated_as": "Secretary General of the Pacific Islands Forum"
+    },
+    "P580": "2021-05-24",
+    "P1365": {
+      "links": [
+        "Meg Taylor"
+      ],
+      "stated_as": "Meg Taylor"
+    }
+  }
+]

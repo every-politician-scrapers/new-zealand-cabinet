@@ -1,0 +1,57 @@
+[
+  {
+    "office": {
+      "links": [
+        "Chief Justice of New Zealand"
+      ],
+      "stated_as": "13th Chief Justice of New Zealand"
+    },
+    "P580": "2019-03-14",
+    "P1365": {
+      "links": [
+        "Sian Elias"
+      ],
+      "stated_as": "Sian Elias"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Administrator_of_the_government"
+      ],
+      "stated_as": "Administrator of the Government"
+    },
+    "P580": "2019-10-20",
+    "P582": "2019-10-27"
+  },
+  {
+    "office": {
+      "links": [
+        "Administrator_of_the_government"
+      ],
+      "stated_as": "Administrator of the Government"
+    },
+    "P580": "2021-06-07",
+    "P582": "2021-06-12"
+  },
+  {
+    "office": {
+      "links": [
+        "Administrator_of_the_government"
+      ],
+      "stated_as": "Administrator of the Government"
+    },
+    "P580": "2021-09-29",
+    "P582": "2021-10-21"
+  },
+  {
+    "office": {
+      "links": [
+        "Administrator_of_the_government"
+      ],
+      "stated_as": "Administrator of the Government"
+    },
+    "P580": "2022-05-16",
+    "P582": "2022-05-18"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "office": {
+      "links": [
+        "Wellington City Council"
+      ],
+      "stated_as": "Wellington City Councillor for Western Ward"
+    },
+    "P580": "1992",
+    "P582": "2004"
+  },
+  {
+    "office": {
+      "links": [
+        "Wellington City Council"
+      ],
+      "stated_as": "Wellington City Councillor for Onslow-Western Ward"
+    },
+    "P580": "2004",
+    "P582": "2019"
+  },
+  {
+    "office": {
+      "links": [
+        "Mayor of Wellington"
+      ],
+      "stated_as": "36th Mayor of Wellington"
+    },
+    "P580": "2019-10-30",
+    "P1365": {
+      "links": [
+        "Justin Lester (politician)"
+      ],
+      "stated_as": "Justin Lester"
+    }
+  }
+]

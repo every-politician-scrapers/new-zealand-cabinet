@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "High Commissioner of New Zealand to Niue"
+    },
+    "P580": "2014-02",
+    "P1365": {
+      "links": [
+        "Mark Blumsky"
+      ],
+      "stated_as": "Mark Blumsky"
+    },
+    "P582": "2018",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Kirk Yates"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Administrator of Tokelau"
+      ],
+      "stated_as": "Administrator of Tokelau"
+    },
+    "P580": "2018-05",
+    "P1365": {
+      "links": [
+        "Jonathan Kings"
+      ],
+      "stated_as": "Jonathan Kings"
+    }
+  }
+]

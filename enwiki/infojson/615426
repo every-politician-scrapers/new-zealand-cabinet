@@ -1,0 +1,175 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Hamilton West (New Zealand electorate)"
+      ],
+      "stated_as": "Hamilton West"
+    },
+    "P580": "1984",
+    "P1365": {
+      "links": [
+        "Mike Minogue"
+      ],
+      "stated_as": "Mike Minogue"
+    },
+    "P582": "1990",
+    "P1366": {
+      "links": [
+        "Grant Thomas (politician)"
+      ],
+      "stated_as": "Grant Thomas"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Pencarrow (New Zealand electorate)"
+      ],
+      "stated_as": "Pencarrow"
+    },
+    "P580": "1993",
+    "P1365": {
+      "links": [
+        "Sonja Davies"
+      ],
+      "stated_as": "Sonja Davies"
+    },
+    "P582": "1996"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Hutt South"
+      ],
+      "stated_as": "Hutt South"
+    },
+    "P580": "1996-10-12",
+    "P582": "2017-09-23",
+    "P1366": {
+      "links": [
+        "Chris Bishop (politician)"
+      ],
+      "stated_as": "Chris Bishop"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Education (New Zealand)"
+      ],
+      "stated_as": "41st Minister of Education"
+    },
+    "P1545": "41",
+    "P580": "1999-12-10",
+    "P1365": {
+      "links": [
+        "Nick Smith (New Zealand politician)"
+      ],
+      "stated_as": "Nick Smith"
+    },
+    "P582": "2005-10-19",
+    "P1366": {
+      "links": [
+        "Steve Maharey"
+      ],
+      "stated_as": "Steve Maharey"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry for the Environment (New Zealand)"
+      ],
+      "stated_as": "13th Minister for the Environment"
+    },
+    "P1545": "13",
+    "P580": "2007-10-31",
+    "P1365": {
+      "links": [
+        "David Parker (New Zealand politician)",
+        "David Benson-Pope"
+      ],
+      "stated_as": "David Parker (acting) David Benson-Pope"
+    },
+    "P582": "2008-11-19",
+    "P1366": {
+      "links": [
+        "Nick Smith (New Zealand politician)"
+      ],
+      "stated_as": "Nick Smith"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Assistant Speaker of the House of Representatives"
+    },
+    "P580": "2014-10-21",
+    "P1365": {
+      "links": [
+        "Ross Robertson"
+      ],
+      "stated_as": "Ross Robertson"
+    },
+    "P582": "2017-11-07",
+    "P1366": {
+      "links": [
+        "Adrian Rurawhe"
+      ],
+      "stated_as": "Adrian Rurawhe"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "New Zealand Labour Party",
+        "party list"
+      ],
+      "stated_as": "Labour party list"
+    },
+    "P580": "2017-09-23"
+  },
+  {
+    "office": {
+      "links": [
+        "Speaker of the New Zealand House of Representatives"
+      ],
+      "stated_as": "30th Speaker of the New Zealand House of Representatives"
+    },
+    "P1545": "30",
+    "P580": "2017-11-07",
+    "P1365": {
+      "links": [
+        "David Carter (politician)"
+      ],
+      "stated_as": "David Carter"
+    }
+  }
+]

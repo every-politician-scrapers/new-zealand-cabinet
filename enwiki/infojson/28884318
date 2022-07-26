@@ -1,0 +1,97 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Wigram (New Zealand electorate)"
+      ],
+      "stated_as": "Wigram"
+    },
+    "P580": "2011-11-26",
+    "P1365": {
+      "links": [
+        "Jim Anderton"
+      ],
+      "stated_as": "Jim Anderton"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Energy and Resources (New Zealand)"
+      ],
+      "stated_as": "17th Minister of Energy and Resources"
+    },
+    "P580": "2017-10-26",
+    "P1365": {
+      "links": [
+        "Judith Collins"
+      ],
+      "stated_as": "Judith Collins"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Research, Science and Innovation"
+      ],
+      "stated_as": "26th Minister for Research, Science and Innovation"
+    },
+    "P580": "2017-10-26",
+    "P1365": {
+      "links": [
+        "Paul Goldsmith (politician)"
+      ],
+      "stated_as": "Paul Goldsmith"
+    },
+    "P582": "2022-06-14",
+    "P1366": {
+      "links": [
+        "Ayesha Verrall"
+      ],
+      "stated_as": "Ayesha Verrall"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister for Greater Christchurch Regeneration"
+    },
+    "P580": "2017-10-26",
+    "P1365": {
+      "links": [
+        "Nicky Wagner"
+      ],
+      "stated_as": "Nicky Wagner"
+    },
+    "P582": "2020-11-06",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Office abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Housing and Urban Development"
+      ],
+      "stated_as": "28th Minister of Housing"
+    },
+    "P580": "2019-06-27",
+    "P1365": {
+      "links": [
+        "Phil Twyford"
+      ],
+      "stated_as": "Phil Twyford"
+    }
+  }
+]

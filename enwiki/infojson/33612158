@@ -1,0 +1,120 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Dunedin (New Zealand electorate)"
+      ],
+      "stated_as": "Dunedin\nDunedin North (2011–2020)"
+    },
+    "P580": "2011-11-26",
+    "P1365": {
+      "links": [
+        "Pete Hodgson"
+      ],
+      "stated_as": "Pete Hodgson"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Health (New Zealand)"
+      ],
+      "stated_as": "40th Minister of Health"
+    },
+    "P1545": "40",
+    "P580": "2017-10-26",
+    "P1365": {
+      "links": [
+        "Jonathan Coleman (politician)"
+      ],
+      "stated_as": "Jonathan Coleman"
+    },
+    "P582": "2020-07-02",
+    "P1366": {
+      "links": [
+        "Chris Hipkins"
+      ],
+      "stated_as": "Chris Hipkins"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Commerce and Consumer Affairs"
+      ],
+      "stated_as": "14th Minister of Commerce and Consumer Affairs"
+    },
+    "P1545": "14",
+    "P580": "2020-11-06",
+    "P1365": {
+      "links": [
+        "Kris Faafoi"
+      ],
+      "stated_as": "Kris Faafoi"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for State Owned Enterprises"
+      ],
+      "stated_as": "16th Minister for State Owned Enterprises"
+    },
+    "P1545": "16",
+    "P580": "2020-11-06",
+    "P1365": {
+      "links": [
+        "Winston Peters"
+      ],
+      "stated_as": "Winston Peters"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "1st Minister for the Digital Economy and Communications"
+    },
+    "P1545": "1",
+    "P580": "2020-11-06"
+  },
+  {
+    "office": {
+      "links": [
+        "Earthquake Commission"
+      ],
+      "stated_as": "20th Minister Responsible for the Earthquake Commission"
+    },
+    "P1545": "20",
+    "P580": "2020-11-06",
+    "P1365": {
+      "links": [
+        "Grant Robertson"
+      ],
+      "stated_as": "Grant Robertson"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Statistics (New Zealand)"
+      ],
+      "stated_as": "31st Minister of Statistics"
+    },
+    "P1545": "31",
+    "P580": "2020-11-06",
+    "P1365": {
+      "links": [
+        "James Shaw (New Zealand politician)"
+      ],
+      "stated_as": "James Shaw"
+    }
+  }
+]
