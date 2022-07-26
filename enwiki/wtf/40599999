@@ -24,26 +24,21 @@
         {
           "sentences": [
             {
-              "text": "Munokoa Poto Williams (born 7 January 1962) has served as a member of Parliament in the New Zealand Labour Party parliamentary caucus since the 2013 Christchurch East by-election.",
+              "text": "Munokoa Poto Williams (born 7 January 1962) is a New Zealand Labour Party politician and a member of Parliament.",
               "links": [
                 {
-                  "text": "Parliament",
                   "type": "internal",
-                  "page": "New Zealand Parliament"
+                  "page": "New Zealand"
                 },
                 {
+                  "text": "Labour Party",
                   "type": "internal",
                   "page": "New Zealand Labour Party"
                 },
                 {
-                  "text": "parliamentary caucus",
+                  "text": "member of Parliament",
                   "type": "internal",
-                  "page": "parliamentary group"
-                },
-                {
-                  "text": "2013 Christchurch East by-election",
-                  "type": "internal",
-                  "page": "2013 Christchurch East by-election"
+                  "page": "New Zealand Parliament"
                 }
               ],
               "formatting": {
@@ -53,15 +48,26 @@
               }
             },
             {
-              "text": "She became the second Cook Islander elected to the New Zealand Parliament – after Alfred Ngaro.",
+              "text": "She was elected in a 2013 by-election and is currently Minister of Conservation and Minister for Disability Issues in the Sixth Labour Government.",
               "links": [
                 {
+                  "text": "a 2013 by-election",
                   "type": "internal",
-                  "page": "New Zealand Parliament"
+                  "page": "2013 Christchurch East by-election"
+                },
+                {
+                  "text": "Minister of Conservation",
+                  "type": "internal",
+                  "page": "Minister of Conservation (New Zealand)"
                 },
                 {
                   "type": "internal",
-                  "page": "Alfred Ngaro"
+                  "page": "Minister for Disability Issues"
+                },
+                {
+                  "text": "Sixth Labour Government",
+                  "type": "internal",
+                  "page": "Sixth Labour Government of New Zealand"
                 }
               ]
             }
@@ -477,7 +483,10 @@
         {
           "sentences": [
             {
-              "text": "Williams has worked for the Ministry of Education, BirthRight, Healthcare NZ and disability agencies.",
+              "text": "Williams has a background working on family and sexual violence issues."
+            },
+            {
+              "text": "She has worked for the Ministry of Education, BirthRight, Healthcare NZ and disability agencies.",
               "links": [
                 {
                   "text": "Ministry of Education",
@@ -487,7 +496,14 @@
               ]
             },
             {
-              "text": "She moved from Auckland to Christchurch's suburb of New Brighton in January 2013 to take up a position as regional manager of the St John of God Hauora Trust.",
+              "text": "She has served as a member of the Community Child Protection Review Panel, was involved in the Waitakere Community Law Service and Community Waitakere, and was part of the Living Wage Campaign and the LIFEWISE Big Sleepout."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She moved from Auckland to Christchurch's suburb of New Brighton in January 2013 to take up a position as regional manager of the St John of God Hauora Trust but resigned from that role to run for Parliament later that year.",
               "links": [
                 {
                   "text": "New Brighton",
@@ -495,30 +511,52 @@
                   "page": "New Brighton, New Zealand"
                 }
               ]
-            },
-            {
-              "text": "She resigned from that role during the election campaign so that she could focus \"110%\" on the election."
             }
           ]
         }
       ],
       "references": [
         {
+          "date": "2022-06-14",
+          "title": "'Caught in the headlights': The downfall of Poto Williams as police minister",
+          "url": "https://www.odt.co.nz/news/national/caught-headlights-downfall-poto-williams-police-minister",
+          "access-date": "2022-07-25",
+          "website": "Otago Daily Times Online News",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Sunday",
+          "last2": "September 2013",
+          "first2": "22",
+          "last3": "Zeal",
+          "first3": "10:02 am Press Release: New",
+          "last4": "Party",
+          "first4": "Labour",
+          "title": "Poto Williams selected as Labour Christchurch East Candidate {{!}} Scoop News",
+          "url": "https://www.scoop.co.nz/stories/PA1309/S00398/poto-williams-selected-as-labour-christchurch-east-candidate.htm",
+          "access-date": "2022-07-25",
+          "website": "www.scoop.co.nz",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "21 September 2013",
           "title": "Labour picks community worker for Chch East",
+          "work": "Radio New Zealand",
           "url": "http://www.radionz.co.nz/news/political/222344/labour-picks-community-worker-for-chch-east",
           "access-date": "22 September 2013",
-          "work": "Radio New Zealand",
-          "date": "21 September 2013",
           "template": "citation",
           "type": "news"
         },
         {
           "last": "Conway",
           "first": "Glenn",
-          "title": "Unknown, but undaunted",
-          "work": "The Press",
           "date": "28 September 2013",
+          "title": "Unknown, but undaunted",
           "page": "A15",
+          "work": "The Press",
           "template": "citation",
           "type": "news"
         }
@@ -531,10 +569,94 @@
         {
           "sentences": [
             {
-              "text": "Williams first got politically involved through making submissions on family violence and child welfare issues, which she has a strong interest in."
+              "text": "Christchurch East MP Lianne Dalziel resigned in October 2013 to contest the Christchurch mayoralty, triggering a by-election.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Christchurch East"
+                },
+                {
+                  "type": "internal",
+                  "page": "Lianne Dalziel"
+                },
+                {
+                  "text": "Christchurch mayoralty",
+                  "type": "internal",
+                  "page": "Mayor of Christchurch"
+                },
+                {
+                  "text": "a by-election",
+                  "type": "internal",
+                  "page": "2013 Christchurch East by-election"
+                }
+              ]
             },
             {
-              "text": "She has served as a member of the Community Child Protection Review Panel, was involved in the Waitakere Community Law Service and Community Waitakere, and was part of the Living Wage Campaign and the LIFEWISE Big Sleepout."
+              "text": "Williams won selection as Labour's candidate over five other candidates including future Christchurch city councillor Deon Swiggs and James Caygill (son of former Labour Finance Minister David Caygill).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Deon Swiggs"
+                },
+                {
+                  "text": "Finance Minister",
+                  "type": "internal",
+                  "page": "Minister of Finance (New Zealand)"
+                },
+                {
+                  "type": "internal",
+                  "page": "David Caygill"
+                }
+              ]
+            },
+            {
+              "text": "She convincingly defeated National's candidate Matt Doocey, securing 61 per cent of the vote.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Matt Doocey"
+                }
+              ]
+            },
+            {
+              "text": "On 28 January 2014, Williams was sworn in as a member of the House of Representatives for the first time.",
+              "links": [
+                {
+                  "text": "House of Representatives",
+                  "type": "internal",
+                  "page": "New Zealand House of Representatives"
+                }
+              ]
+            },
+            {
+              "text": "After Alfred Ngaro, she is the second Cook Islander to be a New Zealand MP.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Alfred Ngaro"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Williams held her electorate over National candidate Jo Hayes by 4,073 votes in the 2014 general election.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jo Hayes"
+                },
+                {
+                  "text": "2014 general election",
+                  "type": "internal",
+                  "page": "2014 New Zealand general election"
+                }
+              ]
+            },
+            {
+              "text": "She was defeated Hayes again in 2017, by 7,480 votes, and new National candidate Lincoln Platt in 2020 by 17,336 votes."
             }
           ]
         }
@@ -599,64 +721,26 @@
       ],
       "references": [
         {
-          "url": "http://www.scoop.co.nz/stories/PA1309/S00398/poto-williams-selected-as-labour-christchurch-east-candidate.htm",
-          "title": "Poto Williams selected as Labour Christchurch East candidate",
-          "publisher": "Scoop.co.nz",
-          "date": "22 September 2013",
-          "access-date": "25 November 2013",
+          "last": "Conway",
+          "first": "Glenn",
+          "date": "2013-09-17",
+          "title": "Dalziel officially resigns from Parliament",
+          "url": "https://www.stuff.co.nz/the-press/news/9175441/Dalziel-officially-resigns-from-Parliament",
+          "access-date": "2022-07-25",
+          "website": "Stuff",
+          "language": "en",
           "template": "citation",
           "type": "web"
-        }
-      ]
-    },
-    {
-      "title": "Fifth National Government, 2013–2017",
-      "depth": 1,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Williams won the 2013 Christchurch East by-election with a \"whopping\" 61 per cent of the vote, delivering a \"crushing victory\".",
-              "links": [
-                {
-                  "text": "2013 Christchurch East by-election",
-                  "type": "internal",
-                  "page": "2013 Christchurch East by-election"
-                }
-              ]
-            },
-            {
-              "text": "On 28 January 2014, Williams was sworn in as a member of the House of Representatives.",
-              "links": [
-                {
-                  "text": "House of Representatives",
-                  "type": "internal",
-                  "page": "New Zealand House of Representatives"
-                }
-              ]
-            }
-          ]
         },
         {
-          "sentences": [
-            {
-              "text": "During the 2014 general election Williams won the Christchurch East electorate, defeating National candidate Jo Hayes by 4,073 votes.",
-              "links": [
-                {
-                  "text": "2014 general election",
-                  "type": "internal",
-                  "page": "New Zealand general election, 2014"
-                },
-                {
-                  "type": "internal",
-                  "page": "Jo Hayes"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "references": [
+          "date": "2013-09-21",
+          "title": "Labour selects Christchurch East candidate - Story - Politics - 3 News",
+          "url": "https://web.archive.org/web/20130921060616/http://www.3news.co.nz/Labour-selects-Christchurch-East-candidate/tabid/1607/articleID/314153/Default.aspx",
+          "access-date": "2022-07-25",
+          "website": "web.archive.org",
+          "template": "citation",
+          "type": "web"
+        },
         {
           "template": "citation",
           "type": "inline",
@@ -666,28 +750,107 @@
         {
           "title": "Official Count Results – Christchurch East",
           "url": "https://www.electionresults.govt.nz/electionresults_2014/electorate-5.html",
-          "publisher": "Electoral Commission",
           "access-date": "1 July 2019",
+          "publisher": "Electoral Commission",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Christchurch East – Official Result 2017 election",
+          "url": "https://www.electionresults.govt.nz/electionresults_2017/electorate-details-05.html",
+          "access-date": "1 July 2019",
+          "publisher": "Electoral Commission",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Christchurch East – Official Result",
+          "url": "https://electionresults.govt.nz/electionresults_2020/electorate-details-06.html",
+          "access-date": "16 November 2020",
+          "publisher": "Electoral Commission",
           "template": "citation",
           "type": "web"
         },
         {
           "last": "Bayer",
           "first": "Kurt",
+          "date": "30 November 2013",
           "title": "Poto Williams wins Christchurch East by-election",
+          "work": "The New Zealand Herald",
           "url": "http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=11165189",
           "access-date": "30 November 2013",
-          "work": "The New Zealand Herald",
-          "date": "30 November 2013",
           "template": "citation",
           "type": "news"
         },
         {
+          "date": "30 November 2013",
           "title": "Chch by-election an easy Labour win",
+          "work": "The Press",
           "url": "http://www.stuff.co.nz/the-press/9462536/Chch-by-election-easy-Labour-win",
           "access-date": "30 November 2013",
-          "work": "The Press",
-          "date": "30 November 2013",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Opposition, 2013–2017",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In her first year as an MP, Williams was appointed to the Health Committee and was Labour's associate spokesperson for social development, the community and voluntary sector, and housing (Christchurch)."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "After the election she nominated Andrew Little to succeed David Cunliffe as Labour leader.",
+              "links": [
+                {
+                  "text": "Andrew Little",
+                  "type": "internal",
+                  "page": "Andrew Little (New Zealand politician)"
+                },
+                {
+                  "type": "internal",
+                  "page": "David Cunliffe"
+                }
+              ]
+            },
+            {
+              "text": "In the 2014–2017 term, Williams served on the Health and Social Services committees and was Labour's spokesperson on disability issues and the community and voluntary sector."
+            },
+            {
+              "text": "She became Labour's junior whip when Jacinda Ardern became leader in September 2017.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jacinda Ardern"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Williams, Poto - New Zealand Parliament",
+          "url": "https://www.parliament.nz/en/mps-and-electorates/members-of-parliament/williams-poto/",
+          "access-date": "2022-07-25",
+          "website": "www.parliament.nz",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "14 October 2014",
+          "title": "Nanaia Mahuta to contest Labour leadership",
+          "work": "The New Zealand Herald",
+          "url": "http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=11342299",
+          "access-date": "14 October 2014",
           "template": "citation",
           "type": "news"
         }
@@ -699,16 +862,6 @@
       "paragraphs": [
         {
           "sentences": [
-            {
-              "text": "During the 2017 New Zealand general election in September, Williams retained the Christchurch East electorate, defeating Jo Hayes by 7,480 votes.",
-              "links": [
-                {
-                  "text": "2017 New Zealand general election",
-                  "type": "internal",
-                  "page": "2017 New Zealand general election"
-                }
-              ]
-            },
             {
               "text": "On 19 October 2017, a Labour-led coalition government was formed with support from New Zealand First and the Green parties.",
               "links": [
@@ -727,13 +880,9 @@
                   "page": "Green Party of Aotearoa New Zealand"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "sentences": [
+            },
             {
-              "text": "On 8 November 2017, Williams was elected to the office of Assistant Speaker of the New Zealand House of Representatives.",
+              "text": "Williams was nominated and elected an Assistant Speaker of the New Zealand House of Representatives.",
               "links": [
                 {
                   "type": "internal",
@@ -742,19 +891,16 @@
               ]
             },
             {
-              "text": "National Party Opposition Members tried challenging her nomination for the office on the basis she was not yet sworn in."
+              "text": "The National Party challenged her nomination for the office because Williams had not been sworn in as a member of Parliament for that term yet."
             },
             {
-              "text": "Speaker Trevor Mallard dismissed the challenges made by National Members by stating that one of the criteria for being nominated and elected as a presiding officer was being a Member of Parliament – which she was by virtue of the finalised election results.",
+              "text": "Speaker Trevor Mallard dismissed the challenges because it is not a requirement for members of Parliament to be sworn in to be nominated as a presiding officer.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Trevor Mallard"
                 }
               ]
-            },
-            {
-              "text": "She however would not be able to conduct her business as Assistant Speaker until she had been sworn in."
             }
           ]
         },
@@ -769,33 +915,19 @@
                   "page": "cabinet reshuffle"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "During the 2020 New Zealand general election, Williams was re-elected in Christchurch East, defeating National's Lincoln Platt by a margin of 17,336 votes.",
-              "links": [
-                {
-                  "text": "2020 New Zealand general election",
-                  "type": "internal",
-                  "page": "2020 New Zealand general election"
-                }
-              ]
             },
             {
-              "text": "In early November 2020, Williams assumed the ministerial portfolios for Building and Construction and Police as well as the associate ministerial portfolios for Children and Public Housing.",
+              "text": "When Labour was returned to government in the 2020 general election, she was transferred into the roles of Minister of Police and Minister for Building and Construction and also became an associate minister in the children and public housing portfolios.",
               "links": [
                 {
-                  "text": "Building and Construction",
-                  "type": "internal",
-                  "page": "Minister for Building and Construction (New Zealand)"
-                },
-                {
-                  "text": "Police",
+                  "text": "Minister of Police",
                   "type": "internal",
                   "page": "Minister of Police (New Zealand)"
+                },
+                {
+                  "text": "Minister for Building and Construction",
+                  "type": "internal",
+                  "page": "Minister for Building and Construction (New Zealand)"
                 }
               ]
             }
@@ -804,25 +936,26 @@
         {
           "sentences": [
             {
-              "text": "On 13 June 2022, it was announced Williams would be relieved of the police portfolio, which was assumed by Chris Hipkins, and the building and construction portfolio, which went to Megan Woods, and instead become Minister of Conservation and Minister for Disability Issues.",
+              "text": "Williams' appointment as police minister came as a surprise to some commentators as she was seen to be a contrast with her predecessor, Stuart Nash.",
               "links": [
                 {
                   "type": "internal",
-                  "page": "Chris Hipkins"
-                },
-                {
-                  "type": "internal",
-                  "page": "Megan Woods"
-                },
-                {
-                  "text": "Minister of Conservation",
-                  "type": "internal",
-                  "page": "Minister of Conservation (New Zealand)"
+                  "page": "Stuart Nash"
                 }
               ]
             },
             {
-              "text": "Prime Minister Jacinda Ardern said that \"focus\" in the police portfolio had been lost.",
+              "text": "Through 2022, Williams was under pressure in the role as a surge of gang activity caused conflict between the Tribesmen and Killer Beez gangs in Auckland.",
+              "links": [
+                {
+                  "text": "gang activity",
+                  "type": "internal",
+                  "page": "Crime in New Zealand"
+                }
+              ]
+            },
+            {
+              "text": "Prime Minister Jacinda Ardern acknowledged that \"focus\" in the police portfolio had been lost and, in a reshuffle on 13 June 2022, reassigned Willilams to be  Minister of Conservation and Minister for Disability Issues.",
               "links": [
                 {
                   "text": "Prime Minister",
@@ -832,25 +965,15 @@
                 {
                   "type": "internal",
                   "page": "Jacinda Ardern"
-                }
-              ]
-            },
-            {
-              "text": "Earlier, National Party leader Christopher Luxon had called for Williams to resign as Police Minister in response to a surge of gang activity caused conflict between the Tribesmen and Killer Beez gangs in Auckland.",
-              "links": [
+                },
                 {
-                  "text": "National Party",
+                  "text": "Minister of Conservation",
                   "type": "internal",
-                  "page": "New Zealand National Party"
+                  "page": "Minister of Conservation (New Zealand)"
                 },
                 {
                   "type": "internal",
-                  "page": "Christopher Luxon"
-                },
-                {
-                  "text": "gang activity",
-                  "type": "internal",
-                  "page": "Crime in New Zealand"
+                  "page": "Minister for Disability Issues"
                 }
               ]
             }
@@ -858,14 +981,6 @@
         }
       ],
       "references": [
-        {
-          "title": "Christchurch East – Official Result 2017 election",
-          "url": "https://www.electionresults.govt.nz/electionresults_2017/electorate-details-05.html",
-          "publisher": "Electoral Commission",
-          "access-date": "1 July 2019",
-          "template": "citation",
-          "type": "web"
-        },
         {
           "url": "http://www.newshub.co.nz/home/election/2017/10/full-video-nz-first-leader-winston-peters-announces-next-government.html",
           "title": "Full video: NZ First leader Winston Peters announces next Government",
@@ -906,14 +1021,6 @@
           "type": "news"
         },
         {
-          "title": "Christchurch East – Official Result",
-          "url": "https://electionresults.govt.nz/electionresults_2020/electorate-details-06.html",
-          "publisher": "Electoral Commission",
-          "access-date": "16 November 2020",
-          "template": "citation",
-          "type": "web"
-        },
-        {
           "title": "Ministerial List for Announcement on Monday",
           "url": "https://dpmc.govt.nz/sites/default/files/2020-11/ministerial-list-2-nov-2020.pdf",
           "publisher": "Department of the Prime Minister and Cabinet",
@@ -926,14 +1033,24 @@
           "type": "web"
         },
         {
-          "title": "Cabinet reshuffle: Jacinda Ardern reveals changes to minister line-up",
-          "language": "en",
-          "work": "Newshub",
-          "url": "https://www.newshub.co.nz/home/politics/2022/06/cabinet-reshuffle-live-updates-jacinda-ardern-to-reveal-changes-to-minister-line-up.html",
-          "access-date": "2022-06-13",
-          "archive-url": "https://web.archive.org/web/20220613123447/https://www.newshub.co.nz/home/politics/2022/06/cabinet-reshuffle-live-updates-jacinda-ardern-to-reveal-changes-to-minister-line-up.html",
-          "archive-date": "13 June 2022",
+          "date": "2022-06-10",
+          "title": "Week in politics: Police Minister under fire as National ramps up law and order campaign",
+          "url": "https://www.rnz.co.nz/news/on-the-inside/468888/week-in-politics-police-minister-under-fire-as-national-ramps-up-law-and-order-campaign",
+          "access-date": "2022-07-25",
+          "website": "RNZ",
+          "language": "en-nz",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "8 June 2022",
+          "title": "Christopher Luxon urges Poto Williams to be removed as Police Minister",
+          "work": "Radio New Zealand",
+          "url": "https://www.rnz.co.nz/news/political/468706/christopher-luxon-urges-poto-williams-to-be-removed-as-police-minister",
           "url-status": "live",
+          "access-date": "14 June 2022",
+          "archive-url": "https://web.archive.org/web/20220610093616/https://www.rnz.co.nz/news/political/468706/christopher-luxon-urges-poto-williams-to-be-removed-as-police-minister",
+          "archive-date": "10 June 2022",
           "template": "citation",
           "type": "news"
         },
@@ -966,14 +1083,14 @@
           "type": "news"
         },
         {
-          "title": "Christopher Luxon urges Poto Williams to be removed as Police Minister",
-          "url": "https://www.rnz.co.nz/news/political/468706/christopher-luxon-urges-poto-williams-to-be-removed-as-police-minister",
-          "access-date": "14 June 2022",
-          "work": "Radio New Zealand",
-          "date": "8 June 2022",
-          "archive-url": "https://web.archive.org/web/20220610093616/https://www.rnz.co.nz/news/political/468706/christopher-luxon-urges-poto-williams-to-be-removed-as-police-minister",
-          "archive-date": "10 June 2022",
+          "title": "Cabinet reshuffle: Jacinda Ardern reveals changes to minister line-up",
+          "language": "en",
+          "work": "Newshub",
+          "url": "https://www.newshub.co.nz/home/politics/2022/06/cabinet-reshuffle-live-updates-jacinda-ardern-to-reveal-changes-to-minister-line-up.html",
           "url-status": "live",
+          "access-date": "2022-06-13",
+          "archive-url": "https://web.archive.org/web/20220613123447/https://www.newshub.co.nz/home/politics/2022/06/cabinet-reshuffle-live-updates-jacinda-ardern-to-reveal-changes-to-minister-line-up.html",
+          "archive-date": "13 June 2022",
           "template": "citation",
           "type": "news"
         },
@@ -1007,6 +1124,21 @@
           "sentences": [
             {
               "text": "In May 2017, Williams suggested removing the presumption of innocence afforded to alleged perpetrators of sexual assault."
+            },
+            {
+              "text": "She voted in favour of the Abortion Legislation Bill in March 2020 and against the End of Life Choice Bill in December 2019.",
+              "links": [
+                {
+                  "text": "Abortion Legislation Bill",
+                  "type": "internal",
+                  "page": "Abortion Legislation Act 2020"
+                },
+                {
+                  "text": "End of Life Choice Bill",
+                  "type": "internal",
+                  "page": "End of Life Choice Act 2019"
+                }
+              ]
             }
           ]
         }
@@ -1022,6 +1154,24 @@
           "date": "30 April 2017",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "title": "Vote - New Zealand Parliament (Abortion Legislation Bill)",
+          "url": "https://www.parliament.nz/en/pb/hansard-debates/rhr/document/HansS_20200318_071700000/vote",
+          "access-date": "2022-07-25",
+          "website": "www.parliament.nz",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Vote - New Zealand Parliament (End of Life Choice Bill)",
+          "url": "https://www.parliament.nz/en/pb/hansard-debates/rhr/document/HansS_20191113_074100000/vote",
+          "access-date": "2022-07-25",
+          "website": "www.parliament.nz",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
         }
       ]
     },

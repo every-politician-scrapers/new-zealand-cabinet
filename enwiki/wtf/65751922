@@ -1,0 +1,98 @@
+{
+  "title": "Jane Coombs",
+  "pageID": 65751922,
+  "categories": [
+    "Ambassadors of New Zealand to South Korea",
+    "Ambassadors of New Zealand to the Organisation for Economic Co-operation and Development",
+    "Ambassadors of New Zealand to France",
+    "New Zealand women ambassadors",
+    "Ambassadors to Monaco",
+    "Ambassadors to Portugal",
+    "Ambassadors to Senegal",
+    "People educated at St Hilda's Collegiate School",
+    "Year of birth missing (living people)",
+    "Living people",
+    "21st-century New Zealand women politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Jane Coombs is a New Zealand diplomat who was Ambassador to South Korea and has been the Permanent Representative to the Organization for Economic Co-Operation and Development (OECD) since September 2017.",
+              "links": [
+                {
+                  "text": "Ambassador to South Korea",
+                  "type": "internal",
+                  "page": "Ambassador of New Zealand to South Korea"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Jane Coombs"
+                ]
+              }
+            },
+            {
+              "text": "She is cross accredited to France, Monaco, Portugal and Senegal."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Coombs studied at St Hilda's Collegiate School.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "St Hilda's Collegiate School"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "New Zealand diplomat",
+          "template": "short description"
+        },
+        {
+          "date": "April 2022",
+          "template": "use dmy dates"
+        }
+      ],
+      "references": [
+        {
+          "title": "New Zealand: Ambassador, Permanent Representative to the OECD",
+          "url": "https://www.oecd.org/newzealand/new-zealand-ambassador.htm",
+          "website": "OECD",
+          "accessdate": "3 November 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Diplomat role is a 'dream come true'",
+          "url": "https://www.odt.co.nz/news/dunedin/diplomat-role-dream-come-true",
+          "accessdate": "3 November 2020",
+          "publisher": "Otago Daily Times",
+          "date": "May 17, 2019",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "newzealand-diplomat-stub"
+        }
+      ]
+    }
+  ]
+}
