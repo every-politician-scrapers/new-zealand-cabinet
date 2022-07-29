@@ -399,7 +399,18 @@
               }
             },
             {
-              "text": "She grew up in South Auckland and West Auckland."
+              "text": "She grew up in South Auckland and West Auckland.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "South Auckland"
+                },
+                {
+                  "text": "West Auckland",
+                  "type": "internal",
+                  "page": "West Auckland, New Zealand"
+                }
+              ]
             },
             {
               "text": "Her grandparents moved to South Auckland, living at Ōtara and then Māngere.",

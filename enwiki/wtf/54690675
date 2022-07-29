@@ -402,6 +402,11 @@
                   "page": "KFC"
                 },
                 {
+                  "text": "West Auckland",
+                  "type": "internal",
+                  "page": "West Auckland, New Zealand"
+                },
+                {
                   "type": "internal",
                   "page": "Service & Food Workers Union"
                 }
