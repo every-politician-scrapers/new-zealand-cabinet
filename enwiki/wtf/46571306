@@ -12,6 +12,7 @@
     "People from Alofi",
     "Bowls players at the 2014 Commonwealth Games",
     "Bowls players at the 2018 Commonwealth Games",
+    "Bowls players at the 2022 Commonwealth Games",
     "Commonwealth Games competitors for Niue"
   ],
   "sections": [
@@ -460,8 +461,9 @@
         },
         {
           "url": "https://tvniue.com/2021/10/premier-tagelagi-installed-as-the-29th-chancellor-of-usp-at-the-largest-graduation-ceremony-in-niues-history/",
-          "title": "Premier Tagelagi installed as the 28th Chancellor of USP at the largest graduation ceremony in Niue’s history.",
+          "title": "Premier Tagelagi installed as the 28th Chancellor of USP at the largest graduation ceremony in Niue's history.",
           "publisher": "TVNiue",
+          "date": "29 October 2021",
           "access-date": "9 December 2021",
           "template": "citation",
           "type": "web"
